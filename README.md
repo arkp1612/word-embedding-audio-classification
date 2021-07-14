@@ -27,8 +27,8 @@ There are 3 stages of filtering that we performed here and we were able to put 8
 The next step is to develop the collapser function. This function would essentially look at the list we prepared in the tag filtering stage and pick up the "sensible tags" that shoul be associated with tags which do not make sense. It is simply a cleaner function.
 
 _Examples -_
-1._British rock metal -> rock metal_
-2._hiphop -> hip hop_
-3._80s metal -> metal_ etc.
+1. _British rock metal -> rock metal_
+2. _hiphop -> hip hop_
+3. _80s metal -> metal_ etc.
 
 This is essential to our tag cleaning process as we are reducing junk tags significantly and turning meaningless tags to meaningful tags which can be used for improving their representation in the dataset and hence improve model prediction. 

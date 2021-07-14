@@ -17,8 +17,9 @@ We first look at the types of tags and notice that there are some broad categori
 5. Junk tags (favorites, love, zzzzzzzz, etc.)
 
          
-[Unique tag list](http://millionsongdataset.com/sites/default/files/lastfm/lastfm_unique_tags.txt) contains the list of all unique tags that occur in the dataset. The filtered tag dictionery is attached in this repository and the code used to do that is in the tag_filtering.py file.
+[Unique tag list](http://millionsongdataset.com/sites/default/files/lastfm/lastfm_unique_tags.txt) contains the list of all unique tags that occur in the dataset. 
 
+The filtered tag dictionery is attached in this repository in the `categorized_tags.txt` and can be replicated using the `tag_filtering.py` file.
 
 There are 3 stages of filtering that we performed here and we were able to put 80% of the tags into categories. 20% junk tags out of a total of 522367 tags still contain some important music related tags like the artist names but they are left for now. The 80% filted tags check for the presence of emotions, descriptives, genres and numbers in the tags and classify into categories. Also, we use a typo correction algorithm which uses the Jarowinkler similarity criteria for identifying typos. If the Jrowinkler similarity score is greater than 0.9 only then we decide to classify the tag into a category. This value was selected on the basis of some experiments and we decided this made sense. This argument can be changed if you are trying to replicate the code using the "score_level" argument. 
 

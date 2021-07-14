@@ -21,3 +21,14 @@ We first look at the types of tags and notice that there are some broad categori
 
 
 There are 3 stages of filtering that we performed here and we were able to put 80% of the tags into categories. 20% junk tags out of a total of 522367 tags still contain some important music related tags like the artist names but they are left for now. The 80% filted tags check for the presence of emotions, descriptives, genres and numbers in the tags and classify into categories. Also, we use a typo correction algorithm which uses the Jarowinkler similarity criteria for identifying typos. If the Jrowinkler similarity score is greater than 0.9 only then we decide to classify the tag into a category. This value was selected on the basis of some experiments and we decided this made sense. This argument can be changed if you are trying to replicate the code using the "score_level" argument. 
+
+
+## Collapsing function
+The next step is to develop the collapser function. This function would essentially look at the list we prepared in the tag filtering stage and pick up the "sensible tags" that shoul be associated with tags which do not make sense. It is simply a cleaner function.
+
+_Examples - 
+1.British rock metal -> rock metal
+2.hiphop -> hip hop
+3.80s metal -> metal_ etc.
+
+This is essential to our tag cleaning process as we are reducing junk tags significantly and turning meaningless tags to meaningful tags which can be used for improving their representation in the dataset and hence improve model prediction. 

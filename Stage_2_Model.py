@@ -80,8 +80,11 @@ def stage_2_model():
         input_tensor = features_dict['tags']
         idxs = tf.cast(table.lookup(input_tensor),tf.int64)
         idxs = tf.boolean_mask(idxs,tf.math.less(idxs, top))
-
-        features_dict['tags'] = tf.clip_by_value(tf.reduce_max(tf.one_hot(idxs,depth=top, on_value=1, off_value=0),axis=0),0,1)
+        hot_encodes = tf.one_hot(idxs,depth=top, on_value=1, off_value=0)
+        hot_encodes_as_vector = tf.reshape(hot_encodes, [-1])
+        zero_padding = tf.zeros([top * top] - tf.shape(hot_encodes_as_vector), dtype=hot_encodes.dtype)
+        hot_encodes_padded = tf.concat([hot_encodes_as_vector, zero_padding], 0)
+        features_dict['tags'] = tf.reshape(hot_encodes_padded, [top, top])
 
         return features_dict
     def generate_tag_num_dict():
@@ -388,3 +391,6 @@ def stage_2_model():
                                  window_length = window_length, window_random = window_random, 
                                  num_mels = num_mels, num_tags = num_tags,
                                  repeat = repeat, as_tuple = as_tuple)                     
+
+
+

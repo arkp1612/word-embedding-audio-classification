@@ -8,7 +8,8 @@ import numpy as np
 import os
 import pandas as pd
 from tqdm import tqdm
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"]="1"
+
 
 #------------------Genreating datasets-----------------------
 def _waveform_parse_function(example_proto,feature_description):
@@ -33,7 +34,7 @@ def cleaner_func(features_dict):
     return features_dict
 
 def dict_generator():
-    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/sensible_tags_encoding.txt')
+    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/word_embedding_encoding.txt')
     with urllib.request.urlopen(req) as response:
          the_page = response.read()
 
@@ -192,7 +193,7 @@ def _tuplify(features_dict, which_tags=None):
 
 
 
-def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=32, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
+def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=8, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
 
         AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.string)} # tags will be added just below
 
@@ -248,7 +249,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
         dataset = dataset.map(lambda x: _window(audio_format)(x, sample_rate, window_length, window_random), num_parallel_calls=tf.data.experimental.AUTOTUNE)
 
         # batch
-        dataset = dataset.batch(32, drop_remainder=True)
+        dataset = dataset.batch(batch_size, drop_remainder=True)
 
         # normalize data
         if audio_format == 'log-mel-spectrogram':
@@ -271,7 +272,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
 
 
 
-def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=32, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
+def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=8, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
     tfrecords = []
 
     for file in os.listdir(os.path.expanduser(tfrecords_dir)):
@@ -334,7 +335,6 @@ def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_sp
 
     return [dataset_final_train,dataset_final_valid,dataset_final_test]
 
-
 def frontend_wave(input):
     ''' Create the frontend model for waveform input. '''
 
@@ -385,7 +385,7 @@ def frontend_wave(input):
     exp_dim = tf.keras.layers.Lambda(lambda x: tf.expand_dims(x, [3]), name='expdim2_wave')(pool6)
     return exp_dim
 
-def frontend_log_mel_spect(input, y_input=96, num_filts=32):
+def frontend_log_mel_spect(input, y_input=128, num_filts=32):
     ''' Create the frontend model for log-mel-spectrogram input. '''
     
     initializer = tf.keras.initializers.VarianceScaling()
@@ -532,7 +532,7 @@ def backend(input, num_output_neurons, num_units=1024):
     return tf.keras.layers.Dense(activation='sigmoid', units=num_output_neurons,
                  kernel_initializer=initializer, name='dense2_back')(dense_dropout)
 
-def build_model(frontend_mode, num_output_neurons=50, y_input=96, num_units=500, num_filts=16, batch_size=32):
+def build_model(frontend_mode, num_output_neurons=50, y_input=128, num_units=500, num_filts=16, batch_size=8):
     ''' Generate the final model by combining frontend and backend.
     
     Parameters
@@ -576,9 +576,11 @@ def build_model(frontend_mode, num_output_neurons=50, y_input=96, num_units=500,
 
 
 if __name__== "__main__":
-    train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
+    
+    train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/log-mel-complete','log-mel-spectrogram')
+
     log_dir = os.getcwd()
-    log_dir = os.path.join(os.path.expanduser(log_dir), 'waveform_stage_2')
+    log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectogram_stage_3',)
 
     callbacks = [
         tf.keras.callbacks.ModelCheckpoint(
@@ -606,7 +608,6 @@ if __name__== "__main__":
             min_delta = 0,
             restore_best_weights = True,
             verbose = 1,
-            patience = 3
         ),
 
         tf.keras.callbacks.ReduceLROnPlateau(
@@ -619,18 +620,19 @@ if __name__== "__main__":
         ),
     ]
 
-    model = build_model('waveform')
+    model = build_model('log-mel-spectrogram')
 
     optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
     model.compile(optimizer=optimizer,loss=tf.keras.losses.BinaryCrossentropy(from_logits=False, reduction=tf.keras.losses.Reduction.SUM), metrics=[[tf.keras.metrics.AUC(curve='ROC', name='AUC-ROC'), tf.keras.metrics.AUC(curve='PR', name='AUC-PR')]])
 
+
     history = model.fit(train_ds,validation_data=valid_ds ,verbose=2,epochs=20,callbacks=callbacks)
 
     hist_df = pd.DataFrame(history.history) 
-
     hist_json_file = os.path.join(log_dir,'history.json') 
     with open(hist_json_file, mode='w') as f:
         hist_df.to_json(f)
+
 
     metric_1 = tf.keras.metrics.AUC(name='ROC_AUC',
                                         curve='ROC',
@@ -646,6 +648,6 @@ if __name__== "__main__":
             metric_2.update_state(label_batch, logits)
 
     directory = os.path.join(os.getcwd(),'test')
-    with open(os.path.join(directory,'stage_2_model_waveform_test.txt'), 'w') as f:
+    with open(os.path.join(directory,'stage_3_model_log-mel_test.txt'), 'w') as f:
         f.write('ROC_AUC: {} ; PR_AUC: {}'.format(np.round(metric_1.result().numpy()*100, 2), np.round(metric_2.result().numpy()*100, 2)))
 

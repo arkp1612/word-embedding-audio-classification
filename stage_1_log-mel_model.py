@@ -8,6 +8,7 @@ import numpy as np
 import os
 import pandas as pd
 from tqdm import tqdm
+os.environ["CUDA_VISIBLE_DEVICES"]="1"
 
 
 #------------------Genreating datasets-----------------------
@@ -543,7 +544,7 @@ def build_model(frontend_mode, num_output_neurons=50, y_input=128, num_units=500
 
 if __name__== "__main__":
 
-    train_ds,valid_ds,test_ds = generate_datasets_from_dir('tfrecord','log-mel-spectrogram')
+    train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/log-mel-complete','log-mel-spectrogram')
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectrogram_stage_1',)
 
@@ -591,7 +592,7 @@ if __name__== "__main__":
     optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
     model.compile(optimizer=optimizer,loss=tf.keras.losses.BinaryCrossentropy(from_logits=False, reduction=tf.keras.losses.Reduction.SUM), metrics=[[tf.keras.metrics.AUC(curve='ROC',name='AUC-ROC'), tf.keras.metrics.AUC(curve='PR',name='AUC-PR')]])
 
-    history = model.fit(train_ds,validation_data=valid_ds ,verbose = 2,epochs=1,callbacks=callbacks)
+    history = model.fit(train_ds,validation_data=valid_ds ,verbose = 2,epochs=20,callbacks=callbacks)
 
     hist_df = pd.DataFrame(history.history) 
     hist_json_file = os.path.join(log_dir,'history.json') 

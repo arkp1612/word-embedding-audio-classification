@@ -8,7 +8,7 @@ import numpy as np
 import os
 import pandas as pd
 from tqdm import tqdm
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 #------------------Genreating datasets-----------------------
 def _waveform_parse_function(example_proto,feature_description):
@@ -192,7 +192,7 @@ def _tuplify(features_dict, which_tags=None):
 
 
 
-def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=32, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
+def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=16, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
 
         AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.string)} # tags will be added just below
 
@@ -248,7 +248,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
         dataset = dataset.map(lambda x: _window(audio_format)(x, sample_rate, window_length, window_random), num_parallel_calls=tf.data.experimental.AUTOTUNE)
 
         # batch
-        dataset = dataset.batch(32, drop_remainder=True)
+        dataset = dataset.batch(batch_size, drop_remainder=True)
 
         # normalize data
         if audio_format == 'log-mel-spectrogram':
@@ -271,7 +271,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
 
 
 
-def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=32, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
+def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=16, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
     tfrecords = []
 
     for file in os.listdir(os.path.expanduser(tfrecords_dir)):
@@ -532,7 +532,7 @@ def backend(input, num_output_neurons, num_units=1024):
     return tf.keras.layers.Dense(activation='sigmoid', units=num_output_neurons,
                  kernel_initializer=initializer, name='dense2_back')(dense_dropout)
 
-def build_model(frontend_mode, num_output_neurons=50, y_input=96, num_units=500, num_filts=16, batch_size=32):
+def build_model(frontend_mode, num_output_neurons=50, y_input=96, num_units=500, num_filts=16, batch_size=16):
     ''' Generate the final model by combining frontend and backend.
     
     Parameters
@@ -579,6 +579,7 @@ if __name__== "__main__":
     train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'waveform_stage_2')
+    print("Datasets built")
 
     callbacks = [
         tf.keras.callbacks.ModelCheckpoint(
@@ -620,10 +621,10 @@ if __name__== "__main__":
     ]
 
     model = build_model('waveform')
-
+    print("model built")
     optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
     model.compile(optimizer=optimizer,loss=tf.keras.losses.BinaryCrossentropy(from_logits=False, reduction=tf.keras.losses.Reduction.SUM), metrics=[[tf.keras.metrics.AUC(curve='ROC', name='AUC-ROC'), tf.keras.metrics.AUC(curve='PR', name='AUC-PR')]])
-
+    print("-----training-----")
     history = model.fit(train_ds,validation_data=valid_ds ,verbose=2,epochs=20,callbacks=callbacks)
 
     hist_df = pd.DataFrame(history.history) 

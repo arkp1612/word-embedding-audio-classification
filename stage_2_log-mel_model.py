@@ -8,7 +8,7 @@ import numpy as np
 import os
 import pandas as pd
 from tqdm import tqdm
-
+os.environ["CUDA_VISIBLE_DEVICES"]="1"
 
 
 #------------------Genreating datasets-----------------------
@@ -193,7 +193,7 @@ def _tuplify(features_dict, which_tags=None):
 
 
 
-def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=64, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
+def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=16, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
 
         AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.string)} # tags will be added just below
 
@@ -249,7 +249,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
         dataset = dataset.map(lambda x: _window(audio_format)(x, sample_rate, window_length, window_random), num_parallel_calls=tf.data.experimental.AUTOTUNE)
 
         # batch
-        dataset = dataset.batch(64, drop_remainder=True)
+        dataset = dataset.batch(batch_size, drop_remainder=True)
 
         # normalize data
         if audio_format == 'log-mel-spectrogram':
@@ -272,7 +272,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
 
 
 
-def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=64, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
+def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=16, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
     tfrecords = []
 
     for file in os.listdir(os.path.expanduser(tfrecords_dir)):
@@ -532,7 +532,7 @@ def backend(input, num_output_neurons, num_units=1024):
     return tf.keras.layers.Dense(activation='sigmoid', units=num_output_neurons,
                  kernel_initializer=initializer, name='dense2_back')(dense_dropout)
 
-def build_model(frontend_mode, num_output_neurons=50, y_input=128, num_units=500, num_filts=16, batch_size=64):
+def build_model(frontend_mode, num_output_neurons=50, y_input=128, num_units=500, num_filts=16, batch_size=16):
     ''' Generate the final model by combining frontend and backend.
     
     Parameters
@@ -577,7 +577,7 @@ def build_model(frontend_mode, num_output_neurons=50, y_input=128, num_units=500
 
 if __name__== "__main__":
     
-    train_ds,valid_ds,test_ds = generate_datasets_from_dir('tfrecord','log-mel-spectrogram')
+    train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/log-mel-complete','log-mel-spectrogram')
 
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectogram_stage_2',)

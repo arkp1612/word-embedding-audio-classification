@@ -365,7 +365,7 @@ king of pop	pop
 dance around your bedroom	dance
 soullll music	soul
 deutsch pop	pop
-rock français	rock
+rock franÃ§ais	rock
 instrumental guitar	instrumental
 lets dance	dance
 gw metal	metal
@@ -489,7 +489,7 @@ mj-jazzin giants	jazz
 blue eyed soul	soul
 pop en espanol	pop
 rock chileno	rock
-rock español	rock
+rock espaÃ±ol	rock
 spanish indie	indie
 stax soul	soul
 rnb-soul	soul
@@ -1241,7 +1241,7 @@ free soul	soul
 great instrumentals	instrumental
 instrumental christmas	instrumental
 moses r n b rock n roll	rock
-nü-metal	metal
+nÃ¼-metal	metal
 soul for grady	soul
 speedrock	rock
 1052 soul	soul
@@ -11854,7 +11854,7 @@ true-soul	soul
 tuggummipop	pop
 turntable soul	soul
 typ rock	rock
-télépopmusik	pop
+tÃ©lÃ©popmusik	pop
 uber jazz	jazz
 uk dance top 40	dance
 ukrainian folk	folk
@@ -18015,7 +18015,7 @@ kurewski thrash metal	metal
 kuscheljazz	jazz
 kustom rockabilly	rock
 kvinderock	rock
-könsrock	rock
+kÃ¶nsrock	rock
 l - rockabilly	rock
 l cohen dance me	dance
 la mas grande del rock	rock
@@ -19375,7 +19375,7 @@ rockwilder	rock
 rockwilder production	rock
 rocky horror	rock
 rocky post rock	rock
-rock´n´roll	rock
+rockÂ´nÂ´roll	rock
 rolas punky	punk
 rolfrock	rock
 roll this rock	rock
@@ -30895,7 +30895,7 @@ kyoto jazz massive eclipse jazzsambainstrumentalsym	instrumental
 kyoto jazz massive- eclipse	jazz
 kyoto jazz massive-subsream	jazz
 kyoto jazz project	jazz
-kölschrock	rock
+kÃ¶lschrock	rock
 l - folk	folk
 l - southern rock	rock
 l epic metal	metal
@@ -32426,7 +32426,7 @@ nusantara-folk	folk
 nwobhm 80s metal	metal
 ny awesome soul	soul
 nyc hipster punk	punk
-nü metal	metal
+nÃ¼ metal	metal
 o-o fkin dance	dance
 oar dave matthews rock	rock
 oblique punk	punk
@@ -37665,7 +37665,7 @@ zu poppig	pop
 zum abrocken	rock
 zwariowany nu jazz	jazz
 zz top numetalcover of low rider	metal
-´rock	rock
+Â´rock	rock
 ainstrmental	instrumental
 alternate lyrics	alternative rock
 alternate versions	alternative rock
@@ -56027,7 +56027,7 @@ zum chilln	chill
 90x	90s
 90z	90s
 90z fo sho	90s
-90´s	90s
+90Â´s	90s
 00s	2000s
 :60s	60s
 :70s	70s

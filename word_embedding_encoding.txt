@@ -56219,7 +56219,6 @@ zenduke 80s	80s
 :00s	2000s
 1 delikatnie	90s
 12345678	60s
-2000s	2000s
 2003	2000s
 2008 fave	favorite
 40 love	loved
@@ -56234,14 +56233,12 @@ zenduke 80s	80s
 50s retro from the 70s	70s
 50s to 80s	80s
 60 80s	80s
-60s	60s
 60s 70s	60s
 60s 70s 80s 90s 00s	80s
 60s 70s and 80s	80s
 60s 80s	60s
 60s and 70s	60s
 70 80s	80s
-70s	70s
 70s 80s	80s
 70s 80s 90s	70s
 70s and 80s	80s
@@ -56251,7 +56248,6 @@ zenduke 80s	80s
 70s come 80s	80s
 77davez 70s	70s
 80 90s	90s
-80s	80s
 80s 70s	80s
 80s 90s	80s
 80s 90s 00s	90s
@@ -56259,7 +56255,6 @@ zenduke 80s	80s
 80s and 90s rnb	80s
 80s tubeway army	80s
 80s y 90s	90s
-90s	90s
 90s 00s	90s
 90s to 2010	90s
 a god singer	singer songwriter
@@ -56276,7 +56271,6 @@ acid jazz	jazz
 acid rock	rock
 acid techno	electronica
 acordeon	2000s
-acoustic	acoustic
 acoustic blues	acoustic
 acoustic music	acoustic
 acoustic rock	rock
@@ -56316,7 +56310,6 @@ alluring	sexy
 alright	good
 alterative	alternative
 alternate	alternative
-alternative	alternative
 alternative country	alternative
 alternative dance	dance
 alternative folk	folk
@@ -56324,7 +56317,6 @@ alternative hip hop	alternative rock
 alternative metal	alternative rock
 alternative pop	alternative rock
 alternative punk	alternative rock
-alternative rock	alternative rock
 amaze fave	favorite
 amazed	happy
 amazin 90s	90s
@@ -56338,7 +56330,6 @@ ambient techno	electronica
 ambient trance	electronica
 ambitious	energetic
 america the 70s	70s
-american	american
 american primitive guitar	american
 amiable	energetic
 amigosan	70s
@@ -56362,7 +56353,6 @@ anguished	sad
 animo	70s
 annoying	funny
 anos 80s	80s
-anti folk	folk
 anxious	happy
 apathetic	sad
 ape loves	loved
@@ -56431,7 +56421,6 @@ avant garde pop	pop
 avivaldi	70s
 awake	calm
 awed	happy
-awesome	awesome
 awful	sad
 awkward	funny
 aymees fave track	favorite
@@ -56459,7 +56448,6 @@ bbc	british
 beatboxing	electronica
 beatific	dreamy
 beauteous	beautiful
-beautiful	beautiful
 beautiful music	beautiful
 bebop	jazz
 been love	loved
@@ -56494,7 +56482,6 @@ blond	sexy
 blonde	sexy
 blue	dark
 blue eyed	dark
-blue eyed soul	soul
 bluegrass	jazz
 blues	jazz
 blues rock	rock
@@ -56548,7 +56535,6 @@ brill building pop	pop
 brilliant	great
 bring bac 80s n 90s	90s
 brisk	intense
-british	british
 british blues	british
 british invasion	british
 brits	british
@@ -56585,7 +56571,6 @@ california love	loved
 california mf	american
 california u	american
 callous	sad
-calm	calm
 calming	calm
 campy	funny
 canada	british
@@ -56640,9 +56625,7 @@ childhood loves	loved
 childish	funny
 childlike	dreamy
 children of love	loved
-chill	chill
 chilling	haunting
-chillout	chillout
 chillwave	electronica
 chilly	cool
 chinese	british
@@ -56674,7 +56657,6 @@ classic	classic rock
 classic blues	classic rock
 classic female blues	classic rock
 classic jazz	jazz
-classic rock	classic rock
 classical music	jazz
 classy	beautiful
 claustrophobic	haunting
@@ -56726,7 +56708,6 @@ continuous	intense
 contralto	singer songwriter
 convenient	alternative
 conventional	alternative
-cool	cool
 cool jazz	jazz
 corny	funny
 coronation street	party
@@ -56763,11 +56744,7 @@ dads fave	favorite
 daffy	funny
 daft	funny
 dainty	beautiful
-dance	dance
 dance music	dance
-dance pop	pop
-dance punk	dance
-dance rock	rock
 danceable	electronica
 dancfloor	90s
 dancin tunes	oldies
@@ -56775,7 +56752,6 @@ dancing	dance
 dandy	favorite
 danish	american
 dank	dark
-dark	dark
 dark ambient	dark
 dark cabaret	dark
 dark electro	dark
@@ -56889,7 +56865,6 @@ dreadful	sad
 dream esque	dreamy
 dream pop	pop
 dreamlike	dreamy
-dreamy	dreamy
 dreary	dreamy
 drippy	dreamy
 driwe driwe	60s
@@ -56942,13 +56917,11 @@ electro hop	electronica
 electro punk	punk
 electroclash	punk
 electromagnetic	electronic
-electronic	electronic
 electronic art music	electronic
 electronic body music	electronic
 electronic dance	electronic
 electronic music	electronic
 electronic rock	rock
-electronica	electronica
 electropop	electronica
 elegaic	melancholic
 elegant	beautiful
@@ -56972,7 +56945,6 @@ enchanted	beautiful
 enchanting	beautiful
 endearing	funny
 endless	intense
-energetic	energetic
 energized	energetic
 english	british
 engrossing	haunting
@@ -57084,7 +57056,6 @@ fave tunes	oldies
 fave tunez	favorite
 fave vibes	favorite
 faves	favorite
-favorite	favorite
 favorito loves loves	loved
 favy fave and the faves	favorite
 fearful	sad
@@ -57127,7 +57098,6 @@ flugelhorn	jazz
 fm 70s	70s
 fmera fave	favorite
 foggy	dark
-folk	folk
 folk hop	folk
 folk metal	folk
 folk music	folk
@@ -57184,7 +57154,6 @@ funkiest	favorite
 funky	dreamy
 funnier	funny
 funniest	funny
-funny	funny
 furious	happy
 fusion jazz	jazz
 future jazz	jazz
@@ -57248,7 +57217,6 @@ glorious	beautiful
 glum	sad
 goeie 80s	80s
 gogen solncev	70s
-good	good
 good for nothing	good
 good natured	good
 goofy	funny
@@ -57271,7 +57239,6 @@ grammy nominee	singer songwriter
 grateful	happy
 gravar	2000s
 gray	dark
-great	great
 greatest	great
 greece	british
 grieving	sad
@@ -57323,8 +57290,6 @@ handsome	beautiful
 happier	happy
 happiest	happy
 happinezz	2000s
-happy	happy
-happy go lucky	happy
 happy hardcore	happy
 hard	good
 hard rock	rock
@@ -57339,7 +57304,6 @@ harsh	intense
 hated	loved
 hateful	sad
 haunted	haunting
-haunting	haunting
 hawaii	american
 hawt	sexy
 hawt 80s	80s
@@ -57396,8 +57360,6 @@ horrid	sad
 horrific	sad
 horrifying	sad
 horror punk	punk
-hot	hot
-hot blooded	hot
 hotter	hot
 hottest	hot
 houd van dit	2000s
@@ -57474,11 +57436,9 @@ indescribable	awesome
 india irie	british
 indian	british
 indian pop	pop
-indie	indie
 indie folk	indie
 indie music	indie
 indie pop	pop
-indie rock	indie rock
 indifferent	sad
 indignant	sad
 individualistic	energetic
@@ -57507,14 +57467,12 @@ inspiration to love	loved
 inspirational	energetic
 inspirations of love	loved
 inspiring	great
-instrumental	instrumental
 instrumental jazz	instrumental
 instrumental rock	rock
 instrumentalist	singer songwriter
 integral	instrumental
 intelligent	energetic
 intelligent dance music	dance
-intense	intense
 intensifying	intense
 intensive	intense
 interactive	electronic
@@ -57553,8 +57511,6 @@ italy	british
 its america	american
 izle	2000s
 izolejszyn	70s
-j pop	pop
-j rock	rock
 j4	2000s
 jailbait	sexy
 jam rock	rock
@@ -57572,7 +57528,6 @@ japanese pop	pop
 jarring	haunting
 jaunty	dreamy
 jays love	loved
-jazz	jazz
 jazz blues	jazz
 jazz funk	jazz
 jazz fusion	jazz
@@ -57705,7 +57660,6 @@ louisiana swamp pop	pop
 lounge music	jazz
 lousy	good
 lovable	funny
-love	loved
 love anamor	loved
 love and nostalgia	loved
 love artist	loved
@@ -57779,13 +57733,11 @@ love ya	loved
 love you	loved
 love you save	loved
 loveable	funny
-loved	loved
 lovelier	beautiful
 loveliest	beautiful
 lovelorn	melancholic
 lovely	beautiful
 lovers rock	rock
-loves	loved
 loves gons	loved
 loves her	loved
 loves jesus	loved
@@ -57847,10 +57799,8 @@ medieval metal	metal
 medieval music	jazz
 mediocre	good
 meditative	melancholic
-melancholic	melancholic
 melancholy	melancholic
 mellifluous	mellow
-mellow	mellow
 melodic	acoustic
 melodic black metal	metal
 melodic death metal	metal
@@ -57872,7 +57822,6 @@ merf loves	loved
 merry	happy
 mesmerizing	dreamy
 messy	sad
-metal	metal
 metalcore	punk
 metallic	metal
 metallic hardcore	metal
@@ -57955,7 +57904,6 @@ negro	american
 nejno	80s
 neo classical metal	metal
 neo goth	punk
-neo rockabilly	punk
 neo soul	soul
 neoclassical metal	metal
 neoclassical music	jazz
@@ -58028,7 +57976,6 @@ oh love	loved
 ohio	american
 oklahoma	american
 oldest	favorite
-oldies	oldies
 ominous	haunting
 omnicore	2000s
 on love	loved
@@ -58075,7 +58022,6 @@ pakistan	british
 pale	dark
 papapapa	80s
 papitos 80s	80s
-party	party
 passable	good
 passionate	energetic
 pathetic	sad
@@ -58142,7 +58088,6 @@ polished	energetic
 political	party
 poofy	sexy
 poor	good
-pop	pop
 pop folk	pop
 pop metal	pop
 pop music	pop
@@ -58150,14 +58095,10 @@ pop punk	pop
 pop rap	pop
 pop rock	rock
 pop soul	pop
-pop up	pop
 popular	favorite
 porny	sexy
 portentous	haunting
 positive	good
-post metal	metal
-post punk	punk
-post rock	rock
 power metal	metal
 power pop	pop
 powerful	energetic
@@ -58202,7 +58143,6 @@ puerto rican	american
 puffy	dark
 pulsating	intense
 punchy	mellow
-punk	punk
 punk blues	punk
 punk cabaret	punk
 punk jazz	punk
@@ -58300,15 +58240,12 @@ rnb sax	jazz
 rnb singer	singer songwriter
 robot love	loved
 robust	intense
-rock	rock
 rock and roll	rock
 rock opera	rock
-rock steady	rock
 rockabilly	punk
 rokimpaa	70s
 role	instrumental
 romance	romantic
-romantic	romantic
 romantic classical	romantic
 roots rock	rock
 roots rock reggae	rock
@@ -58326,10 +58263,8 @@ rustic	mellow
 sab 70s	70s
 sab 80s	80s
 saccharine	dreamy
-sad	sad
 saddening	sad
 samba	dance
-samba rock	rock
 sammlung	2000s
 samsky loves	loved
 san franscisco	60s
@@ -58391,7 +58326,6 @@ severe	intense
 sexi love	loved
 sexiest	sexy
 sexxx ay	70s
-sexy	sexy
 sf rubettes	60s
 shadowy	dark
 shaken	calm
@@ -58467,14 +58401,12 @@ sonic	acoustic
 sooth	calm
 soothed	calm
 soothing	mellow
-sophisti pop	pop
 soporific	melancholic
 soppy	dreamy
 sordid	sad
 sorrowful	sad
 sorrowing	sad
 sorry	sad
-soul	soul
 soul blues	soul
 soul jazz	soul
 soul music	soul
@@ -58594,7 +58526,6 @@ symphonic black metal	metal
 symphonic metal	metal
 symphonic rock	rock
 synth funk	electronica
-synth pop	pop
 synthpop	electronica
 syrian	british
 syrupy	dreamy

@@ -607,6 +607,7 @@ if __name__== "__main__":
             min_delta = 0,
             restore_best_weights = True,
             verbose = 1,
+            patience = 10
         ),
 
         tf.keras.callbacks.ReduceLROnPlateau(

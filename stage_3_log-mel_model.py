@@ -578,7 +578,7 @@ def build_model(frontend_mode, num_output_neurons=50, y_input=128, num_units=500
 if __name__== "__main__":
     
     train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/log-mel-complete','log-mel-spectrogram')
-
+    print("Dataset prepared")
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectogram_stage_3',)
 
@@ -608,6 +608,7 @@ if __name__== "__main__":
             min_delta = 0,
             restore_best_weights = True,
             verbose = 1,
+            patience = 10
         ),
 
         tf.keras.callbacks.ReduceLROnPlateau(
@@ -625,7 +626,7 @@ if __name__== "__main__":
     optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
     model.compile(optimizer=optimizer,loss=tf.keras.losses.BinaryCrossentropy(from_logits=False, reduction=tf.keras.losses.Reduction.SUM), metrics=[[tf.keras.metrics.AUC(curve='ROC', name='AUC-ROC'), tf.keras.metrics.AUC(curve='PR', name='AUC-PR')]])
 
-
+    print("------Compiling Model-------")
     history = model.fit(train_ds,validation_data=valid_ds ,verbose=2,epochs=20,callbacks=callbacks)
 
     hist_df = pd.DataFrame(history.history) 

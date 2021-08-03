@@ -255,37 +255,7 @@ def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_sp
 
 
     dataset = []    
-    dataset_final_train = []
-    dataset_final_valid = []
     dataset_final_test = []
-
-    for i in range(int(train_size)):
-        dataset = _generate_datasets(tfrecords[i], audio_format, split=split, which_split=which_split, 
-                             sample_rate = sample_rate, batch_size = batch_size, 
-                             block_length = block_length, cycle_length = cycle_length, shuffle = shuffle, shuffle_buffer_size = shuffle_buffer_size, 
-                             window_length = window_length, window_random = window_random, 
-                             num_mels = num_mels,
-                             repeat = repeat, as_tuple = as_tuple)
-
-        if i == 0:
-            dataset_final_train = dataset
-        else:
-            dataset_final_train = dataset_final_train.concatenate(dataset)
-
-
-    for j in range(int(valid_size)):
-        i = j+int(train_size)    
-        dataset = _generate_datasets(tfrecords[i], audio_format, split=split, which_split=which_split, 
-                             sample_rate = sample_rate, batch_size = batch_size, 
-                             block_length = block_length, cycle_length = cycle_length, shuffle = shuffle, shuffle_buffer_size = shuffle_buffer_size, 
-                             window_length = window_length, window_random = window_random, 
-                             num_mels = num_mels,
-                             repeat = repeat, as_tuple = as_tuple)
-
-        if j == 0:
-            dataset_final_valid = dataset
-        else:
-            dataset_final_valid = dataset_final_valid.concatenate(dataset)
 
     for j in range(int(test_size)):
         i = j+int(train_size)+int(valid_size)  
@@ -303,7 +273,7 @@ def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_sp
 
 
 
-    return [dataset_final_train,dataset_final_valid,dataset_final_test]
+    return dataset_final_test
 
 class AUCPerLabel(tf.keras.metrics.AUC):
 
@@ -423,7 +393,7 @@ class AUCPerLabel(tf.keras.metrics.AUC):
 
 if __name__== "__main__":
     
-    _,_,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
+    test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
     
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'waveform_stage_1',)

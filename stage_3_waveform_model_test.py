@@ -14,7 +14,7 @@ from tensorflow.python.ops import math_ops
 from tensorflow.python.keras.utils import metrics_utils
 
 
-os.environ["CUDA_VISIBLE_DEVICES"]="1"
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
 
 #------------------Genreating datasets-----------------------

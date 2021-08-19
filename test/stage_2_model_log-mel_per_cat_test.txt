@@ -1,9 +1,0 @@
-tags: ['rock', 'pop', 'indie', 'electronic', 'dance', 'alternative rock', 'jazz', 'singer-songwriter', 'metal', 'chillout', 'classic rock', 'soul', 'indie rock', 'electronica', 'folk', 'instrumental', 'punk', 'oldies', 'mellow', 'sexy', 'loved', 'sad', 'happy', 'good', 'romantic', 'melancholic', 'great', 'dark', 'dreamy', 'hot', 'energetic', 'calm', 'funny', 'haunting', 'intense', 'alternative', 'beautiful', 'awesome', 'british', 'chill', 'american', 'cool', 'favorite', 'acoustic', 'party', '2000s', '80s', '90s', '60s', '70s'] ROC_AUC: [77.24 76.43 82.26 87.75 78.77 82.19 88.43 82.5  89.57 78.46 82.32 80.99
- 85.08 86.76 82.8  85.94 84.98 87.37 78.5  72.94 64.23 77.84 71.18 61.42
- 79.78 81.58 63.25 72.67 80.49 67.56 76.45 79.67 70.89 80.64 66.47 77.25
- 75.55 67.79 69.74 73.   67.14 62.38 64.5  82.59 77.75 72.68 82.18 71.58
- 89.61 85.12] ; PR_AUC: [56.8  45.79 41.91 45.46 35.52 26.37 55.26 25.53 53.43 24.15 25.84 34.15
- 27.24 24.39 32.17 32.43 41.36 27.1  19.63 11.17 19.37 11.76  8.47 16.25
- 10.18 11.12  8.83  9.17  9.88  5.23  5.1   5.98  2.59  4.01  1.57 32.68
- 18.39 10.94 11.08 16.99  8.78  8.92 20.85 24.64  9.12 17.95 30.2  14.49
- 29.15 20.63]

@@ -127,3 +127,14 @@ Figures below show the per tag ROC-AUC and PR-AUC on the test set, if the reader
 
 
 ![image](https://user-images.githubusercontent.com/41041168/130160580-69466717-c858-4a11-99b4-cc5f1747b3af.png)
+
+
+## References
+Pons, J., Nieto, O., Prockup, M., Schmidt, E., Ehmann, A., Serra, X.: END-TO-END LEARNING FOR MUSIC AUDIO TAGGING AT SCALE. Proc. of the 19th International Society for Music Information Retrieval Conference (ISMIR). Paris, France (2018)
+
+Kevin Webster, C. H. D. G., Calle Sonne. (2019). Deep learning for music tagging (aka
+"orpheus"). https://github.com/pukkapies/urop2019. GitHub.
+
+Mikolov, T., Chen, K., Corrado, G. & Dean, J. (2013). Efficient estimation of word
+representations in vector space. arXiv preprint arXiv:1301.3781 .
+

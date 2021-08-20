@@ -58,4 +58,72 @@ This is a function we created to looked at the collapsed tags in the stage III o
 
 
 ## The Results
+Figure below shows the training and validation loss across epochs for all model stages for the waveform and spectrogram models. We can see that the validation loss for the mel-spectrogram models is more unstable and we only select the model corresponding to the best epoch. Looking at the graphs, there is some evidence of over-fitting in the model for the waveform architectures, and we again only use the best epoch model specification for our selected model. 
 
+<img width="343" alt="loss" src="https://user-images.githubusercontent.com/41041168/130158603-8cc7dfbc-fc80-4626-aff7-481e82c80f4c.png">
+
+Figures below shows the training and validation ROC-AUC  per epoch for waveform and log-mel spectrogram models for all stages. There is again some evidence of over-fitting for the waveform models. We only select the model corresponding to the best epoch. For the stage I log-mel spectrogram model, the validation ROC-AUC seems to be stabilising after the 5th epoch. For stage II and stage III log-mel spectrogram models, there is some evidence that further training could have improved the model performance since the ROC-AUC is still increasing with each epoch. There is a similar behaviour for the PR-AUC metric for all models.
+
+
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/41041168/130158780-432c5658-7fec-4ac2-b6db-a1b5940e5846.png" width="343" />
+  <img src="https://user-images.githubusercontent.com/41041168/130158786-cf5a8530-a720-4f0b-8972-af8de11c803b.png" width="343" /> 
+</p>
+
+
+Table below show the model performance on the test set for waveform and log-mel spectrogram models for all three stages. We can see that the ROC-AUC metric for both waveform and log-mel spectrogram models is decreasing for stage II and stage III in comparison to stage I. But the PR-AUC is increasing for stage II and stage III for both waveform and log-mel spectrogram models.
+
+
+|**Model Name** |**ROC-AUC**  |**PR-AUC**|
+| ------------- | ------------- |------------- |
+|Stage I Waveform (ours) | 84.39 | 29.41 |
+|Stage II Waveform (ours) |82.07 | 30.11 |
+|Stage III Waveform (ours) | 79.17 | 34.46 |
+|Stage I Log-Mel Spectrogram (ours) | 85.05 | 31.38 |
+|Stage II Log-Mel Spectrogram (ours) | 83.02 | 31.79 |
+|Stage III Log-Mel Spectrogram (ours) | 80.25 | **35.84** |
+|Waveform   (Pons, et al., 2018) | 87.41 | 28.53 |
+|Log-mel-spectrogram   (Pons, et al., 2018) | **88.75** | 31.24|
+
+
+Table below displays the tag category wise average evaluation metrics on the test dataset. We can observe a general decline in the ROC-AUC over the three stages. This can also be attributed to the unbalance in the dataset. And for unbalanced dataset, we know PR-AUC gives a  better evaluation of the model. The PR-AUC shows the maximum improvement for stage III in comparison to stage I for the emotion tags, followed by descriptive tags and then the genre tags. For the numeric tags, Stage II shows the best results. Simple cleaning of tags as shown in Stage II also shows a significant improvement in results in comparison to Stage I.
+
+|   | ROC-AUC |ROC-AUC  | ROC-AUC| PR-AUC |PR-AUC  |PR-AUC   |
+|---|---|---|---|---|---|---|
+**Tag Category** | **Stage I** | **Stage II** | **Stage III** | **Stage I** | **Stage II** |**Stage III** |
+|descriptive | 72.30 | 71.16 | 68.81 | 12.42 | 14.41 | 18.04 |
+|emotion | 74.34 | 73.49 | 70.23 | 7.69 | 10.72 | 14.57 |
+|genre | 85.03 | 83.32 | 81.73 | 35.85 | 36.38 | 40.50 |
+|numeric | 81.40 | 80.23 | 78.81 | 20.80 | 22.48 | 20.74|
+
+
+We have shown that incorporating semantics and adding information to poorly represented tags with similar context helps improve the model PR-AUC metric in a folkonomy. It is observed that the overall increase in the test PR-AUC from stage I to stage III is 17.17% for the waveform model and 14.21% for the log-mel spectrogram model. We know that the waveform model assumes no domain knowledge and Pons et al concluded that the log-mel spectrogram which incorporates the domain knowledge works better for audio classification. There is a higher increase in betterment in model performance for the waveform model so we can say that using word-semantics for this domain knowledge free model shows promise for this approach. The best model was still the log-mel spectrogram model but its performance using word-embeddings did improve in comparison to the baseline model. 
+
+
+
+Figures below show the per tag ROC-AUC and PR-AUC on the test set, if the reader also wishes to examine these.
+
+
+**per tag ROC-AUC metrics for log-mel spectrogram model**
+
+
+![image](https://user-images.githubusercontent.com/41041168/130160385-9c50cce9-8f94-4106-8891-702abe2f4d33.png)
+
+
+**per tag ROC-PR metrics for log-mel spectrogram model**
+
+
+![image](https://user-images.githubusercontent.com/41041168/130160477-3f7d6552-be53-462a-a351-522d7471a301.png)
+
+
+**per tag ROC-AUC metrics for waveform model**
+
+
+![image](https://user-images.githubusercontent.com/41041168/130160549-1a856877-9766-4e8c-8414-92312f412830.png)
+
+
+**per tag PR-AUC metrics for waveform model**
+
+
+![image](https://user-images.githubusercontent.com/41041168/130160580-69466717-c858-4a11-99b4-cc5f1747b3af.png)

@@ -7,6 +7,27 @@ For the purpose of this project, we use the million song dataset. The idea is to
 Since the million song database is derived from a folksonomy, the tags given out by users do not always make sense. Thus it is an important first step to study the nature of tags and remove any unnecessary tags which will lead to faulty working of the model in the later stages. Most models which have used the million song dataset so far have used the top 50 or 100 or more tags but not all of them. The first step that we have considered here is to filter these tags into broader categories, so we can also compare the overall model performance under different types of tags. This is discuessed in the next section. 
 
 
+## Setting up the repository
+Using this repository is pretty easy. You can simply `git clone https://github.com/arkp1612/word-embedding-audio-classification.git` to obtain all files locally and run the python scripts. They have been well separated, so you don't need to fuss much wworrying about any additional argumemts etc. The requirements are mentioned below. The repsoitory also assumes the input files from the million song dataset are already stored as TFRecord files in the machine that you use this repository on. You will probably need to change the paths to the right destination folder depending on your needs. For more information on how to generate TFRecords, see [TFRecords Documentation](https://www.tensorflow.org/tutorials/load_data/tfrecord).
+
+
+## Requirements 
+The following are the packages used for this reseach along with their versions.
+
+`
+Python 3.6 or above
+One or more CUDA-enabled GPUs
+Mac or Linux environment
+Tensorflow version: 2.3.0
+Requests version: 2.25.1
+Numpy version: 1.18.5
+Pandas version: 1.1.0
+OS Module
+Urllib Module
+TQDM Module
+Matplotlib.pyplot Module for plotting`
+
+
 ## Tag filtering 
 We first look at the types of tags and notice that there are some broad categories of tags and we first create a dictionary to classify these tags. We hope that this would easily help us pick tag category and check which category works the best with word embeddings. Our bet is that the emotion tags would work best for the word embeddings. The tag categories identified were - 
 
@@ -25,7 +46,6 @@ There are 3 stages of filtering that we performed here and we were able to put 8
 
 
 We train the models for 50 tags - which are seacted to represent genres, decriptions, emotions and numeric tags. The selected 18 genre tags are - 'rock', 'pop', 'indie', 'electronic', 'dance', 'alternative rock', 'jazz', 'singer-songwriter', 'metal', 'chillout', 'classic rock', 'soul', 'indie rock', 'electronica', 'folk', 'instrumental', 'punk', 'oldies'; the 18 selected emotion tags are - 'mellow', 'sexy', 'loved', 'sad', 'happy', 'good', 'romantic', 'melancholic', 'great', 'dark', 'dreamy','hot', 'energetic', 'calm', 'funny', 'haunting', 'intense', 'alternative'; the 9 selected descriptive tags are - 'beautiful', 'awesome', 'british', 'chill', 'american', 'cool', 'favorite', 'acoustic', 'party' and finally the numeric tags are - '2000s', '80s', '90s', '60s', '70s'. This is also done to compare the performance of the word-embeddings concept for each ctaegory of the tags.
-
 
 ## Collapsing function - Stage II
 The next step is to develop the collapser function. This function would essentially look at the list we prepared in the tag filtering stage and pick up the "sensible tags" that shoul be associated with tags which do not make sense. It is simply a cleaner function.
@@ -48,7 +68,8 @@ On running this python script given in `word_embedder.py` you get the results st
 
 
 ## The Models
-The scripts for the models run are stored in the `Models` folder. To replicate any result, you just need to run the python script corresponding to the audio input format and the stage number which is defined in the model name. 
+The scripts for the models run are stored in the `Models` folder. To replicate any result, you just need to run the python script corresponding to the audio input format and the stage number which is defined in the model name. There models are directly taken from Pons et al. (2018) optimised for the latest tensorflow version. You can check [End-to-end learning for music audio tagging at scale](https://github.com/jordipons/music-audio-tagging-at-scale-models) for the original implementation and [Orpheus](https://github.com/pukkapies/urop2019) for the implementation on latest tensorflow version for more details of the model. 
+
 
 ## Replicating results on the test datasets
 The scripts for these are stored in the `Per Category Metrics Evaluation Code` folder. To replicate any result, just run the python script corresponding to the audio input format and stage number. 

@@ -14,18 +14,18 @@ Using this repository is pretty easy. You can simply `git clone https://github.c
 ## Requirements 
 The following are the packages used for this reseach along with their versions.
 
-`
-Python 3.6 or above
-One or more CUDA-enabled GPUs
-Mac or Linux environment
-Tensorflow version: 2.3.0
-Requests version: 2.25.1
-Numpy version: 1.18.5
-Pandas version: 1.1.0
-OS Module
-Urllib Module
-TQDM Module
-Matplotlib.pyplot Module for plotting`
+
+* Python 3.6 or above
+* One or more CUDA-enabled GPUs
+* Mac or Linux environment
+* Tensorflow version: 2.3.0
+* Requests version: 2.25.1
+* Numpy version: 1.18.5
+* Pandas version: 1.1.0
+* OS Module
+* Urllib Module
+* TQDM Module
+* Matplotlib.pyplot Module for plotting
 
 
 ## Tag filtering 

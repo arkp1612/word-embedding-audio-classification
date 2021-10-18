@@ -58554,7 +58554,6 @@ unforgettable	awesome
 unforgivable	sad
 unforgiving	intense
 unfortunate	sad
-unhappy	happy
 unhurried	mellow
 unimpressed	happy
 unimpressive	good

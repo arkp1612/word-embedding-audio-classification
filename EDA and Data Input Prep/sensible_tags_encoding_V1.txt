@@ -5,6 +5,7 @@ electronic	electronic
 dance	dance
 alternative rock	alternative rock
 jazz	jazz
+singer-songwriter	singer-songwriter
 metal	metal
 chillout	chillout
 classic rock	classic rock
@@ -99,6 +100,7 @@ college rock	rock
 true metal	metal
 performed on top of the pops	pop
 trash metal	metal
+singer-songwriters	singer-songwriter
 electric rock instrumentation	rock
 nujazz	jazz
 indietronic	indie
@@ -120,6 +122,7 @@ basic rock song structures	rock
 modern jazz	jazz
 80s soul	soul
 pop singles	pop
+singer-songwritergdchill	singer-songwriter
 rocket sauce	rock
 my jazz	jazz
 jazz female vocalist tag	jazz
@@ -137,16 +140,19 @@ instrumental hip-hop	instrumental
 ska-punk	punk
 british punk	punk
 british folk	folk
+female singer-songwriter	singer-songwriter
 80dance	dance
 smooth jazz tag	jazz
 jazz vocal tag	jazz
 dancefloor	dance
 traditional metal	metal
+m singer-songwriter	singer-songwriter
 90s pop	pop
 prog-rock	rock
 rock and roll mia favoritos	rock
 sleazy rock	rock
 makes me wanna dance	dance
+f singer-songwriter	singer-songwriter
 lollipop	pop
 jazzdeluxe	jazz
 fave indie pop	indie
@@ -611,6 +617,7 @@ acoustic pop	pop
 traditional folk	folk
 50s pop and rock	pop
 nu-soul	soul
+female singer-songwriters	singer-songwriter
 neo rockabilly	rock
 rock italiano	rock
 favouriterock	rock
@@ -1092,6 +1099,7 @@ cool rock	rock
 hard rock to folk and everything in between	folk
 inrock	rock
 jazz ando	jazz
+male singer-songwriters	singer-songwriter
 plastic pop	pop
 psychometal	metal
 70's rock	rock
@@ -1514,6 +1522,7 @@ coutry rock	rock
 dance:salsa	dance
 ebondance	dance
 gb1 soulful	soul
+german singer-songwriter	singer-songwriter
 metal compilation	metal
 perfect pop song	pop
 rock in my veins	rock
@@ -2438,6 +2447,7 @@ jazzykson	jazz
 jazzysrnbpop	jazz
 jzjazz	jazz
 lite rock classix	rock
+mellow singer-songwriter	singer-songwriter
 metal and funny music	metal
 misc rock	rock
 murder metal	metal
@@ -2659,6 +2669,7 @@ cuban jazz	jazz
 dj dance	dance
 e-rock	rock
 espaniola pop	pop
+general singer-songwriter	singer-songwriter
 lady metal	metal
 mullet rock	rock
 psycho metal tag radio	metal
@@ -3283,6 +3294,7 @@ i like rock	rock
 it just rocks	rock
 jazzig	jazz
 liarts opera metal	metal
+male singer-songwriter	singer-songwriter
 metal goth	metal
 my dance tracks	dance
 new orleans metal	metal
@@ -3458,6 +3470,7 @@ liberty rock radio	rock
 make me jump up and dance	dance
 maken pop radio	pop
 metal bom	metal
+my favorite singer-songwriters	singer-songwriter
 northern metal	metal
 pete rock	rock
 popflowers	pop
@@ -3552,6 +3565,7 @@ easy listen indie	indie
 erisee jazz	jazz
 ethereal folk	folk
 fav 80s rock	rock
+favorite unique female singer-songwriter	singer-songwriter
 folk and singer songwriter	folk
 folkradio	folk
 folks	folk
@@ -3903,6 +3917,7 @@ rockmusik	rock
 schrammel rock	rock
 second wave punk	punk
 shake the danceleg	dance
+singer-songwriter favourites	singer-songwriter
 slam dancehall	dance
 slavic pagan metal	metal
 sludge rock	rock
@@ -4554,6 +4569,7 @@ avant funk punk electronic art ny dance	dance
 because i was brainwashed by folk musicians	folk
 black soul foda	soul
 czarok radio punk	punk
+canadian singer-songwriters	singer-songwriter
 chilean pop	pop
 chillout sessions	chillout
 christian soft rock	rock
@@ -4754,6 +4770,7 @@ synthpopanniedanceindiefemale vocalistfemale vocalistspopscandinaviannorwegianel
 techno rock	rock
 threebarseven dance	dance
 winchyone - dance	dance
+alternative singer-songwriter	singer-songwriter
 alterrock	rock
 amazing-rock	rock
 american punkrock	punk
@@ -5005,6 +5022,7 @@ this track rocks	rock
 usa indie	indie
 vgrock	rock
 world  folk	folk
+acoustic singer-songwriter	singer-songwriter
 adventurous metal	metal
 after-punk	punk
 all-time top jazz	jazz
@@ -5294,6 +5312,7 @@ simply one of the best pop song ever	pop
 sixth form rock	rock
 soul greats	soul
 soul punk	punk
+texas singer-songwriter	singer-songwriter
 the great oldies	oldies
 top 40 pop	pop
 toppop	pop
@@ -5508,6 +5527,7 @@ sci-fi metal	metal
 shake and dance with me under this tune	dance
 short metal tracks	metal
 silent post rock	rock
+singer-songwriters i like	singer-songwriter
 skinhead rock	rock
 smooth jazz instrumental	instrumental
 snazzy jazzy	jazz
@@ -5934,6 +5954,7 @@ doobie doobie doo - ny rock and soul revue simpatico	rock
 electronica dance	dance
 excellent pop song	pop
 faltirock	rock
+favorite female singer-songwriter	singer-songwriter
 female pop rock	pop
 folk punk rock	folk
 folk-pagan metal	folk
@@ -6087,6 +6108,7 @@ fast jazz	jazz
 fav cpop	pop
 favori-chillout	chillout
 female rock stars	rock
+female vocalist and singer-songwriter labyrinth	singer-songwriter
 festival-rock	rock
 finest indie	indie
 finnish indie rock	indie
@@ -6682,6 +6704,7 @@ metallica wants to kill obama	metal
 milgi rockabilly	rock
 mind soul	soul
 ministry and chillout	chillout
+misssoftserve singer-songwriter	singer-songwriter
 mjcrbt avant pop	pop
 mood: dance	dance
 music of my soul	soul
@@ -7207,6 +7230,7 @@ make me want to dance	dance
 makes me try to dance	dance
 meine indies	indie
 melancholy pop	pop
+mellow singer-songwriters	singer-songwriter
 melodic - harmonic metal	metal
 melodic death power metal	metal
 melodic trash metal	metal
@@ -8027,6 +8051,7 @@ second-wave punk	punk
 seidenrock	rock
 sf chillout	chillout
 shoegazing rock	rock
+singer-songwriter female	singer-songwriter
 sipop	pop
 slow indie	indie
 slow jazz standards	jazz
@@ -8220,6 +8245,7 @@ love-soul	soul
 male dance band	dance
 mj-smooth jazz	jazz
 mm rock	rock
+male vocalists singer-songwriter	singer-songwriter
 massive dance	dance
 melodic nu metal	metal
 metal metal	metal
@@ -8424,6 +8450,7 @@ early folk	folk
 early thrash metal	metal
 earlyjazz	jazz
 earlyjazz2030	jazz
+easy singer-songwriter	singer-songwriter
 eclectic worldwide soul	soul
 eduardsjazz	jazz
 elctropop	pop
@@ -9451,6 +9478,7 @@ female indie vocalist	indie
 female jazz pianist	jazz
 female jazz pianist and songwriter	jazz
 female soul singer	soul
+female-singer-songwriter	singer-songwriter
 feminist punk	punk
 femme rock	rock
 fey rock	rock
@@ -9778,6 +9806,7 @@ owmysoul	soul
 p-soul	soul
 parhaat dancefloormuistelot	dance
 patton metal	metal
+people who enjoy making love to their guitar mistresses in public aka the singer-songwriter syndrome victims	singer-songwriter
 percussion jazz	jazz
 perfect guitar pop	pop
 perfect metal song	metal
@@ -9982,6 +10011,7 @@ silly rock	rock
 simerock 2007	rock
 simerock 2008	rock
 singer-songwriter indie	indie
+singer-songwriterin	singer-songwriter
 ska surf punk reggae	punk
 skandynawski rock	rock
 skater punk	punk
@@ -10651,6 +10681,7 @@ britisch indie pop band	indie
 britischpop	pop
 british jazz rock	jazz
 british metalcore scene	metal
+british singer-songwriter	singer-songwriter
 britpunk	punk
 brooding dark rock	rock
 brothers rock	rock
@@ -10844,6 +10875,7 @@ fatlacespop	pop
 fave dance tunes	dance
 fave pop songz	pop
 favorite chillout	chillout
+favorite male singer-songwriter	singer-songwriter
 favorite neo-soul	soul
 favorites indie	indie
 favourite instrumentals	instrumental
@@ -11084,6 +11116,7 @@ it really rocks	rock
 italian   drupi   love   pop   kuschelrock	pop
 italian love rock	rock
 italian power metal	metal
+italian singer-songwriters	singer-songwriter
 italian soft rock	rock
 italiano rock	rock
 italians rock	rock
@@ -11206,6 +11239,7 @@ mad super fine percussion jazz	jazz
 magnifico tema rock progresivo	rock
 mainstream dance	dance
 mainstream-pop	pop
+major influence on todays young female singer-songwriters	singer-songwriter
 make you wanna  dance	dance
 makes me dance like a fool	dance
 makes me energetic and wanna dance	dance
@@ -11654,6 +11688,7 @@ shoegazer pop	pop
 should have an instrumental version	instrumental
 sienirock	rock
 silly indie	indie
+singer-songwriter kyhleman	singer-songwriter
 ska folk	folk
 ska jazz	jazz
 ska punks	punk
@@ -11762,6 +11797,7 @@ swedich metal	metal
 swedish pop rock	pop
 swedish retro rocknroll indiemusik	indie
 swedish rock pop	pop
+swedish singer-songwriter	singer-songwriter
 sweet instrumentals	instrumental
 sweet n folksy	folk
 sweet old soul	soul
@@ -11970,6 +12006,7 @@ alternative rockbritpopindie rockindiebritishrockalternativeelectronic	alternati
 alternative spanish rock	rock
 american pop top 40	pop
 american roots rock band	rock
+american singer-songwriter	singer-songwriter
 americas best rock	rock
 andean folk	folk
 angry thrash metal	metal
@@ -12156,7 +12193,9 @@ i dance	dance
 i bet you look good on the dancefloor	dance
 i hope you dance	dance
 i love indie	indie
+icelandic singer-songwriter	singer-songwriter
 if carlsberg made rock bands	rock
+impeccable singer-songwriters	singer-songwriter
 in between dances	dance
 indian folk	folk
 indian instrumental	instrumental
@@ -12593,6 +12632,7 @@ american folk rock	folk
 american indie folk	folk
 american indie royalty	indie
 american pop rock	pop
+american singer-songwriters	singer-songwriter
 american swamp rock	rock
 amirca mai jazzz	jazz
 amospheric metal	metal
@@ -13337,6 +13377,7 @@ irish-punk-rock	punk
 israeli pop	pop
 it-rocks	rock
 italian  folk	folk
+italian singer-songwriter	singer-songwriter
 its like power metal but it doesnt suck so much	metal
 its okay to dance	dance
 j indie	indie
@@ -14239,7 +14280,10 @@ simple pop	pop
 sing-a-long rock	rock
 singalong punk	punk
 singer songwriter pop	pop
+singer-songwriter alternative	singer-songwriter
+singer-songwriter deluxe	singer-songwriter
 singer-songwriter rock	rock
+singer-songwriterfemale vocalists	singer-songwriter
 sinth pop	pop
 sixties sophistopop	pop
 sk8er rock	rock
@@ -14658,6 +14702,8 @@ zydeco folk	folk
 70 ler pop	pop
 70-s rock	rock
 70-tal rock	rock
+70s   singer-songwriter  favourite	singer-songwriter
+70s  singer-songwriter	singer-songwriter
 70s jazz	jazz
 70s soul favorites	soul
 70s british pop	pop
@@ -14672,6 +14718,7 @@ zydeco folk	folk
 80 alternative rock	alternative rock
 80 metal	metal
 80-s syhtpop	pop
+80s    singer-songwriter   favourite	singer-songwriter
 80s maravillosos rock	rock
 80s power metal	metal
 80s rockabilly	rock
@@ -14713,6 +14760,7 @@ zydeco folk	folk
 9o pop	pop
 :chick rock	rock
 :pop rock	pop
+:singer-songwriter	singer-songwriter
 a pop gem	pop
 a tribe called quest - jazz	jazz
 ad songs rock	rock
@@ -15344,6 +15392,7 @@ lovely jazzy	jazz
 lovely spunky ladies	punk
 lovely indie	indie
 lovely punk	punk
+lucky soul lips are unhappy	soul
 lucy pearl - dance tonight	dance
 lucypearl-dancetonight	dance
 m-rock fav entry	rock
@@ -15440,6 +15489,7 @@ my metal tracks	metal
 my metallica	metal
 my soul longs for you	soul
 my top metal	metal
+my favorite singer-songwriter	singer-songwriter
 my name is rock	rock
 my punk rock	punk
 my soul in music	soul
@@ -15761,6 +15811,7 @@ s rock	rock
 sex drugs and rock and roll	rock
 sf punk	punk
 shirley horn - come dance with me	dance
+snv singer-songwriters	singer-songwriter
 soad rocks	rock
 sothern soul	soul
 soul rebel	soul
@@ -16066,6 +16117,7 @@ all punk no pop face to face	pop
 all the time you dance	dance
 all time greats of rock	rock
 all-girl indie	indie
+all-time top singer-songwriter	singer-songwriter
 allan dance	dance
 allternative rock	rock
 almost dancey	dance
@@ -16266,6 +16318,7 @@ best oldies-harmonies	oldies
 best rock album ever	rock
 best rock and roll song ever	rock
 best rock songs realeased in 2008	rock
+best singer-songwriter	singer-songwriter
 best soulful	soul
 best thrash metal songs ever	metal
 best to dance	dance
@@ -16509,6 +16562,7 @@ cool punk	punk
 cool uplifting soul	soul
 cooliepop	pop
 cooljazzgdchill	jazz
+coolsinger-songwriter	singer-songwriter
 corporate punk	punk
 cosy pop	pop
 countriy rock	rock
@@ -16902,6 +16956,7 @@ epic progressive metal	metal
 epic rock song	rock
 epic viking pagan folk metal amazing	folk
 epistolary metal	metal
+erba voglio singer-songwriter	singer-songwriter
 erich oldies	oldies
 espanol pop	pop
 essence of indie rock	indie
@@ -17262,6 +17317,7 @@ ghettorock	rock
 ghost folk	folk
 ghost under rocks	rock
 girl metal	metal
+girl singer-songwriter	singer-songwriter
 girl-rock	rock
 girlie-rock	rock
 girljazz	jazz
@@ -17346,6 +17402,7 @@ grundle rock	rock
 guitar dance	dance
 guitar hero warriors of rock	rock
 guitar jazz from ecm	jazz
+guitar singer-songwriter	singer-songwriter
 guitarist songwriter humorous folkie	folk
 gundarock	rock
 guns like rock	rock
@@ -17705,6 +17762,7 @@ irish folk instruments	folk
 irish heavy folk metal	folk
 irish pagan metal	metal
 irish ripping metal	metal
+irish singer-songwriter	singer-songwriter
 irishpunk	punk
 irma  thomas oldies	oldies
 ironic witty rock songs	rock
@@ -17989,6 +18047,7 @@ le jazz hot	jazz
 left coast punk rock	punk
 legendary rock	rock
 legendrock	rock
+leiwand - singer-songwriter	singer-songwriter
 lekki rock	rock
 lektro-rockiepop	pop
 lesbian folk	folk
@@ -18311,6 +18370,7 @@ my bf knows how to rock it	rock
 my brit pop	pop
 my dreamy pop	pop
 my favorite jazz song	jazz
+my female singer-songwriter fixation	singer-songwriter
 my indie box	indie
 my indies	indie
 my instrumental jazz	instrumental
@@ -18550,6 +18610,7 @@ perfect jazz	jazz
 perfect pop music	pop
 perfect pop production	pop
 perfect popsong	pop
+perfect singer-songwriters	singer-songwriter
 perfekt metal song	metal
 persian indie	indie
 pervy rock	rock
@@ -19451,6 +19512,9 @@ simonal samba rock	rock
 simphony metal	metal
 sing along pop rock	pop
 sing and dance in underwear in the bedroom  like a rockstar	dance
+singer-songwriter   favourite	singer-songwriter
+singer-songwriter guitar lagerfeuer	singer-songwriter
+singer-songwriter lastfm	singer-songwriter
 sissy pop	pop
 ska and jazz	jazz
 ska core - ska punk - ska	punk
@@ -19516,6 +19580,7 @@ solid jazz	jazz
 solo in nu metal	metal
 some damn good jazz	jazz
 some daysyou gotta dance	dance
+some good singer-songwriters on the road in italy	singer-songwriter
 some of the finest instrumentalists i have  ever heard	instrumental
 some rock and metal	metal
 somefolkmetalsongs	folk
@@ -20134,6 +20199,7 @@ workout rock	rock
 world chillout	chillout
 world african jazz	jazz
 world punk	punk
+world singer-songwriter	singer-songwriter
 wos zum abrocken	rock
 wossoulou	soul
 would dance to it	dance
@@ -20660,6 +20726,7 @@ bebel gilberto august day song dance-remix	dance
 bedrock-all day all night	rock
 best duo or group and this song rocks	rock
 best ever chilloutmucke	chillout
+best female singer-songwriters	singer-songwriter
 best of 2009 rockminutsoup	rock
 big daddy jazz	jazz
 bitchin instrumental	instrumental
@@ -21560,6 +21627,7 @@ formative rock	rock
 four letter lie- rocky loves emily	rock
 fragglerock	rock
 fransk rock	rock
+fransk singer-songwriter	singer-songwriter
 frauenrock	rock
 freak folk all right	folk
 freakin metal	metal
@@ -23006,6 +23074,7 @@ norwegian jazz artist	jazz
 norwegian jazz singer	jazz
 norwegian piss metal	metal
 norwegian rock n roll	rock
+norwegian singer-songwriters	singer-songwriter
 not nu-metalcore	metal
 not bad has a rock vibe	rock
 not corny pop	pop
@@ -24268,6 +24337,7 @@ svensk deathmetal	metal
 svensk jazz och soft	jazz
 svensk metalband	metal
 svensk ny rock	rock
+svensk singer-songwriters	singer-songwriter
 swan lake - shooting rockets	rock
 swe pop	pop
 sweat - soul	soul
@@ -24317,6 +24387,7 @@ the folk metal track	folk
 the gods of metal	metal
 this is better than metallica	metal
 this is not metalcore you dumb faggots great song btw	metal
+those singer-songwriters	singer-songwriter
 thrash fuckin metal	metal
 this metal	metal
 tolk folk	folk
@@ -24359,6 +24430,7 @@ terrible dance single	dance
 tetris metal	metal
 texas bar room rockin   a	rock
 texas indie	indie
+texas singer-songwriters	singer-songwriter
 thai indie	indie
 that kool rock	rock
 the bar kays soul finger	soul
@@ -24698,6 +24770,7 @@ accoustic -pop	pop
 accoustic folk metal	folk
 accoustic folk sampler	folk
 accoustic instrumental	instrumental
+accoustic singer-songwriter	singer-songwriter
 achillout	chillout
 acjazz	jazz
 acker bilk  his paramount jazz band	jazz
@@ -24720,6 +24793,7 @@ acoustic progressive metal	metal
 acoustic punk rock	punk
 acoustic punkovers	punk
 acoustic punkrock	punk
+acoustic singer-songwriter zachbraff	singer-songwriter
 acoustic-indie	indie
 acoustic-instrumental	instrumental
 acousticindeifolk	folk
@@ -25081,6 +25155,7 @@ anit-folk	folk
 another new wave of british metal - sounds nice and looks even more gay then lostprophets	metal
 another pop song	pop
 another ridiculous metal cover of a non-metal song	metal
+another singer-songwriter	singer-songwriter
 another stupid indie tag	indie
 ansgar42elektro-folk	folk
 anthemic dance	dance
@@ -25222,6 +25297,7 @@ australian indie something	indie
 australian indies	indie
 australian punk rock	punk
 australian punk rock with amazing lyrics	punk
+australian singer-songwriter	singer-songwriter
 australian-rock	rock
 australien punk	punk
 austrian female fronted melodic power metal	metal
@@ -25712,6 +25788,7 @@ brit punk revival	punk
 brit rock faves	rock
 brit rock love	rock
 brit rock pop	pop
+brit singer-songwriter	singer-songwriter
 brit techno pop	pop
 brit-indie pop rock	indie
 brit-indie rock	indie
@@ -25856,6 +25933,7 @@ canadian eighties metal	metal
 canadian female indie rock	indie
 canadian folk music	folk
 canadian power rock	rock
+canadian singer-songwriter	singer-songwriter
 canarian pop	pop
 cancion popular	pop
 canciones populares	pop
@@ -25945,6 +26023,7 @@ charter pop	pop
 chav dreamdance	dance
 chav rock	rock
 cheapjackrock	rock
+check out: singer-songwriter	singer-songwriter
 check out: synthpop	pop
 check postrock	rock
 check rock	rock
@@ -25977,6 +26056,7 @@ chickrock	rock
 chicks who kinda rock	rock
 chicle pop	pop
 chicle-pop	pop
+child lyrics singer-songwriter	singer-songwriter
 children metal	metal
 chilean indie	indie
 chilean punk	punk
@@ -26260,6 +26340,7 @@ contemporary british rock	rock
 contemporary calm jazz	jazz
 contemporary cathedral folk	folk
 contemporary rockabilly	rock
+contemporary singer-songwriter	singer-songwriter
 contemporary souljazz	jazz
 contemporay acoustic instrumental	instrumental
 contemporay rock	rock
@@ -26787,6 +26868,7 @@ danish metal rock	metal
 danish metalcore	metal
 danish rock and roll	rock
 danish rock guitar	rock
+danish singer-songwriter	singer-songwriter
 danny elfman metal	metal
 danpop	pop
 darck jazz	jazz
@@ -27348,6 +27430,7 @@ elettro metal	metal
 elettro pop like a robot	pop
 elettro rock	rock
 elf metal	metal
+eliott smith remebrance salute female singer-songwriter sweet touching	singer-songwriter
 elitist pop	pop
 ella louis jazz	jazz
 elliott smithy indie	indie
@@ -27678,6 +27761,7 @@ female fronted orchestral metal	metal
 female fronted prog metal	metal
 female fronted rap metal	metal
 female frontend metal	metal
+female german singer-songwriter	singer-songwriter
 female hair metal	metal
 female indie rock	indie
 female indie songwriter	indie
@@ -27699,8 +27783,10 @@ female rock artist	rock
 female rocker	rock
 female rocker songs	rock
 female rockin vocals	rock
+female singer-songwriter mellow	singer-songwriter
 female soul slow jam	soul
 female swedish acoustic pop	pop
+female swedish singer-songwriter	singer-songwriter
 female symphonic metal	metal
 female vocal jazz sheep	jazz
 female vocalist    soul	soul
@@ -28709,6 +28795,7 @@ great rock singer	rock
 great rock tunes on earth	rock
 great rock vocals	rock
 great romantic indie song	indie
+great singer-songwriter	singer-songwriter
 great song - nice chillout	chillout
 great soulful gilmore track	soul
 greates band ever    punk    rad      favorite    life saving music	punk
@@ -29927,6 +30014,7 @@ inverno inviertno domingo chilloutcafe	chillout
 iopop	pop
 irani folklore	folk
 irch rock	rock
+ireland singer-songwriter	singer-songwriter
 irisch folks	folk
 irish folk fusion	folk
 irish folk song	folk
@@ -31111,6 +31199,7 @@ luscious jazz	jazz
 lush electrnic pop	pop
 lush indie	indie
 lush rock	rock
+lush singer-songwriter sensual storytelling	singer-songwriter
 lush tone rock	rock
 lusopunk	punk
 luuv jazz	jazz
@@ -31187,6 +31276,7 @@ male folkie	folk
 male jazz composer singer	jazz
 male rock vocal	rock
 male rock vocals	rock
+male singer-songwriter underrated	singer-songwriter
 male soft rock	rock
 mali rock	rock
 malian folk	folk
@@ -31322,6 +31412,7 @@ mellow oldies	oldies
 mellow psy-billy rock	rock
 mellow rock 70s california	rock
 mellow rock favorite	rock
+mellow singer-songwriter newbands	singer-songwriter
 mellow swedish indie	indie
 mellowaltrock	rock
 mellowed jazz	jazz
@@ -31943,6 +32034,7 @@ my rocks	rock
 my sad windy world where echo dances down the hill with someone else than me	dance
 my sex and my drugs and my rock and roll	rock
 my sin my soul	soul
+my singer-songwriter tag	singer-songwriter
 my soul plrase dont give up than my senses	soul
 my soul side	soul
 my soul surrendered	soul
@@ -32102,6 +32194,7 @@ new-rockabilly	rock
 new-soul	soul
 newage instrumental	instrumental
 newage jazz	jazz
+newbands singer-songwriter	singer-songwriter
 newcastle indie	indie
 newindie	indie
 newoldrock	rock
@@ -32285,6 +32378,7 @@ novo rock tuga	rock
 now i want to dance	dance
 now thats true metal	metal
 now this is rock	rock
+nowe odkrycia singer-songwriter	singer-songwriter
 nsblackmetal	metal
 nu metal sux	metal
 nu agerock	rock
@@ -32682,6 +32776,7 @@ pidor-rock	rock
 pieeetr-alternative rock	alternative rock
 pieeetr-metal	metal
 pieeetr-nujazz	jazz
+pieeetr-singer-songwriter	singer-songwriter
 piekne jazzowe glosy	jazz
 piercing pain for your soul	soul
 pig destroyer gravedancer	dance
@@ -32777,6 +32872,7 @@ politcal punk	punk
 political folkrock seen live	folk
 political metalcore	metal
 political oz social rock	rock
+political progg swedish singer-songwriter	singer-songwriter
 political-folk	folk
 political-melodic-punk	punk
 polska djazz	jazz
@@ -33933,6 +34029,7 @@ quirkpop	pop
 quirky little instrumental piece with static ending	instrumental
 quirkyjazz	jazz
 quite jazz bass	jazz
+r and b british vocal soul sweet singer-songwriter	singer-songwriter
 r b smooth jazz keyboard	jazz
 rock lohan	rock
 rockin eagles of d	rock
@@ -34162,6 +34259,7 @@ robotrock	rock
 robots can dance	dance
 robots dance	dance
 robots have soul	soul
+roc singer-songwriter	singer-songwriter
 rock    favourite	rock
 rock   uk	rock
 rock  brazil	rock
@@ -35269,10 +35367,23 @@ singer song rockar	rock
 singer songwriter jazz	jazz
 singer songwriter rock	rock
 singer songwriter-mellow folk	folk
+singer-songwriter    favourite	singer-songwriter
+singer-songwriter - piano	singer-songwriter
+singer-songwriter acoustic	singer-songwriter
+singer-songwriter female vocalist	singer-songwriter
 singer-songwriter female vocalists folk british female acoustic guitar seen live independent	folk
 singer-songwriter folk female vocalist	folk
+singer-songwriter gentle lilting	singer-songwriter
 singer-songwriter indie norwegian	indie
 singer-songwriter jazz	jazz
+singer-songwriter of the 70s variety	singer-songwriter
+singer-songwriter romantic	singer-songwriter
+singer-songwriter und so	singer-songwriter
+singer-songwriter underground full tracks	singer-songwriter
+singer-songwriter-allinstruments	singer-songwriter
+singer-songwriter-poet	singer-songwriter
+singer-songwriterg	singer-songwriter
+singer-songwritert	singer-songwriter
 singing jazz	jazz
 singing lead guitar players rock	rock
 singing metal	metal
@@ -35802,6 +35913,7 @@ soul-science	soul
 soul-seek	soul
 soul-shoutin saviors	soul
 soul-soothing	soul
+soul-stirring singer-songwriterism	singer-songwriter
 soul-sucking	soul
 souladysoundz	soul
 soulaki i	soul
@@ -35820,6 +35932,7 @@ soulfly clone	soul
 soulfly-prophecy	soul
 soulfoul	soul
 soulful acoustic	soul
+soulful acoustic singer-songwriter female	singer-songwriter
 soulful and beautiful	soul
 soulful and beautiful mr lewis	soul
 soulful and happy	soul
@@ -36001,6 +36114,7 @@ spanish punk-rock	punk
 spanish rock en tu idioma	rock
 spanish rock rockin	rock
 spanish rock that was a hit in mexico city	rock
+spanish singer-songwriter	singer-songwriter
 spanish solistas pop	pop
 spanish-rock	rock
 spank rock - coke and wet	rock
@@ -36396,6 +36510,7 @@ symphonyc metal	metal
 symphunk metal	metal
 sympohnic metal	metal
 syn punk	punk
+syn singer-songwriter	singer-songwriter
 syngefolk	folk
 synhtpop	pop
 synphonic rock	rock
@@ -36442,6 +36557,7 @@ take me to the place where the wild boys dance -	dance
 taken from my soul	soul
 tako rock veneno spain ejea zaragoza	rock
 takorock	rock
+talented female singer-songwriter	singer-songwriter
 talented folks i know	folk
 tales from the rock yard	rock
 talk rock	rock
@@ -37104,6 +37220,7 @@ us alt rock	rock
 us indie alternative 80er	indie
 us power metals	metal
 us progressive metal	metal
+us singer-songwriter	singer-songwriter
 us ska punk	punk
 us-power metal	metal
 us-punk	punk
@@ -37945,6 +38062,21 @@ rorck	rock
 rosck	rock
 saoul	soul
 seoul	soul
+singer sing writer	singer-songwriter
+singer singwriter	singer-songwriter
+singer somgwriter	singer-songwriter
+singer writer	singer-songwriter
+singer-aongeriter	singer-songwriter
+singer-singwriter	singer-songwriter
+singer-so	singer-songwriter
+singer-somgwriter	singer-songwriter
+singer-soungwriter	singer-songwriter
+singer-spongwriter	singer-songwriter
+singer-wongwriter	singer-songwriter
+singer-writer	singer-songwriter
+singerongwriter	singer-songwriter
+singersngwriter	singer-songwriter
+singerwriter	singer-songwriter
 sol	soul
 solu	soul
 sou	soul
@@ -38273,8 +38405,10 @@ aimeesad	sad
 aint it funny	funny
 aint no funny jlo	funny
 aint no good cake	good
+air - lucky and unhappy	happy
 air - photograf	hot
 air traffic no more running away - released on fractured life - very good canadate for bg track	good
+aj bi te grlila sade i pjevala ti na uvo al me jebe ova alergija majku joj	sad
 aj good	good
 akes you happy	happy
 akirahoshi dark	dark
@@ -38283,6 +38417,7 @@ alabama funny	funny
 alabama sad	sad
 alan menken - happy end in agrabah	happy
 alanis good	good
+alanis morissette - so unsexy	sexy
 albums that i own and are great	great
 alcoholic melancholic	melancholic
 aldershot	hot
@@ -38292,6 +38427,7 @@ alex james is dreamy	dreamy
 alexander oneal if you were here tonight- greatest hits	great
 alexander the great	great
 alexia good	good
+alfredo sadel	sad
 alicemugshot	hot
 alicemugshot-essential	hot
 alicemugshot-green	hot
@@ -38352,6 +38488,7 @@ almost loved	loved
 almost sad	sad
 almost too good	good
 almost too sad	sad
+alosade	sad
 also funny as shit	funny
 also good	good
 also great books	great
@@ -38382,6 +38519,7 @@ always loved me some babyface fo sho	loved
 always make me happy	happy
 always makes me happy	happy
 always to have a good time	good
+alyssadepte	sad
 am i sexy	sexy
 amayzes loved	loved
 amazing darkness	dark
@@ -38682,6 +38820,7 @@ best loved artists	loved
 best of loved	loved
 best of mellow	mellow
 best of romantic	romantic
+best of sade	sad
 best--dark	dark
 bestbeloved	loved
 beth orton verde si calm	calm
@@ -38697,6 +38836,7 @@ between daylight and dark	dark
 between the daylight and the dark - mary gauthier	dark
 bgr - dark	dark
 big and sexy	sexy
+big face - style crusader data remix	sad
 big sexy hook	sexy
 big shot	hot
 big shot momentarily	hot
@@ -38768,6 +38908,7 @@ bobby vee-take good care of my baby	good
 bocelli and great singers	great
 bock auf abhotten	hot
 bon jovi loved	loved
+booka sade	sad
 boom headshot	hot
 boosadab	sad
 boot stomping beer drinking good	good
@@ -39015,6 +39156,8 @@ calms you down	calm
 cameo  keep it hot	hot
 cameo word up-greatest hits	great
 camp:covers:sad	sad
+campus crusade	sad
+campus crusade for christ	sad
 can be good	good
 can put me in a good mood no matter what	good
 canada electric feel good	good
@@ -39047,6 +39190,7 @@ carpenters-goodbye to love	good
 caruccia romantica	romantic
 casada-a never ending dream	sad
 cassadaga	sad
+cassadee	sad
 cassady	sad
 cassidy ft r kelly hotel	hot
 cat power - the greatest	great
@@ -39098,6 +39242,7 @@ chico-calma	calm
 childe roland to the dark tower came	dark
 children of bodom covering stone  just great	great
 childrens  photos	hot
+childrens crusade	sad
 chill - romantic	romantic
 chill - sad	sad
 chill and dark	dark
@@ -39245,6 +39390,11 @@ creepysexycool	sexy
 cris sad electric	sad
 crotch thrustingly good	good
 crunchy goodness	good
+crusade	sad
+crusader	sad
+crusaders	sad
+crusaders street life	sad
+crusades	sad
 cry with sadness	sad
 culo mas sexy	sexy
 cult music or something i dunno but its pretty damned great	great
@@ -39254,6 +39404,8 @@ cup of hot tea	hot
 current goodness	good
 currently hot	hot
 cursive and saddle creek	sad
+cusco - the crusades	sad
+cusco the crusades	sad
 cut it while its hot	hot
 cute and pretty yet sad	sad
 cute guy great	great
@@ -40003,6 +40155,7 @@ dj feel good	good
 dj goodnews	good
 djpman loved tracks	loved
 djpman-loved-tracks	loved
+djsadelux	sad
 dkz-romantic	romantic
 dloved	loved
 dloved dquiteandnice	loved
@@ -40366,11 +40519,13 @@ fantasia- good love	good
 far too good	good
 farewells and goodbyes	good
 farkin good	good
+fassade	sad
 fast flowing-happy	happy
 fast fun happy	happy
 fast good	good
 fast paced greatness	great
 fat freddys drop - dark days	dark
+fav by sade	sad
 fav our shot	hot
 fave of mine from great group	great
 favoritas sad	sad
@@ -40622,6 +40777,7 @@ forrest gump ost greatness	great
 forspotify loved tracks	loved
 forward the good riddim	good
 founding member be good tanyas	good
+founding member of the crusaders	sad
 foxboro hot tubs	hot
 fran goodies	good
 frank calls the shots for all of us guys	hot
@@ -43785,6 +43941,7 @@ hamsadhwani	sad
 handclap goodness	good
 handclap-happy	happy
 hands in the dark	dark
+hang on to your love-sade	sad
 hank williams - hey good lookin	good
 happily sad	sad
 happiness meets sadness	sad
@@ -45066,6 +45223,7 @@ i ve always loved this band	loved
 i ve got a secret a good one	good
 i ve loved her so long	loved
 i wanna be a good monster	good
+i wanna be a style crusader	sad
 i wanna be loved by you	loved
 i wanna be loved by yoy	loved
 i want my goodbye back	good
@@ -45191,6 +45349,7 @@ inner city-good life	good
 innerhappy	happy
 innocence is lost into the dark	dark
 innocent happy feeling	happy
+insade	sad
 insane in a good way	good
 insanely good	good
 insanely great	great
@@ -45399,6 +45558,7 @@ jangly mellow	mellow
 janis joplin-as good as youve been ti this world	good
 japanese good	good
 japanese goodness	good
+japsa-sade	sad
 jared is hot	hot
 jared is so fuckin hot	hot
 jarre the great	great
@@ -45545,6 +45705,7 @@ kelis feat terrar - good stuff	good
 kelly make good musik	good
 kenney chesney- the good stuff	good
 kenny g-havana-greatest hits	great
+kenny g-sade	sad
 keren ann greatest you can find	great
 kevin kern great piece	great
 kevin shields is sexy	sexy
@@ -45593,12 +45754,14 @@ kiss-hotter than hell	hot
 kitsch but great	great
 kitschily energetic	energetic
 kiwi goodness	good
+klassiksade	sad
 klein funny favourites	funny
 klein happy favorites	happy
 klein happy favourites	happy
 klein romantic favorites	romantic
 klein romantic favourites	romantic
 klein sad favourites	sad
+klein unhappy favorites	happy
 klomp123 loved	loved
 klvt darkness tr00	dark
 kool  sexy	sexy
@@ -45700,12 +45863,14 @@ level 42 hot water	hot
 level 42-hot water	hot
 lgcalm	calm
 lick shot	hot
+life 2: the unhappy ending	happy
 life is better with a good bass	good
 life is good	good
 life is good honest	good
 life is great	great
 life is sad	sad
 life of a repo man is always intense	intense
+lifekiss  of  sade	sad
 lifes been good	good
 lifes great adventure	great
 lifes too good	good
@@ -45715,6 +45880,7 @@ light n happy	happy
 light or calm	calm
 like a good warm shower	good
 like a snapshot when youve lost the game	hot
+like a tatto sade	sad
 like better than taking this dress off good	good
 like darkness	dark
 like good	good
@@ -45725,6 +45891,7 @@ like i never loved you at all	loved
 like it good rhythms	good
 like mia if she was good	good
 like really good coffee	good
+like sade	sad
 like the sea im constantly changing from calm to ill	calm
 like vampire weekend good	good
 likr good old pumpkins	good
@@ -45734,6 +45901,7 @@ lil slow but good	good
 lil too mellow	mellow
 lil wanye the great	great
 limpy bizkit is a good band	good
+lips are unhappy	happy
 lisa miskovsky one dark night	dark
 list of good shit	good
 list of goodies	good
@@ -45961,7 +46129,9 @@ lucy pearl-good love	good
 ludicrously good	good
 lughnasad	sad
 lullabies   mellow	mellow
+lumisade	sad
 luna lovegood	good
+luotisade	sad
 lv sad	sad
 lxmostlovedones	loved
 lyfe jennings goodbye	good
@@ -46123,6 +46293,7 @@ maroon 5 - sweetest goodbye	good
 maroon 5 she will be loved	loved
 maroon 5 sweetest goodbye	good
 maroon5-goodbye	good
+marquis de sade	sad
 marquiz de sad	sad
 marshmellow	mellow
 martin solveig- im a good man	good
@@ -46532,6 +46703,7 @@ miley cyrus goodbye	good
 miley cyrus goodgye	good
 miley cyrus- goodbye	good
 milhoto	hot
+miljoonasade	sad
 milk inc - goodbye says it all	good
 mill-sad	sad
 milos hotlist	hot
@@ -46556,6 +46728,8 @@ mittelalter dunkel dark	dark
 mix tapes in sad-heaven	sad
 mix-tapes in sad heaven	sad
 mixes dreamy boys made me	dreamy
+mixtress desade	sad
+mixtress mary desade	sad
 mj just good friends	good
 mkes me happy	happy
 mm mm good	good
@@ -46814,6 +46988,7 @@ neo romantic	romantic
 neo romanticism	romantic
 neo-romantic	romantic
 neo-romanticism	romantic
+neo-sade	sad
 neon plastix - whats so funny	funny
 neoromantic	romantic
 neoromanticism	romantic
@@ -47225,6 +47400,7 @@ oneofthegreatest	great
 only a taste of the greats	great
 only good one	good
 only great	great
+only sade	sad
 only sounds good live	good
 only the good die young	good
 ooo good cover	good
@@ -47272,8 +47448,11 @@ oxymoron follows: good australian artist	good
 ozzy osbourne  shot in the dark	dark
 ozzy osbourne - shot in the dark	dark
 p lion-happy children	happy
+pacific palisades	sad
 pain is a good thing	good
 paints a good picture	good
+palisades	sad
+palisades park	sad
 panjabi mellow	mellow
 pants-shittingly good	good
 pants-wettingly good when loud	good
@@ -47287,10 +47466,12 @@ paraundespertarhappy	happy
 particularlygood	good
 partly great	great
 party shit that makes me happy	happy
+pasadena	sad
 pasado	sad
 pasado anterior	sad
 pasadobles	sad
 pasadon	sad
+passades pel ribot	sad
 passado	sad
 passion sexy lover	sexy
 past life calm smiles	calm
@@ -47387,6 +47568,7 @@ playlist-good2	good
 playlist:melancholic	melancholic
 please be good to me	good
 please just take these photos from my hands	hot
+please send me some one to love sade	sad
 please world stop being such a sad place	sad
 plies-who hotter than me	hot
 plion-happy children	happy
@@ -47505,6 +47687,7 @@ psychotic reaction	hot
 psychotic sounds for freaks and weirdos	hot
 psychoticum	hot
 psychotropic bubbles floating slowly in the air	hot
+puertasadentro ama esta wea	sad
 puerto rico sexy	sexy
 pull a vertebrae funny	funny
 pull a vertibrate funny	funny
@@ -48275,7 +48458,58 @@ saddle tramp	sad
 saddness	sad
 saddo	sad
 saddy	sad
+sade	sad
+sade   keep looking	sad
 sade  never as good as the first time	good
+sade - all about our love	sad
+sade - cherish the day	sad
+sade - cherry pie	sad
+sade - flow	sad
+sade - jezebel	sad
+sade - king of sorrow	sad
+sade - pearls	sad
+sade - somebody already broke my heart	sad
+sade - the moon and the sky	sad
+sade - the sweetest gift	sad
+sade - the sweetest taboo	sad
+sade - turn ly back on you	sad
+sade - war of the hearts	sad
+sade - your love is king	sad
+sade 2	sad
+sade adu	sad
+sade by your side	sad
+sade cover	sad
+sade darling	sad
+sade from the release the best of sade	sad
+sade hang on to your love	sad
+sade jezebel	sad
+sade kiss of life	sad
+sade like	sad
+sade like a tatto	sad
+sade love	sad
+sade pearls	sad
+sade radio	sad
+sade relax	sad
+sade smooth	sad
+sade somebody already	sad
+sade style	sad
+sade sweetest gift	sad
+sade the sweetest gift	sad
+sade type	sad
+sade wcwlt	sad
+sade your love is king	sad
+sade-cherish the day	sad
+sade-frankie	sad
+sade-i couldn t love you more	sad
+sade-love is stronger than pride	sad
+sade-nigeria	sad
+sade-pearls	sad
+sade1	sad
+sadeeee	sad
+sadelaulu	sad
+sadepaivat	sad
+sadepaivien masennukseen	sad
+sadest tracks	sad
 sadface	sad
 sadface but in the prettiest way	sad
 sadfaced	sad
@@ -48370,6 +48604,7 @@ said i loved you but i liiiiiiiiiiiiiiiiiiiied	loved
 sail away -great track	great
 saint saens - the swan romantic	romantic
 salas je z toho hotovej	hot
+sally   sade	sad
 sammy davis jr-there s a small hotel	hot
 sample from dark city	dark
 sample goodness	good
@@ -48459,6 +48694,7 @@ seriously good	good
 seriously good stuff	good
 seriously happy	happy
 seriously makes me happy	happy
+seriously unhappy	happy
 seventies feelgood	good
 sex in the darkness	dark
 sexual hot chocolate	hot
@@ -49321,9 +49557,11 @@ still just as good 12 years on	good
 still not as good as unreleased	good
 still sounds great	great
 still very good	good
+sting childrens crusade	sad
 stone groove goodness	good
 stone roses - good times	good
 stoner darkthrone	dark
+stories with unhappy endings	happy
 strange and happy	happy
 strange and sexy guitar tapping chick	sexy
 strange animal in the dark	dark
@@ -49473,6 +49711,7 @@ sweet sad lovely	sad
 sweet sadness	sad
 sweet-sad	sad
 sweet-sad introspection	sad
+sweetback aka sades band	sad
 sweeter than kisses hotter than sex	hot
 sweetest and saddest	sad
 sweetest goodbye - maroon 5	good
@@ -49614,8 +49853,10 @@ the best great	great
 the best great cool lyrics	great
 the best great sweet lovely	great
 the best loved	loved
+the best of sade	sad
 the best shot	hot
 the billboard hot 100	hot
+the black crusade	sad
 the blak keys- goodbaye babylon	good
 the calm	calm
 the calm before the storm	calm
@@ -49627,6 +49868,11 @@ the church of hot addiction	hot
 the click five -say goodnight	good
 the clip is great	great
 the comfort in being sad	sad
+the crusaders	sad
+the crusaders - street life	sad
+the crusaders street life	sad
+the crusaders- street life	sad
+the crusades	sad
 the cure-happy the man	happy
 the dancing greats	great
 the dark	dark
@@ -49846,6 +50092,7 @@ the last goodnight	good
 the last goodnigth	good
 the last shadow puppets - calm like you	calm
 the libertines - the good old days	good
+the lone crusader	sad
 the long goodbye	good
 the long goodbye by ronan keating	good
 the loved ones	loved
@@ -49885,6 +50132,8 @@ the only thing that looks good on me is you	good
 the only thing that looks good on me is you live	good
 the only time im happy when i play my guitar	happy
 the ooooh good old ones	good
+the palisades	sad
+the pasadenas	sad
 the pharaoh is great epic	great
 the pioneers - long shot kick de bucket	hot
 the platters   the great pretender	great
@@ -49951,6 +50200,7 @@ the white stripes under great white northern lights	great
 the who happy jack	happy
 the wizard of lightning loved tracks	loved
 the word calm	calm
+the word crusade	sad
 the word dark	dark
 the word funny	funny
 the word good	good
@@ -50015,6 +50265,7 @@ they make me happy	happy
 they play this in the queue for baptism by john in a flowing river of goodness	good
 they r great arent they	great
 they re red hot	hot
+they sound like sade	sad
 they were great	great
 theyre good	good
 theyre hot	hot
@@ -50166,8 +50417,11 @@ timeless goodie	good
 timeless great music	great
 tina marie greatest hits	great
 tinged in darkness	dark
+tired and unhappy	happy
 tired of being sexy	sexy
+tired-unhappy	happy
 tiredandsad	sad
+tiredunhappy	happy
 tis good	good
 title is from the movie stand by me go watch it its good	good
 tivasyk:happy	happy
@@ -50398,6 +50652,10 @@ unexpected feel good	good
 unexpectedly good	good
 ungodly good	good
 ungodly good lyrics	good
+unhappy endings	happy
+unhappy girl	happy
+unhappy to happy	happy
+unhappy women	happy
 unheard good ones	good
 unicorns and ghosts are great	great
 unimpeachably good	good
@@ -50681,6 +50939,7 @@ when times were good	good
 when u happy:d	happy
 when will i be loved	loved
 when you are happy	happy
+when you are happy or unhappy	happy
 when you feel sad	sad
 when youre feeling great	great
 whenever i get you next to me its gonna be good	good
@@ -55133,6 +55392,7 @@ ultra-cool	cool
 um cool muito grande	cool
 un moment pour chiller	chill
 un-ds cool traxxs	cool
+unamerican	american
 uncle bob iz da coolest	cool
 uncle perrys favorite	favorite
 uncle rex favorite	favorite

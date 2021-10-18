@@ -5,6 +5,7 @@ electronic	electronic
 dance	dance
 alternative rock	alternative rock
 jazz	jazz
+singer-songwriter	singer-songwriter
 metal	metal
 chillout	chillout
 classic rock	classic rock
@@ -99,6 +100,7 @@ college rock	rock
 true metal	metal
 performed on top of the pops	pop
 trash metal	metal
+singer-songwriters	singer-songwriter
 electric rock instrumentation	rock
 nujazz	jazz
 indietronic	indie
@@ -120,6 +122,7 @@ basic rock song structures	rock
 modern jazz	jazz
 80s soul	soul
 pop singles	pop
+singer-songwritergdchill	singer-songwriter
 rocket sauce	rock
 my jazz	jazz
 jazz female vocalist tag	jazz
@@ -137,16 +140,19 @@ instrumental hip-hop	instrumental
 ska-punk	punk
 british punk	punk
 british folk	folk
+female singer-songwriter	singer-songwriter
 80dance	dance
 smooth jazz tag	jazz
 jazz vocal tag	jazz
 dancefloor	dance
 traditional metal	metal
+m singer-songwriter	singer-songwriter
 90s pop	pop
 prog-rock	rock
 rock and roll mia favoritos	rock
 sleazy rock	rock
 makes me wanna dance	dance
+f singer-songwriter	singer-songwriter
 lollipop	pop
 jazzdeluxe	jazz
 fave indie pop	indie
@@ -611,6 +617,7 @@ acoustic pop	pop
 traditional folk	folk
 50s pop and rock	pop
 nu-soul	soul
+female singer-songwriters	singer-songwriter
 neo rockabilly	rock
 rock italiano	rock
 favouriterock	rock
@@ -1092,6 +1099,7 @@ cool rock	rock
 hard rock to folk and everything in between	folk
 inrock	rock
 jazz ando	jazz
+male singer-songwriters	singer-songwriter
 plastic pop	pop
 psychometal	metal
 70's rock	rock
@@ -1514,6 +1522,7 @@ coutry rock	rock
 dance:salsa	dance
 ebondance	dance
 gb1 soulful	soul
+german singer-songwriter	singer-songwriter
 metal compilation	metal
 perfect pop song	pop
 rock in my veins	rock
@@ -2438,6 +2447,7 @@ jazzykson	jazz
 jazzysrnbpop	jazz
 jzjazz	jazz
 lite rock classix	rock
+mellow singer-songwriter	singer-songwriter
 metal and funny music	metal
 misc rock	rock
 murder metal	metal
@@ -2659,6 +2669,7 @@ cuban jazz	jazz
 dj dance	dance
 e-rock	rock
 espaniola pop	pop
+general singer-songwriter	singer-songwriter
 lady metal	metal
 mullet rock	rock
 psycho metal tag radio	metal
@@ -3283,6 +3294,7 @@ i like rock	rock
 it just rocks	rock
 jazzig	jazz
 liarts opera metal	metal
+male singer-songwriter	singer-songwriter
 metal goth	metal
 my dance tracks	dance
 new orleans metal	metal
@@ -3458,6 +3470,7 @@ liberty rock radio	rock
 make me jump up and dance	dance
 maken pop radio	pop
 metal bom	metal
+my favorite singer-songwriters	singer-songwriter
 northern metal	metal
 pete rock	rock
 popflowers	pop
@@ -3552,6 +3565,7 @@ easy listen indie	indie
 erisee jazz	jazz
 ethereal folk	folk
 fav 80s rock	rock
+favorite unique female singer-songwriter	singer-songwriter
 folk and singer songwriter	folk
 folkradio	folk
 folks	folk
@@ -3903,6 +3917,7 @@ rockmusik	rock
 schrammel rock	rock
 second wave punk	punk
 shake the danceleg	dance
+singer-songwriter favourites	singer-songwriter
 slam dancehall	dance
 slavic pagan metal	metal
 sludge rock	rock
@@ -4554,6 +4569,7 @@ avant funk punk electronic art ny dance	dance
 because i was brainwashed by folk musicians	folk
 black soul foda	soul
 czarok radio punk	punk
+canadian singer-songwriters	singer-songwriter
 chilean pop	pop
 chillout sessions	chillout
 christian soft rock	rock
@@ -4754,6 +4770,7 @@ synthpopanniedanceindiefemale vocalistfemale vocalistspopscandinaviannorwegianel
 techno rock	rock
 threebarseven dance	dance
 winchyone - dance	dance
+alternative singer-songwriter	singer-songwriter
 alterrock	rock
 amazing-rock	rock
 american punkrock	punk
@@ -5005,6 +5022,7 @@ this track rocks	rock
 usa indie	indie
 vgrock	rock
 world  folk	folk
+acoustic singer-songwriter	singer-songwriter
 adventurous metal	metal
 after-punk	punk
 all-time top jazz	jazz
@@ -5294,6 +5312,7 @@ simply one of the best pop song ever	pop
 sixth form rock	rock
 soul greats	soul
 soul punk	punk
+texas singer-songwriter	singer-songwriter
 the great oldies	oldies
 top 40 pop	pop
 toppop	pop
@@ -5508,6 +5527,7 @@ sci-fi metal	metal
 shake and dance with me under this tune	dance
 short metal tracks	metal
 silent post rock	rock
+singer-songwriters i like	singer-songwriter
 skinhead rock	rock
 smooth jazz instrumental	instrumental
 snazzy jazzy	jazz
@@ -5934,6 +5954,7 @@ doobie doobie doo - ny rock and soul revue simpatico	rock
 electronica dance	dance
 excellent pop song	pop
 faltirock	rock
+favorite female singer-songwriter	singer-songwriter
 female pop rock	pop
 folk punk rock	folk
 folk-pagan metal	folk
@@ -6087,6 +6108,7 @@ fast jazz	jazz
 fav cpop	pop
 favori-chillout	chillout
 female rock stars	rock
+female vocalist and singer-songwriter labyrinth	singer-songwriter
 festival-rock	rock
 finest indie	indie
 finnish indie rock	indie
@@ -6682,6 +6704,7 @@ metallica wants to kill obama	metal
 milgi rockabilly	rock
 mind soul	soul
 ministry and chillout	chillout
+misssoftserve singer-songwriter	singer-songwriter
 mjcrbt avant pop	pop
 mood: dance	dance
 music of my soul	soul
@@ -7207,6 +7230,7 @@ make me want to dance	dance
 makes me try to dance	dance
 meine indies	indie
 melancholy pop	pop
+mellow singer-songwriters	singer-songwriter
 melodic - harmonic metal	metal
 melodic death power metal	metal
 melodic trash metal	metal
@@ -8027,6 +8051,7 @@ second-wave punk	punk
 seidenrock	rock
 sf chillout	chillout
 shoegazing rock	rock
+singer-songwriter female	singer-songwriter
 sipop	pop
 slow indie	indie
 slow jazz standards	jazz
@@ -8220,6 +8245,7 @@ love-soul	soul
 male dance band	dance
 mj-smooth jazz	jazz
 mm rock	rock
+male vocalists singer-songwriter	singer-songwriter
 massive dance	dance
 melodic nu metal	metal
 metal metal	metal
@@ -8424,6 +8450,7 @@ early folk	folk
 early thrash metal	metal
 earlyjazz	jazz
 earlyjazz2030	jazz
+easy singer-songwriter	singer-songwriter
 eclectic worldwide soul	soul
 eduardsjazz	jazz
 elctropop	pop
@@ -9451,6 +9478,7 @@ female indie vocalist	indie
 female jazz pianist	jazz
 female jazz pianist and songwriter	jazz
 female soul singer	soul
+female-singer-songwriter	singer-songwriter
 feminist punk	punk
 femme rock	rock
 fey rock	rock
@@ -9778,6 +9806,7 @@ owmysoul	soul
 p-soul	soul
 parhaat dancefloormuistelot	dance
 patton metal	metal
+people who enjoy making love to their guitar mistresses in public aka the singer-songwriter syndrome victims	singer-songwriter
 percussion jazz	jazz
 perfect guitar pop	pop
 perfect metal song	metal
@@ -9982,6 +10011,7 @@ silly rock	rock
 simerock 2007	rock
 simerock 2008	rock
 singer-songwriter indie	indie
+singer-songwriterin	singer-songwriter
 ska surf punk reggae	punk
 skandynawski rock	rock
 skater punk	punk
@@ -10651,6 +10681,7 @@ britisch indie pop band	indie
 britischpop	pop
 british jazz rock	jazz
 british metalcore scene	metal
+british singer-songwriter	singer-songwriter
 britpunk	punk
 brooding dark rock	rock
 brothers rock	rock
@@ -10844,6 +10875,7 @@ fatlacespop	pop
 fave dance tunes	dance
 fave pop songz	pop
 favorite chillout	chillout
+favorite male singer-songwriter	singer-songwriter
 favorite neo-soul	soul
 favorites indie	indie
 favourite instrumentals	instrumental
@@ -11084,6 +11116,7 @@ it really rocks	rock
 italian   drupi   love   pop   kuschelrock	pop
 italian love rock	rock
 italian power metal	metal
+italian singer-songwriters	singer-songwriter
 italian soft rock	rock
 italiano rock	rock
 italians rock	rock
@@ -11206,6 +11239,7 @@ mad super fine percussion jazz	jazz
 magnifico tema rock progresivo	rock
 mainstream dance	dance
 mainstream-pop	pop
+major influence on todays young female singer-songwriters	singer-songwriter
 make you wanna  dance	dance
 makes me dance like a fool	dance
 makes me energetic and wanna dance	dance
@@ -11654,6 +11688,7 @@ shoegazer pop	pop
 should have an instrumental version	instrumental
 sienirock	rock
 silly indie	indie
+singer-songwriter kyhleman	singer-songwriter
 ska folk	folk
 ska jazz	jazz
 ska punks	punk
@@ -11762,6 +11797,7 @@ swedich metal	metal
 swedish pop rock	pop
 swedish retro rocknroll indiemusik	indie
 swedish rock pop	pop
+swedish singer-songwriter	singer-songwriter
 sweet instrumentals	instrumental
 sweet n folksy	folk
 sweet old soul	soul
@@ -11970,6 +12006,7 @@ alternative rockbritpopindie rockindiebritishrockalternativeelectronic	alternati
 alternative spanish rock	rock
 american pop top 40	pop
 american roots rock band	rock
+american singer-songwriter	singer-songwriter
 americas best rock	rock
 andean folk	folk
 angry thrash metal	metal
@@ -12156,7 +12193,9 @@ i dance	dance
 i bet you look good on the dancefloor	dance
 i hope you dance	dance
 i love indie	indie
+icelandic singer-songwriter	singer-songwriter
 if carlsberg made rock bands	rock
+impeccable singer-songwriters	singer-songwriter
 in between dances	dance
 indian folk	folk
 indian instrumental	instrumental
@@ -12593,6 +12632,7 @@ american folk rock	folk
 american indie folk	folk
 american indie royalty	indie
 american pop rock	pop
+american singer-songwriters	singer-songwriter
 american swamp rock	rock
 amirca mai jazzz	jazz
 amospheric metal	metal
@@ -13337,6 +13377,7 @@ irish-punk-rock	punk
 israeli pop	pop
 it-rocks	rock
 italian  folk	folk
+italian singer-songwriter	singer-songwriter
 its like power metal but it doesnt suck so much	metal
 its okay to dance	dance
 j indie	indie
@@ -14239,7 +14280,10 @@ simple pop	pop
 sing-a-long rock	rock
 singalong punk	punk
 singer songwriter pop	pop
+singer-songwriter alternative	singer-songwriter
+singer-songwriter deluxe	singer-songwriter
 singer-songwriter rock	rock
+singer-songwriterfemale vocalists	singer-songwriter
 sinth pop	pop
 sixties sophistopop	pop
 sk8er rock	rock
@@ -14658,6 +14702,8 @@ zydeco folk	folk
 70 ler pop	pop
 70-s rock	rock
 70-tal rock	rock
+70s   singer-songwriter  favourite	singer-songwriter
+70s  singer-songwriter	singer-songwriter
 70s jazz	jazz
 70s soul favorites	soul
 70s british pop	pop
@@ -14672,6 +14718,7 @@ zydeco folk	folk
 80 alternative rock	alternative rock
 80 metal	metal
 80-s syhtpop	pop
+80s    singer-songwriter   favourite	singer-songwriter
 80s maravillosos rock	rock
 80s power metal	metal
 80s rockabilly	rock
@@ -14713,6 +14760,7 @@ zydeco folk	folk
 9o pop	pop
 :chick rock	rock
 :pop rock	pop
+:singer-songwriter	singer-songwriter
 a pop gem	pop
 a tribe called quest - jazz	jazz
 ad songs rock	rock
@@ -15344,6 +15392,7 @@ lovely jazzy	jazz
 lovely spunky ladies	punk
 lovely indie	indie
 lovely punk	punk
+lucky soul lips are unhappy	soul
 lucy pearl - dance tonight	dance
 lucypearl-dancetonight	dance
 m-rock fav entry	rock
@@ -15440,6 +15489,7 @@ my metal tracks	metal
 my metallica	metal
 my soul longs for you	soul
 my top metal	metal
+my favorite singer-songwriter	singer-songwriter
 my name is rock	rock
 my punk rock	punk
 my soul in music	soul
@@ -15761,6 +15811,7 @@ s rock	rock
 sex drugs and rock and roll	rock
 sf punk	punk
 shirley horn - come dance with me	dance
+snv singer-songwriters	singer-songwriter
 soad rocks	rock
 sothern soul	soul
 soul rebel	soul
@@ -16066,6 +16117,7 @@ all punk no pop face to face	pop
 all the time you dance	dance
 all time greats of rock	rock
 all-girl indie	indie
+all-time top singer-songwriter	singer-songwriter
 allan dance	dance
 allternative rock	rock
 almost dancey	dance
@@ -16266,6 +16318,7 @@ best oldies-harmonies	oldies
 best rock album ever	rock
 best rock and roll song ever	rock
 best rock songs realeased in 2008	rock
+best singer-songwriter	singer-songwriter
 best soulful	soul
 best thrash metal songs ever	metal
 best to dance	dance
@@ -16509,6 +16562,7 @@ cool punk	punk
 cool uplifting soul	soul
 cooliepop	pop
 cooljazzgdchill	jazz
+coolsinger-songwriter	singer-songwriter
 corporate punk	punk
 cosy pop	pop
 countriy rock	rock
@@ -16902,6 +16956,7 @@ epic progressive metal	metal
 epic rock song	rock
 epic viking pagan folk metal amazing	folk
 epistolary metal	metal
+erba voglio singer-songwriter	singer-songwriter
 erich oldies	oldies
 espanol pop	pop
 essence of indie rock	indie
@@ -17262,6 +17317,7 @@ ghettorock	rock
 ghost folk	folk
 ghost under rocks	rock
 girl metal	metal
+girl singer-songwriter	singer-songwriter
 girl-rock	rock
 girlie-rock	rock
 girljazz	jazz
@@ -17346,6 +17402,7 @@ grundle rock	rock
 guitar dance	dance
 guitar hero warriors of rock	rock
 guitar jazz from ecm	jazz
+guitar singer-songwriter	singer-songwriter
 guitarist songwriter humorous folkie	folk
 gundarock	rock
 guns like rock	rock
@@ -17705,6 +17762,7 @@ irish folk instruments	folk
 irish heavy folk metal	folk
 irish pagan metal	metal
 irish ripping metal	metal
+irish singer-songwriter	singer-songwriter
 irishpunk	punk
 irma  thomas oldies	oldies
 ironic witty rock songs	rock
@@ -17989,6 +18047,7 @@ le jazz hot	jazz
 left coast punk rock	punk
 legendary rock	rock
 legendrock	rock
+leiwand - singer-songwriter	singer-songwriter
 lekki rock	rock
 lektro-rockiepop	pop
 lesbian folk	folk
@@ -18311,6 +18370,7 @@ my bf knows how to rock it	rock
 my brit pop	pop
 my dreamy pop	pop
 my favorite jazz song	jazz
+my female singer-songwriter fixation	singer-songwriter
 my indie box	indie
 my indies	indie
 my instrumental jazz	instrumental
@@ -18550,6 +18610,7 @@ perfect jazz	jazz
 perfect pop music	pop
 perfect pop production	pop
 perfect popsong	pop
+perfect singer-songwriters	singer-songwriter
 perfekt metal song	metal
 persian indie	indie
 pervy rock	rock
@@ -19451,6 +19512,9 @@ simonal samba rock	rock
 simphony metal	metal
 sing along pop rock	pop
 sing and dance in underwear in the bedroom  like a rockstar	dance
+singer-songwriter   favourite	singer-songwriter
+singer-songwriter guitar lagerfeuer	singer-songwriter
+singer-songwriter lastfm	singer-songwriter
 sissy pop	pop
 ska and jazz	jazz
 ska core - ska punk - ska	punk
@@ -19516,6 +19580,7 @@ solid jazz	jazz
 solo in nu metal	metal
 some damn good jazz	jazz
 some daysyou gotta dance	dance
+some good singer-songwriters on the road in italy	singer-songwriter
 some of the finest instrumentalists i have  ever heard	instrumental
 some rock and metal	metal
 somefolkmetalsongs	folk
@@ -20134,6 +20199,7 @@ workout rock	rock
 world chillout	chillout
 world african jazz	jazz
 world punk	punk
+world singer-songwriter	singer-songwriter
 wos zum abrocken	rock
 wossoulou	soul
 would dance to it	dance
@@ -20660,6 +20726,7 @@ bebel gilberto august day song dance-remix	dance
 bedrock-all day all night	rock
 best duo or group and this song rocks	rock
 best ever chilloutmucke	chillout
+best female singer-songwriters	singer-songwriter
 best of 2009 rockminutsoup	rock
 big daddy jazz	jazz
 bitchin instrumental	instrumental
@@ -21560,6 +21627,7 @@ formative rock	rock
 four letter lie- rocky loves emily	rock
 fragglerock	rock
 fransk rock	rock
+fransk singer-songwriter	singer-songwriter
 frauenrock	rock
 freak folk all right	folk
 freakin metal	metal
@@ -23006,6 +23074,7 @@ norwegian jazz artist	jazz
 norwegian jazz singer	jazz
 norwegian piss metal	metal
 norwegian rock n roll	rock
+norwegian singer-songwriters	singer-songwriter
 not nu-metalcore	metal
 not bad has a rock vibe	rock
 not corny pop	pop
@@ -24268,6 +24337,7 @@ svensk deathmetal	metal
 svensk jazz och soft	jazz
 svensk metalband	metal
 svensk ny rock	rock
+svensk singer-songwriters	singer-songwriter
 swan lake - shooting rockets	rock
 swe pop	pop
 sweat - soul	soul
@@ -24317,6 +24387,7 @@ the folk metal track	folk
 the gods of metal	metal
 this is better than metallica	metal
 this is not metalcore you dumb faggots great song btw	metal
+those singer-songwriters	singer-songwriter
 thrash fuckin metal	metal
 this metal	metal
 tolk folk	folk
@@ -24359,6 +24430,7 @@ terrible dance single	dance
 tetris metal	metal
 texas bar room rockin   a	rock
 texas indie	indie
+texas singer-songwriters	singer-songwriter
 thai indie	indie
 that kool rock	rock
 the bar kays soul finger	soul
@@ -24698,6 +24770,7 @@ accoustic -pop	pop
 accoustic folk metal	folk
 accoustic folk sampler	folk
 accoustic instrumental	instrumental
+accoustic singer-songwriter	singer-songwriter
 achillout	chillout
 acjazz	jazz
 acker bilk  his paramount jazz band	jazz
@@ -24720,6 +24793,7 @@ acoustic progressive metal	metal
 acoustic punk rock	punk
 acoustic punkovers	punk
 acoustic punkrock	punk
+acoustic singer-songwriter zachbraff	singer-songwriter
 acoustic-indie	indie
 acoustic-instrumental	instrumental
 acousticindeifolk	folk
@@ -25081,6 +25155,7 @@ anit-folk	folk
 another new wave of british metal - sounds nice and looks even more gay then lostprophets	metal
 another pop song	pop
 another ridiculous metal cover of a non-metal song	metal
+another singer-songwriter	singer-songwriter
 another stupid indie tag	indie
 ansgar42elektro-folk	folk
 anthemic dance	dance
@@ -25222,6 +25297,7 @@ australian indie something	indie
 australian indies	indie
 australian punk rock	punk
 australian punk rock with amazing lyrics	punk
+australian singer-songwriter	singer-songwriter
 australian-rock	rock
 australien punk	punk
 austrian female fronted melodic power metal	metal
@@ -25712,6 +25788,7 @@ brit punk revival	punk
 brit rock faves	rock
 brit rock love	rock
 brit rock pop	pop
+brit singer-songwriter	singer-songwriter
 brit techno pop	pop
 brit-indie pop rock	indie
 brit-indie rock	indie
@@ -25856,6 +25933,7 @@ canadian eighties metal	metal
 canadian female indie rock	indie
 canadian folk music	folk
 canadian power rock	rock
+canadian singer-songwriter	singer-songwriter
 canarian pop	pop
 cancion popular	pop
 canciones populares	pop
@@ -25945,6 +26023,7 @@ charter pop	pop
 chav dreamdance	dance
 chav rock	rock
 cheapjackrock	rock
+check out: singer-songwriter	singer-songwriter
 check out: synthpop	pop
 check postrock	rock
 check rock	rock
@@ -25977,6 +26056,7 @@ chickrock	rock
 chicks who kinda rock	rock
 chicle pop	pop
 chicle-pop	pop
+child lyrics singer-songwriter	singer-songwriter
 children metal	metal
 chilean indie	indie
 chilean punk	punk
@@ -26260,6 +26340,7 @@ contemporary british rock	rock
 contemporary calm jazz	jazz
 contemporary cathedral folk	folk
 contemporary rockabilly	rock
+contemporary singer-songwriter	singer-songwriter
 contemporary souljazz	jazz
 contemporay acoustic instrumental	instrumental
 contemporay rock	rock
@@ -26787,6 +26868,7 @@ danish metal rock	metal
 danish metalcore	metal
 danish rock and roll	rock
 danish rock guitar	rock
+danish singer-songwriter	singer-songwriter
 danny elfman metal	metal
 danpop	pop
 darck jazz	jazz
@@ -27348,6 +27430,7 @@ elettro metal	metal
 elettro pop like a robot	pop
 elettro rock	rock
 elf metal	metal
+eliott smith remebrance salute female singer-songwriter sweet touching	singer-songwriter
 elitist pop	pop
 ella louis jazz	jazz
 elliott smithy indie	indie
@@ -27678,6 +27761,7 @@ female fronted orchestral metal	metal
 female fronted prog metal	metal
 female fronted rap metal	metal
 female frontend metal	metal
+female german singer-songwriter	singer-songwriter
 female hair metal	metal
 female indie rock	indie
 female indie songwriter	indie
@@ -27699,8 +27783,10 @@ female rock artist	rock
 female rocker	rock
 female rocker songs	rock
 female rockin vocals	rock
+female singer-songwriter mellow	singer-songwriter
 female soul slow jam	soul
 female swedish acoustic pop	pop
+female swedish singer-songwriter	singer-songwriter
 female symphonic metal	metal
 female vocal jazz sheep	jazz
 female vocalist    soul	soul
@@ -28709,6 +28795,7 @@ great rock singer	rock
 great rock tunes on earth	rock
 great rock vocals	rock
 great romantic indie song	indie
+great singer-songwriter	singer-songwriter
 great song - nice chillout	chillout
 great soulful gilmore track	soul
 greates band ever    punk    rad      favorite    life saving music	punk
@@ -29927,6 +30014,7 @@ inverno inviertno domingo chilloutcafe	chillout
 iopop	pop
 irani folklore	folk
 irch rock	rock
+ireland singer-songwriter	singer-songwriter
 irisch folks	folk
 irish folk fusion	folk
 irish folk song	folk
@@ -31111,6 +31199,7 @@ luscious jazz	jazz
 lush electrnic pop	pop
 lush indie	indie
 lush rock	rock
+lush singer-songwriter sensual storytelling	singer-songwriter
 lush tone rock	rock
 lusopunk	punk
 luuv jazz	jazz
@@ -31187,6 +31276,7 @@ male folkie	folk
 male jazz composer singer	jazz
 male rock vocal	rock
 male rock vocals	rock
+male singer-songwriter underrated	singer-songwriter
 male soft rock	rock
 mali rock	rock
 malian folk	folk
@@ -31322,6 +31412,7 @@ mellow oldies	oldies
 mellow psy-billy rock	rock
 mellow rock 70s california	rock
 mellow rock favorite	rock
+mellow singer-songwriter newbands	singer-songwriter
 mellow swedish indie	indie
 mellowaltrock	rock
 mellowed jazz	jazz
@@ -31943,6 +32034,7 @@ my rocks	rock
 my sad windy world where echo dances down the hill with someone else than me	dance
 my sex and my drugs and my rock and roll	rock
 my sin my soul	soul
+my singer-songwriter tag	singer-songwriter
 my soul plrase dont give up than my senses	soul
 my soul side	soul
 my soul surrendered	soul
@@ -32102,6 +32194,7 @@ new-rockabilly	rock
 new-soul	soul
 newage instrumental	instrumental
 newage jazz	jazz
+newbands singer-songwriter	singer-songwriter
 newcastle indie	indie
 newindie	indie
 newoldrock	rock
@@ -32285,6 +32378,7 @@ novo rock tuga	rock
 now i want to dance	dance
 now thats true metal	metal
 now this is rock	rock
+nowe odkrycia singer-songwriter	singer-songwriter
 nsblackmetal	metal
 nu metal sux	metal
 nu agerock	rock
@@ -32682,6 +32776,7 @@ pidor-rock	rock
 pieeetr-alternative rock	alternative rock
 pieeetr-metal	metal
 pieeetr-nujazz	jazz
+pieeetr-singer-songwriter	singer-songwriter
 piekne jazzowe glosy	jazz
 piercing pain for your soul	soul
 pig destroyer gravedancer	dance
@@ -32777,6 +32872,7 @@ politcal punk	punk
 political folkrock seen live	folk
 political metalcore	metal
 political oz social rock	rock
+political progg swedish singer-songwriter	singer-songwriter
 political-folk	folk
 political-melodic-punk	punk
 polska djazz	jazz
@@ -33933,6 +34029,7 @@ quirkpop	pop
 quirky little instrumental piece with static ending	instrumental
 quirkyjazz	jazz
 quite jazz bass	jazz
+r and b british vocal soul sweet singer-songwriter	singer-songwriter
 r b smooth jazz keyboard	jazz
 rock lohan	rock
 rockin eagles of d	rock
@@ -34162,6 +34259,7 @@ robotrock	rock
 robots can dance	dance
 robots dance	dance
 robots have soul	soul
+roc singer-songwriter	singer-songwriter
 rock    favourite	rock
 rock   uk	rock
 rock  brazil	rock
@@ -35269,10 +35367,23 @@ singer song rockar	rock
 singer songwriter jazz	jazz
 singer songwriter rock	rock
 singer songwriter-mellow folk	folk
+singer-songwriter    favourite	singer-songwriter
+singer-songwriter - piano	singer-songwriter
+singer-songwriter acoustic	singer-songwriter
+singer-songwriter female vocalist	singer-songwriter
 singer-songwriter female vocalists folk british female acoustic guitar seen live independent	folk
 singer-songwriter folk female vocalist	folk
+singer-songwriter gentle lilting	singer-songwriter
 singer-songwriter indie norwegian	indie
 singer-songwriter jazz	jazz
+singer-songwriter of the 70s variety	singer-songwriter
+singer-songwriter romantic	singer-songwriter
+singer-songwriter und so	singer-songwriter
+singer-songwriter underground full tracks	singer-songwriter
+singer-songwriter-allinstruments	singer-songwriter
+singer-songwriter-poet	singer-songwriter
+singer-songwriterg	singer-songwriter
+singer-songwritert	singer-songwriter
 singing jazz	jazz
 singing lead guitar players rock	rock
 singing metal	metal
@@ -35802,6 +35913,7 @@ soul-science	soul
 soul-seek	soul
 soul-shoutin saviors	soul
 soul-soothing	soul
+soul-stirring singer-songwriterism	singer-songwriter
 soul-sucking	soul
 souladysoundz	soul
 soulaki i	soul
@@ -35820,6 +35932,7 @@ soulfly clone	soul
 soulfly-prophecy	soul
 soulfoul	soul
 soulful acoustic	soul
+soulful acoustic singer-songwriter female	singer-songwriter
 soulful and beautiful	soul
 soulful and beautiful mr lewis	soul
 soulful and happy	soul
@@ -36001,6 +36114,7 @@ spanish punk-rock	punk
 spanish rock en tu idioma	rock
 spanish rock rockin	rock
 spanish rock that was a hit in mexico city	rock
+spanish singer-songwriter	singer-songwriter
 spanish solistas pop	pop
 spanish-rock	rock
 spank rock - coke and wet	rock
@@ -36396,6 +36510,7 @@ symphonyc metal	metal
 symphunk metal	metal
 sympohnic metal	metal
 syn punk	punk
+syn singer-songwriter	singer-songwriter
 syngefolk	folk
 synhtpop	pop
 synphonic rock	rock
@@ -36442,6 +36557,7 @@ take me to the place where the wild boys dance -	dance
 taken from my soul	soul
 tako rock veneno spain ejea zaragoza	rock
 takorock	rock
+talented female singer-songwriter	singer-songwriter
 talented folks i know	folk
 tales from the rock yard	rock
 talk rock	rock
@@ -37104,6 +37220,7 @@ us alt rock	rock
 us indie alternative 80er	indie
 us power metals	metal
 us progressive metal	metal
+us singer-songwriter	singer-songwriter
 us ska punk	punk
 us-power metal	metal
 us-punk	punk
@@ -37945,6 +38062,21 @@ rorck	rock
 rosck	rock
 saoul	soul
 seoul	soul
+singer sing writer	singer-songwriter
+singer singwriter	singer-songwriter
+singer somgwriter	singer-songwriter
+singer writer	singer-songwriter
+singer-aongeriter	singer-songwriter
+singer-singwriter	singer-songwriter
+singer-so	singer-songwriter
+singer-somgwriter	singer-songwriter
+singer-soungwriter	singer-songwriter
+singer-spongwriter	singer-songwriter
+singer-wongwriter	singer-songwriter
+singer-writer	singer-songwriter
+singerongwriter	singer-songwriter
+singersngwriter	singer-songwriter
+singerwriter	singer-songwriter
 sol	soul
 solu	soul
 sou	soul
@@ -38273,8 +38405,10 @@ aimeesad	sad
 aint it funny	funny
 aint no funny jlo	funny
 aint no good cake	good
+air - lucky and unhappy	happy
 air - photograf	hot
 air traffic no more running away - released on fractured life - very good canadate for bg track	good
+aj bi te grlila sade i pjevala ti na uvo al me jebe ova alergija majku joj	sad
 aj good	good
 akes you happy	happy
 akirahoshi dark	dark
@@ -38283,6 +38417,7 @@ alabama funny	funny
 alabama sad	sad
 alan menken - happy end in agrabah	happy
 alanis good	good
+alanis morissette - so unsexy	sexy
 albums that i own and are great	great
 alcoholic melancholic	melancholic
 aldershot	hot
@@ -38292,6 +38427,7 @@ alex james is dreamy	dreamy
 alexander oneal if you were here tonight- greatest hits	great
 alexander the great	great
 alexia good	good
+alfredo sadel	sad
 alicemugshot	hot
 alicemugshot-essential	hot
 alicemugshot-green	hot
@@ -38352,6 +38488,7 @@ almost loved	loved
 almost sad	sad
 almost too good	good
 almost too sad	sad
+alosade	sad
 also funny as shit	funny
 also good	good
 also great books	great
@@ -38382,6 +38519,7 @@ always loved me some babyface fo sho	loved
 always make me happy	happy
 always makes me happy	happy
 always to have a good time	good
+alyssadepte	sad
 am i sexy	sexy
 amayzes loved	loved
 amazing darkness	dark
@@ -38682,6 +38820,7 @@ best loved artists	loved
 best of loved	loved
 best of mellow	mellow
 best of romantic	romantic
+best of sade	sad
 best--dark	dark
 bestbeloved	loved
 beth orton verde si calm	calm
@@ -38697,6 +38836,7 @@ between daylight and dark	dark
 between the daylight and the dark - mary gauthier	dark
 bgr - dark	dark
 big and sexy	sexy
+big face - style crusader data remix	sad
 big sexy hook	sexy
 big shot	hot
 big shot momentarily	hot
@@ -38768,6 +38908,7 @@ bobby vee-take good care of my baby	good
 bocelli and great singers	great
 bock auf abhotten	hot
 bon jovi loved	loved
+booka sade	sad
 boom headshot	hot
 boosadab	sad
 boot stomping beer drinking good	good
@@ -39015,6 +39156,8 @@ calms you down	calm
 cameo  keep it hot	hot
 cameo word up-greatest hits	great
 camp:covers:sad	sad
+campus crusade	sad
+campus crusade for christ	sad
 can be good	good
 can put me in a good mood no matter what	good
 canada electric feel good	good
@@ -39047,6 +39190,7 @@ carpenters-goodbye to love	good
 caruccia romantica	romantic
 casada-a never ending dream	sad
 cassadaga	sad
+cassadee	sad
 cassady	sad
 cassidy ft r kelly hotel	hot
 cat power - the greatest	great
@@ -39098,6 +39242,7 @@ chico-calma	calm
 childe roland to the dark tower came	dark
 children of bodom covering stone  just great	great
 childrens  photos	hot
+childrens crusade	sad
 chill - romantic	romantic
 chill - sad	sad
 chill and dark	dark
@@ -39245,6 +39390,11 @@ creepysexycool	sexy
 cris sad electric	sad
 crotch thrustingly good	good
 crunchy goodness	good
+crusade	sad
+crusader	sad
+crusaders	sad
+crusaders street life	sad
+crusades	sad
 cry with sadness	sad
 culo mas sexy	sexy
 cult music or something i dunno but its pretty damned great	great
@@ -39254,6 +39404,8 @@ cup of hot tea	hot
 current goodness	good
 currently hot	hot
 cursive and saddle creek	sad
+cusco - the crusades	sad
+cusco the crusades	sad
 cut it while its hot	hot
 cute and pretty yet sad	sad
 cute guy great	great
@@ -40003,6 +40155,7 @@ dj feel good	good
 dj goodnews	good
 djpman loved tracks	loved
 djpman-loved-tracks	loved
+djsadelux	sad
 dkz-romantic	romantic
 dloved	loved
 dloved dquiteandnice	loved
@@ -40366,11 +40519,13 @@ fantasia- good love	good
 far too good	good
 farewells and goodbyes	good
 farkin good	good
+fassade	sad
 fast flowing-happy	happy
 fast fun happy	happy
 fast good	good
 fast paced greatness	great
 fat freddys drop - dark days	dark
+fav by sade	sad
 fav our shot	hot
 fave of mine from great group	great
 favoritas sad	sad
@@ -40622,6 +40777,7 @@ forrest gump ost greatness	great
 forspotify loved tracks	loved
 forward the good riddim	good
 founding member be good tanyas	good
+founding member of the crusaders	sad
 foxboro hot tubs	hot
 fran goodies	good
 frank calls the shots for all of us guys	hot
@@ -43785,6 +43941,7 @@ hamsadhwani	sad
 handclap goodness	good
 handclap-happy	happy
 hands in the dark	dark
+hang on to your love-sade	sad
 hank williams - hey good lookin	good
 happily sad	sad
 happiness meets sadness	sad
@@ -45066,6 +45223,7 @@ i ve always loved this band	loved
 i ve got a secret a good one	good
 i ve loved her so long	loved
 i wanna be a good monster	good
+i wanna be a style crusader	sad
 i wanna be loved by you	loved
 i wanna be loved by yoy	loved
 i want my goodbye back	good
@@ -45191,6 +45349,7 @@ inner city-good life	good
 innerhappy	happy
 innocence is lost into the dark	dark
 innocent happy feeling	happy
+insade	sad
 insane in a good way	good
 insanely good	good
 insanely great	great
@@ -45399,6 +45558,7 @@ jangly mellow	mellow
 janis joplin-as good as youve been ti this world	good
 japanese good	good
 japanese goodness	good
+japsa-sade	sad
 jared is hot	hot
 jared is so fuckin hot	hot
 jarre the great	great
@@ -45545,6 +45705,7 @@ kelis feat terrar - good stuff	good
 kelly make good musik	good
 kenney chesney- the good stuff	good
 kenny g-havana-greatest hits	great
+kenny g-sade	sad
 keren ann greatest you can find	great
 kevin kern great piece	great
 kevin shields is sexy	sexy
@@ -45593,12 +45754,14 @@ kiss-hotter than hell	hot
 kitsch but great	great
 kitschily energetic	energetic
 kiwi goodness	good
+klassiksade	sad
 klein funny favourites	funny
 klein happy favorites	happy
 klein happy favourites	happy
 klein romantic favorites	romantic
 klein romantic favourites	romantic
 klein sad favourites	sad
+klein unhappy favorites	happy
 klomp123 loved	loved
 klvt darkness tr00	dark
 kool  sexy	sexy
@@ -45700,12 +45863,14 @@ level 42 hot water	hot
 level 42-hot water	hot
 lgcalm	calm
 lick shot	hot
+life 2: the unhappy ending	happy
 life is better with a good bass	good
 life is good	good
 life is good honest	good
 life is great	great
 life is sad	sad
 life of a repo man is always intense	intense
+lifekiss  of  sade	sad
 lifes been good	good
 lifes great adventure	great
 lifes too good	good
@@ -45715,6 +45880,7 @@ light n happy	happy
 light or calm	calm
 like a good warm shower	good
 like a snapshot when youve lost the game	hot
+like a tatto sade	sad
 like better than taking this dress off good	good
 like darkness	dark
 like good	good
@@ -45725,6 +45891,7 @@ like i never loved you at all	loved
 like it good rhythms	good
 like mia if she was good	good
 like really good coffee	good
+like sade	sad
 like the sea im constantly changing from calm to ill	calm
 like vampire weekend good	good
 likr good old pumpkins	good
@@ -45734,6 +45901,7 @@ lil slow but good	good
 lil too mellow	mellow
 lil wanye the great	great
 limpy bizkit is a good band	good
+lips are unhappy	happy
 lisa miskovsky one dark night	dark
 list of good shit	good
 list of goodies	good
@@ -45961,7 +46129,9 @@ lucy pearl-good love	good
 ludicrously good	good
 lughnasad	sad
 lullabies   mellow	mellow
+lumisade	sad
 luna lovegood	good
+luotisade	sad
 lv sad	sad
 lxmostlovedones	loved
 lyfe jennings goodbye	good
@@ -46123,6 +46293,7 @@ maroon 5 - sweetest goodbye	good
 maroon 5 she will be loved	loved
 maroon 5 sweetest goodbye	good
 maroon5-goodbye	good
+marquis de sade	sad
 marquiz de sad	sad
 marshmellow	mellow
 martin solveig- im a good man	good
@@ -46532,6 +46703,7 @@ miley cyrus goodbye	good
 miley cyrus goodgye	good
 miley cyrus- goodbye	good
 milhoto	hot
+miljoonasade	sad
 milk inc - goodbye says it all	good
 mill-sad	sad
 milos hotlist	hot
@@ -46556,6 +46728,8 @@ mittelalter dunkel dark	dark
 mix tapes in sad-heaven	sad
 mix-tapes in sad heaven	sad
 mixes dreamy boys made me	dreamy
+mixtress desade	sad
+mixtress mary desade	sad
 mj just good friends	good
 mkes me happy	happy
 mm mm good	good
@@ -46814,6 +46988,7 @@ neo romantic	romantic
 neo romanticism	romantic
 neo-romantic	romantic
 neo-romanticism	romantic
+neo-sade	sad
 neon plastix - whats so funny	funny
 neoromantic	romantic
 neoromanticism	romantic
@@ -47225,6 +47400,7 @@ oneofthegreatest	great
 only a taste of the greats	great
 only good one	good
 only great	great
+only sade	sad
 only sounds good live	good
 only the good die young	good
 ooo good cover	good
@@ -47272,8 +47448,11 @@ oxymoron follows: good australian artist	good
 ozzy osbourne  shot in the dark	dark
 ozzy osbourne - shot in the dark	dark
 p lion-happy children	happy
+pacific palisades	sad
 pain is a good thing	good
 paints a good picture	good
+palisades	sad
+palisades park	sad
 panjabi mellow	mellow
 pants-shittingly good	good
 pants-wettingly good when loud	good
@@ -47287,10 +47466,12 @@ paraundespertarhappy	happy
 particularlygood	good
 partly great	great
 party shit that makes me happy	happy
+pasadena	sad
 pasado	sad
 pasado anterior	sad
 pasadobles	sad
 pasadon	sad
+passades pel ribot	sad
 passado	sad
 passion sexy lover	sexy
 past life calm smiles	calm
@@ -47387,6 +47568,7 @@ playlist-good2	good
 playlist:melancholic	melancholic
 please be good to me	good
 please just take these photos from my hands	hot
+please send me some one to love sade	sad
 please world stop being such a sad place	sad
 plies-who hotter than me	hot
 plion-happy children	happy
@@ -47505,6 +47687,7 @@ psychotic reaction	hot
 psychotic sounds for freaks and weirdos	hot
 psychoticum	hot
 psychotropic bubbles floating slowly in the air	hot
+puertasadentro ama esta wea	sad
 puerto rico sexy	sexy
 pull a vertebrae funny	funny
 pull a vertibrate funny	funny
@@ -48275,7 +48458,58 @@ saddle tramp	sad
 saddness	sad
 saddo	sad
 saddy	sad
+sade	sad
+sade   keep looking	sad
 sade  never as good as the first time	good
+sade - all about our love	sad
+sade - cherish the day	sad
+sade - cherry pie	sad
+sade - flow	sad
+sade - jezebel	sad
+sade - king of sorrow	sad
+sade - pearls	sad
+sade - somebody already broke my heart	sad
+sade - the moon and the sky	sad
+sade - the sweetest gift	sad
+sade - the sweetest taboo	sad
+sade - turn ly back on you	sad
+sade - war of the hearts	sad
+sade - your love is king	sad
+sade 2	sad
+sade adu	sad
+sade by your side	sad
+sade cover	sad
+sade darling	sad
+sade from the release the best of sade	sad
+sade hang on to your love	sad
+sade jezebel	sad
+sade kiss of life	sad
+sade like	sad
+sade like a tatto	sad
+sade love	sad
+sade pearls	sad
+sade radio	sad
+sade relax	sad
+sade smooth	sad
+sade somebody already	sad
+sade style	sad
+sade sweetest gift	sad
+sade the sweetest gift	sad
+sade type	sad
+sade wcwlt	sad
+sade your love is king	sad
+sade-cherish the day	sad
+sade-frankie	sad
+sade-i couldn t love you more	sad
+sade-love is stronger than pride	sad
+sade-nigeria	sad
+sade-pearls	sad
+sade1	sad
+sadeeee	sad
+sadelaulu	sad
+sadepaivat	sad
+sadepaivien masennukseen	sad
+sadest tracks	sad
 sadface	sad
 sadface but in the prettiest way	sad
 sadfaced	sad
@@ -48370,6 +48604,7 @@ said i loved you but i liiiiiiiiiiiiiiiiiiiied	loved
 sail away -great track	great
 saint saens - the swan romantic	romantic
 salas je z toho hotovej	hot
+sally   sade	sad
 sammy davis jr-there s a small hotel	hot
 sample from dark city	dark
 sample goodness	good
@@ -48459,6 +48694,7 @@ seriously good	good
 seriously good stuff	good
 seriously happy	happy
 seriously makes me happy	happy
+seriously unhappy	happy
 seventies feelgood	good
 sex in the darkness	dark
 sexual hot chocolate	hot
@@ -49321,9 +49557,11 @@ still just as good 12 years on	good
 still not as good as unreleased	good
 still sounds great	great
 still very good	good
+sting childrens crusade	sad
 stone groove goodness	good
 stone roses - good times	good
 stoner darkthrone	dark
+stories with unhappy endings	happy
 strange and happy	happy
 strange and sexy guitar tapping chick	sexy
 strange animal in the dark	dark
@@ -49473,6 +49711,7 @@ sweet sad lovely	sad
 sweet sadness	sad
 sweet-sad	sad
 sweet-sad introspection	sad
+sweetback aka sades band	sad
 sweeter than kisses hotter than sex	hot
 sweetest and saddest	sad
 sweetest goodbye - maroon 5	good
@@ -49614,8 +49853,10 @@ the best great	great
 the best great cool lyrics	great
 the best great sweet lovely	great
 the best loved	loved
+the best of sade	sad
 the best shot	hot
 the billboard hot 100	hot
+the black crusade	sad
 the blak keys- goodbaye babylon	good
 the calm	calm
 the calm before the storm	calm
@@ -49627,6 +49868,11 @@ the church of hot addiction	hot
 the click five -say goodnight	good
 the clip is great	great
 the comfort in being sad	sad
+the crusaders	sad
+the crusaders - street life	sad
+the crusaders street life	sad
+the crusaders- street life	sad
+the crusades	sad
 the cure-happy the man	happy
 the dancing greats	great
 the dark	dark
@@ -49846,6 +50092,7 @@ the last goodnight	good
 the last goodnigth	good
 the last shadow puppets - calm like you	calm
 the libertines - the good old days	good
+the lone crusader	sad
 the long goodbye	good
 the long goodbye by ronan keating	good
 the loved ones	loved
@@ -49885,6 +50132,8 @@ the only thing that looks good on me is you	good
 the only thing that looks good on me is you live	good
 the only time im happy when i play my guitar	happy
 the ooooh good old ones	good
+the palisades	sad
+the pasadenas	sad
 the pharaoh is great epic	great
 the pioneers - long shot kick de bucket	hot
 the platters   the great pretender	great
@@ -49951,6 +50200,7 @@ the white stripes under great white northern lights	great
 the who happy jack	happy
 the wizard of lightning loved tracks	loved
 the word calm	calm
+the word crusade	sad
 the word dark	dark
 the word funny	funny
 the word good	good
@@ -50015,6 +50265,7 @@ they make me happy	happy
 they play this in the queue for baptism by john in a flowing river of goodness	good
 they r great arent they	great
 they re red hot	hot
+they sound like sade	sad
 they were great	great
 theyre good	good
 theyre hot	hot
@@ -50166,8 +50417,11 @@ timeless goodie	good
 timeless great music	great
 tina marie greatest hits	great
 tinged in darkness	dark
+tired and unhappy	happy
 tired of being sexy	sexy
+tired-unhappy	happy
 tiredandsad	sad
+tiredunhappy	happy
 tis good	good
 title is from the movie stand by me go watch it its good	good
 tivasyk:happy	happy
@@ -50398,6 +50652,10 @@ unexpected feel good	good
 unexpectedly good	good
 ungodly good	good
 ungodly good lyrics	good
+unhappy endings	happy
+unhappy girl	happy
+unhappy to happy	happy
+unhappy women	happy
 unheard good ones	good
 unicorns and ghosts are great	great
 unimpeachably good	good
@@ -50681,6 +50939,7 @@ when times were good	good
 when u happy:d	happy
 when will i be loved	loved
 when you are happy	happy
+when you are happy or unhappy	happy
 when you feel sad	sad
 when youre feeling great	great
 whenever i get you next to me its gonna be good	good
@@ -55133,6 +55392,7 @@ ultra-cool	cool
 um cool muito grande	cool
 un moment pour chiller	chill
 un-ds cool traxxs	cool
+unamerican	american
 uncle bob iz da coolest	cool
 uncle perrys favorite	favorite
 uncle rex favorite	favorite
@@ -55955,3 +56215,2620 @@ yeah its 90s	90s
 yeahhhhhh 80s	80s
 zeche bochum 80s	80s
 zenduke 80s	80s
+	
+:00s	2000s
+1 delikatnie	90s
+12345678	60s
+2003	2000s
+2008 fave	favorite
+40 love	loved
+40s 50s 60s	60s
+40s 60s	60s
+43365283	80s
+50 and 60s	60s
+50s 60s	60s
+50s 60s singer	60s
+50s and 60s	60s
+50s and 60s influenced	60s
+50s retro from the 70s	70s
+50s to 80s	80s
+60 80s	80s
+60s 70s	60s
+60s 70s 80s 90s 00s	80s
+60s 70s and 80s	80s
+60s 80s	60s
+60s and 70s	60s
+70 80s	80s
+70s 80s	80s
+70s 80s 90s	70s
+70s and 80s	80s
+70s and 80s grooves	80s
+70s and 80s mix	80s
+70s boz	70s
+70s come 80s	80s
+77davez 70s	70s
+80 90s	90s
+80s 70s	80s
+80s 90s	80s
+80s 90s 00s	90s
+80s and 90s	80s
+80s and 90s rnb	80s
+80s tubeway army	80s
+80s y 90s	90s
+90s 00s	90s
+90s to 2010	90s
+a god singer	singer songwriter
+a tdom	70s
+aaaarrrgh	80s
+abba singer	singer songwriter
+abc hey citizen	american
+abject	sad
+absurd	funny
+acerbic	funny
+achter	2000s
+achter mijn ogen	2000s
+acid jazz	jazz
+acid rock	rock
+acid techno	electronica
+acordeon	2000s
+acoustic blues	acoustic
+acoustic music	acoustic
+acoustic rock	rock
+acoustical	acoustic
+acrid	intense
+acrobatic	energetic
+actor	singer songwriter
+actor sing	singer songwriter
+actor singers	singer songwriter
+actress	singer songwriter
+actress singer	singer songwriter
+actress sings	singer songwriter
+adamant	happy
+adequate	good
+admirable	great
+admired	loved
+adorable	sexy
+adore lalah	loved
+adored	loved
+adventurous	dreamy
+affectionate	funny
+afi fave	favorite
+african	british
+afro american	american
+agent steel	metal
+aggressive	intense
+agile	energetic
+agonizing	sad
+agreeable	happy
+ahhhh los 90s	90s
+ails fave	favorite
+airy	dreamy
+alabama	american
+aleatoric music	jazz
+algorithmic	electronic
+alluring	sexy
+alright	good
+alterative	alternative
+alternate	alternative
+alternative country	alternative
+alternative dance	dance
+alternative folk	folk
+alternative hip hop	alternative rock
+alternative metal	alternative rock
+alternative pop	alternative rock
+alternative punk	alternative rock
+amaze fave	favorite
+amazed	happy
+amazin 90s	90s
+amazing	awesome
+amber	dark
+ambient	electronica
+ambient dub	electronica
+ambient music	electronica
+ambient pop	pop
+ambient techno	electronica
+ambient trance	electronica
+ambitious	energetic
+america the 70s	70s
+american primitive guitar	american
+amiable	energetic
+amigosan	70s
+amorous	romantic
+amusing	funny
+anarchic	energetic
+anarcho punk	punk
+anathema family	party
+anatolian rock	rock
+ancillary	alternative
+andino	80s
+andrex	90s
+androgynous	sexy
+angeles	british
+angelic	dreamy
+anglo irish	british
+anglo saxon	british
+angry	sad
+angsty	melancholic
+anguished	sad
+animo	70s
+annoying	funny
+anos 80s	80s
+anxious	happy
+apathetic	sad
+ape loves	loved
+apolitical	energetic
+appalachian folk	folk
+appalled	sad
+appreciated	loved
+appreciative	happy
+apprehensive	happy
+april love	loved
+arab pop	pop
+arabic pop	pop
+arduous	intense
+arena rock	rock
+argentine rock	rock
+arizona	american
+arkansas	american
+armenian	american
+arpeggiated	melancholic
+arriba canada	british
+art pop	pop
+art punk	punk
+art rock	rock
+artist	singer songwriter
+artist abba	singer songwriter
+artist editors	singer songwriter
+artist fave	favorite
+artist vs poet	singer songwriter
+artiste	singer songwriter
+artiste bio	singer songwriter
+artsy	dreamy
+arty	dreamy
+as artist	singer songwriter
+ashamed	sad
+asia	british
+asia goth	british
+asian	american
+asian american jazz	american
+assertive	energetic
+associations love	loved
+assured	happy
+astonished	happy
+astounding	awesome
+astute	energetic
+atmospheric black metal	metal
+atonal	melancholic
+atrocious	sad
+attractive	beautiful
+atypical	intense
+audiovisual	electronic
+aural	acoustic
+ausinks	80s
+aussie	british
+aussie christmas	british
+aussies	british
+australian	british
+australian country music	british
+australian hip hop	british
+australian pub rock	rock
+austrian	british
+autumnal	melancholic
+avant garde jazz	jazz
+avant garde metal	metal
+avant garde music	jazz
+avant garde pop	pop
+avivaldi	70s
+awake	calm
+awed	happy
+awful	sad
+awkward	funny
+aymees fave track	favorite
+aziza	60s
+bababa	2000s
+babe	sexy
+bad	good
+baleful	haunting
+balkan pop	pop
+ballet	dance
+balmy	cool
+bamboo band	metal
+band hero	singer songwriter
+bangin 70s	70s
+banjo	jazz
+baroque music	jazz
+baroque pop	pop
+bashful	energetic
+bass music	jazz
+bassline	electronica
+bavaria	2000s
+bawdy	funny
+bband fave	favorite
+bbc	british
+beatboxing	electronica
+beatific	dreamy
+beauteous	beautiful
+beautiful music	beautiful
+bebop	jazz
+been love	loved
+beige	dark
+belgium 80s	80s
+believable	funny
+beloved	loved
+best	good
+better	good
+beutiful	beautiful
+bewildered	sad
+bewitching	dreamy
+big	great
+birmingham	british
+bitchy	sexy
+bitter	sad
+bittersweet	sad
+bizarre	funny
+bizarro	funny
+bjoerk	80s
+blach shinnie likl bwai	80s
+black	dark
+black metal	metal
+blackened death metal	metal
+blackish	dark
+bleak	sad
+blip hop	pop
+blissful	dreamy
+blistering	intense
+bloc	party
+blond	sexy
+blonde	sexy
+blue	dark
+blue eyed	dark
+bluegrass	jazz
+blues	jazz
+blues rock	rock
+bluish	dark
+bnp	british
+bodacious	sexy
+bohemian	romantic
+boisterous	energetic
+bold	energetic
+bolton	british
+bonkers	funny
+boobs singer	singer songwriter
+boogie rock	rock
+boogie woogie	jazz
+bootylicious	sexy
+bop	jazz
+bop hop	jazz
+boring	funny
+boston	american
+boston america	american
+boston love	loved
+boy and girl singers	singer songwriter
+boy band	singer songwriter
+boy girl band	singer songwriter
+boy girl bands	singer songwriter
+boy girl harmonies	singer songwriter
+boy in love	loved
+boy love	loved
+boy loves guitar	loved
+boy singer	singer songwriter
+boy singers	singer songwriter
+brainy	sexy
+brash	energetic
+brasil singer	singer songwriter
+brassy	mellow
+brazil	british
+brazilian	american
+brazilian jazz	jazz
+breakbeat	electronica
+breakbeat hardcore	punk
+breakcore	electronica
+breakneck	intense
+breathtaking	beautiful
+breathy	melancholic
+breezy	dreamy
+brenda fassie vuli ndlela remix	2000s
+breton music	jazz
+brian loves	loved
+bright	dark
+brill building pop	pop
+brilliant	great
+bring bac 80s n 90s	90s
+brisk	intense
+british blues	british
+british invasion	british
+brits	british
+broad	intense
+broken hearted	sad
+brooding	melancholic
+brown	dark
+bruising	intense
+brunette	sexy
+brutal	intense
+brutal death metal	metal
+bryan	british
+bstatd	70s
+bubblegum dance	dance
+bubblegum pop	pop
+bulgy	dark
+bummed	sad
+buoyant	energetic
+burlesque	dance
+burly	energetic
+burnin love	loved
+busty	sexy
+but love	loved
+butch	sexy
+buy list 80s	80s
+buzzy	sexy
+c love	loved
+cabaret	jazz
+cabinet	party
+cajun music	jazz
+california	american
+california 60s	60s
+california love	loved
+california mf	american
+california u	american
+callous	sad
+calming	calm
+campy	funny
+canada	british
+canada love	loved
+canadian	british
+cape jazz	jazz
+capoeira music	jazz
+captivating	beautiful
+carefree	mellow
+careful	good
+caribbean	american
+caribic jamaikan singer	singer songwriter
+carnatic music	jazz
+carribean	british
+catalyst	instrumental
+catchy	funny
+cathartic	haunting
+cbs	american
+cd 60s	60s
+cd 70s	70s
+cd 90s	90s
+cd sammlung	2000s
+celebrity singers	singer songwriter
+cello	jazz
+cello rock	rock
+celtic metal	metal
+celtic punk	punk
+celtic rock	rock
+cerebral	energetic
+cereza699 fave	favorite
+ch4nfr41s3	80s
+chamber jazz	jazz
+chamber pop	pop
+champagne sax	jazz
+chaotic	intense
+charismatic	energetic
+charito	90s
+charming	beautiful
+chaste	romantic
+chatty	funny
+cheeky	funny
+cheerful	mellow
+cheerless	melancholic
+cheery	mellow
+cheesy	funny
+cheney	american
+chic	sexy
+chicago soul	soul
+child singers	singer songwriter
+childhood fave	favorite
+childhood loves	loved
+childish	funny
+childlike	dreamy
+children of love	loved
+chilling	haunting
+chillwave	electronica
+chilly	cool
+chinese	british
+chinese pop	pop
+chinese rock	rock
+chirpy	energetic
+chivalrous	romantic
+choppy	intense
+choral	jazz
+chordal	acoustic
+chris	british
+christian	american
+christian alternative	alternative
+christian black metal	metal
+christian electronic music	electronic
+christian metal	metal
+christian punk	punk
+christian rock	rock
+chrome	metal
+chrome depot	metal
+chuffed	happy
+chunky	sexy
+chvelle	2000s
+ciala wyginanie	2000s
+cielo andino	80s
+city pop	pop
+clannad singer	singer songwriter
+classic	classic rock
+classic blues	classic rock
+classic female blues	classic rock
+classic jazz	jazz
+classical music	jazz
+classy	beautiful
+claustrophobic	haunting
+clever	funny
+clinton	american
+clique	party
+cloudy	dark
+cloying	dreamy
+cohesive	energetic
+coital	romantic
+cold	hot
+college gf fave	favorite
+colorful	beautiful
+combative	energetic
+comedic	funny
+comedy	funny
+comedy rock	indie rock
+comely	sexy
+comfortable	happy
+comforting	haunting
+comical	funny
+compelling	great
+competent	good
+complacent	happy
+complicated	intense
+computer	electronic
+computer bubblegum	electronic
+computer core	electronic
+computerized	electronic
+conceited	sad
+concentrated	intense
+concerted	intense
+confident	happy
+conflicted love	loved
+confrontational	energetic
+congenial	energetic
+connie francies 60s	60s
+conscience	soul
+conscious	happy
+considerate	happy
+consoling	haunting
+constant	intense
+constructive	intense
+contemplative	mellow
+contemporary folk	folk
+contemporary jazz	jazz
+contented	happy
+continuous	intense
+contralto	singer songwriter
+convenient	alternative
+conventional	alternative
+cool jazz	jazz
+corny	funny
+coronation street	party
+country folk	folk
+country pop	pop
+country rock	rock
+country soul	soul
+courageous	energetic
+cowboy psychedelia	punk
+cpe bach	2000s
+cpe time	2000s
+craberries	70s
+crafty	energetic
+crampton	80s
+crazy	funny
+creative	energetic
+credited	instrumental
+creepy	funny
+crestfallen	happy
+crossover jazz	jazz
+crossover thrash metal	metal
+crucial	instrumental
+cruel	sad
+crust punk	punk
+cry for love	loved
+cuban	american
+curious	sad
+cute	funny
+cyber metal	metal
+cyp 90s	90s
+czech	american
+dad guitar	singer songwriter
+dads fave	favorite
+daffy	funny
+daft	funny
+dainty	beautiful
+dance music	dance
+danceable	electronica
+dancfloor	90s
+dancin tunes	oldies
+dancing	dance
+dandy	favorite
+danish	american
+dank	dark
+dark ambient	dark
+dark cabaret	dark
+dark electro	dark
+dark folk	folk
+dark jazz	jazz
+dark pop	pop
+dark psytrance	dark
+dark wave	dark
+darkened	dark
+darkish	dark
+darkwave	electronica
+darling	favorite
+daughter love	loved
+daunting	intense
+davis	american
+daydreams of love	loved
+dazzling	beautiful
+deannas fave	favorite
+death metal	metal
+death rock	rock
+debonair	sexy
+decent	good
+deep	intense
+deep soul	soul
+deerhof	2000s
+deft	energetic
+deirdre loves	loved
+dejected	happy
+delectable	beautiful
+delicate	beautiful
+delicious	beautiful
+delighted	happy
+delightful	beautiful
+delikatnie i subtelnie	90s
+demir demirkan	90s
+demmies 80s mix	80s
+democratic	party
+demure	sexy
+dense	intense
+depeched	80s
+deprecating	funny
+depressing	sad
+depressive black metal	metal
+desert rock	rock
+desolate	haunting
+desperate	happy
+despicable	sad
+despondent	sad
+destructive	intense
+devastated	sad
+devastating	sad
+dewy	dreamy
+dexys	80s
+diego	american
+different	alternative
+difficult	intense
+diffuse	intense
+digital	electronic
+dipdet	80s
+dire	sad
+dirty	hot
+disappointed	happy
+disappointing	sad
+disbelieving	happy
+disco polo	dance
+disconcerting	sad
+discordant	melancholic
+disgusted	sad
+disgusting	sad
+disheartened	sad
+disillusioned	sad
+dismal	sad
+disney	american
+disney pop	pop
+disorienting	haunting
+dispirited	sad
+disrespectful	sad
+dissonant	melancholic
+distinct	intense
+distraught	sad
+distressing	sad
+disturbing	haunting
+ditzy	sexy
+diva	singer songwriter
+diva diva	singer songwriter
+diva house	singer songwriter
+diva remix	singer songwriter
+diva tracks	singer songwriter
+divine rock	rock
+dixieland jazz	jazz
+dizzying	intense
+dj tunes	electronica
+dj zinc	metal
+djing	chillout
+do adore	loved
+do for love	loved
+doctor love	loved
+doleful	melancholic
+dolorous	melancholic
+dominican	american
+doom metal	metal
+doomy	melancholic
+dopey	funny
+dorky	sexy
+dour	melancholic
+downbeat	melancholic
+downtempo	electronica
+dr israel	american
+dramatic	intense
+dreadful	sad
+dream esque	dreamy
+dream pop	pop
+dreamlike	dreamy
+dreary	dreamy
+drippy	dreamy
+driwe driwe	60s
+droll	funny
+drone metal	metal
+druggy	punk
+drugs 60s	60s
+dry	hot
+ds60s 70s	70s
+dub techno	electronica
+dubstep	electronica
+dulces 90s	90s
+dulcimer	jazz
+dumb	funny
+durham	american
+dusky	dreamy
+dusty	dark
+dutch	british
+dutch jazz	jazz
+dynamic	energetic
+e loves	loved
+eager	happy
+earths	metal
+earthy	mellow
+ease	calm
+ebullient	energetic
+ecellent singer	singer songwriter
+ecstatic	happy
+eddy 80s	80s
+edgy	sexy
+eerie	haunting
+eery	haunting
+effective	good
+effeminate	sexy
+effervescent	energetic
+effortless	energetic
+ego	soul
+egypt	british
+egyptian	british
+ekova singer	singer songwriter
+ekt	2000s
+elated	happy
+eldritch	haunting
+electric folk	folk
+electrical	electronic
+electrifying	energetic
+electro	electronica
+electro funk	electronica
+electro hop	electronica
+electro punk	punk
+electroclash	punk
+electromagnetic	electronic
+electronic art music	electronic
+electronic body music	electronic
+electronic dance	electronic
+electronic music	electronic
+electronic rock	rock
+electropop	electronica
+elegaic	melancholic
+elegant	beautiful
+elegiac	melancholic
+eloquent	energetic
+elvirisms fave	favorite
+elvis love	loved
+embarrassed	sad
+embarrassing	sad
+emcee	singer songwriter
+emilou harris	90s
+emma loves this	loved
+emo	punk
+emo pop	pop
+emo rap	punk
+emocore	punk
+emotive	haunting
+empathetic	energetic
+enamored	loved
+enchanted	beautiful
+enchanting	beautiful
+endearing	funny
+endless	intense
+energized	energetic
+english	british
+engrossing	haunting
+enigmatic	dreamy
+enjoyable	awesome
+enjoyed	loved
+enlightening	funny
+enormous	great
+enrigue iglesias	70s
+entertaining	funny
+enthralling	haunting
+enthusiastic	energetic
+entrancing	dreamy
+enveloping	haunting
+envious	happy
+epic	intense
+eric singer	singer songwriter
+erotic	romantic
+erudite	energetic
+escapist	romantic
+esque	dreamy
+essential	instrumental
+essential rock	rock
+estetica	80s
+ethereal	dreamy
+ethereal pop	pop
+ethereal wave	dreamy
+euphoric	energetic
+european	british
+evocative	haunting
+ex love	loved
+excelent	good
+excellent	good
+exceptional	great
+excited	happy
+exciting	awesome
+excruciating	intense
+exemplary	great
+exhausting	intense
+exhilarated	happy
+exhilarating	awesome
+existential	melancholic
+existentialist	melancholic
+existing	alternative
+expansive	intense
+expensive	alternative
+experimental music	electronica
+experimental noise	acoustic
+experimental pop	pop
+experimental rock	rock
+explsive	80s
+expressive	energetic
+exquisite	beautiful
+extensive	intense
+extraordinary	great
+extreme	intense
+extreme metal	metal
+exuberant	energetic
+fabulous	beautiful
+falsetto	acoustic
+family act	party
+family is love	loved
+family love	loved
+famous	favorite
+fantastic	awesome
+fantastical	dreamy
+fascinating	funny
+fashionable	sexy
+fatalistic	melancholic
+fav	favorite
+fav 80s	80s
+fav 90s	90s
+fav artist	singer songwriter
+fav of faves	favorite
+fav singer	singer songwriter
+fave	favorite
+fave 2	favorite
+fave 2006	favorite
+fave 2008	favorite
+fave 3	favorite
+fave 4	favorite
+fave 70s	70s
+fave 80s	80s
+fave accident	favorite
+fave arema 80s	80s
+fave artist	favorite
+fave artist 1	favorite
+fave artists	favorite
+fave artists ever	favorite
+fave band	favorite
+fave belle tracks	favorite
+fave chembros	favorite
+fave echobelly	favorite
+fave ever	favorite
+fave faves	favorite
+fave kandi	favorite
+fave lines	favorite
+fave rnb	favorite
+fave rnb tracks	favorite
+fave rotire	favorite
+fave siouxsie	favorite
+fave tori	favorite
+fave track	favorite
+fave tracks	favorite
+fave tracks 2	favorite
+fave trax	favorite
+fave traxs	favorite
+fave tunes	oldies
+fave tunez	favorite
+fave vibes	favorite
+faves	favorite
+favorito loves loves	loved
+favy fave and the faves	favorite
+fearful	sad
+fearless	energetic
+fearsome	intense
+feisty	energetic
+femail singer	singer songwriter
+femal artist	singer songwriter
+femal singer	singer songwriter
+femcee	singer songwriter
+feminine	sexy
+ferocious	intense
+fervent	energetic
+fever	chill
+fevered	intense
+feverish	intense
+fiberglass	metal
+fiddler	singer songwriter
+fierce	intense
+fiery	energetic
+fiesta en ibizaaa	60s
+finest	great
+fingerstyle guitarist	singer songwriter
+firas love	loved
+fistful of steel	metal
+flamboyant	energetic
+flamenco	jazz
+flamenco jazz	jazz
+flamenco rumba	dance
+flashy	sexy
+flawless	awesome
+flexible	alternative
+flighty	dreamy
+flippant	funny
+flirty	sexy
+floaty	dreamy
+florid	melancholic
+flossin 80s style	80s
+flugelhorn	jazz
+fm 70s	70s
+fmera fave	favorite
+foggy	dark
+folk hop	folk
+folk metal	folk
+folk music	folk
+folk pop	pop
+folk punk	folk
+folk rock	rock
+folkloric	folk
+folksy	mellow
+folktronica	electronica
+fond	loved
+foolish	sad
+for love	loved
+forceful	energetic
+foreboding	haunting
+forgotten	sad
+forlorn	sad
+formidable	intense
+fortunate	happy
+foundational	instrumental
+foxy	sexy
+fragrant	beautiful
+france rnb	british
+frank	intense
+franstalig	70s
+frantic	intense
+freak folk	folk
+freaky	funny
+free folk	folk
+free jazz	jazz
+freewheeling	energetic
+french	british
+french canadian	british
+french pop	pop
+frenetic	energetic
+frenzied	intense
+frightened	sad
+frightening	haunting
+frilly	sexy
+frisky	sexy
+frost	chill
+frosty	cool
+fruitful	good
+fruity	mellow
+fuck america	british
+fuji music	jazz
+fun	funny
+funeral doom metal	metal
+funereal	melancholic
+funk	electronica
+funk metal	metal
+funk rock	rock
+funk soul	soul
+funkiest	favorite
+funky	dreamy
+funnier	funny
+funniest	funny
+furious	happy
+fusion jazz	jazz
+future jazz	jazz
+g60s and 70s	70s
+gabiii	70s
+gabis 80s	80s
+garage punk	punk
+garage rock	rock
+gauzy	dreamy
+gb1 singer	singer songwriter
+geeky	sexy
+geje xdd	2000s
+gelid	chill
+gemma love	loved
+gene loves	loved
+gene loves jezebel	loved
+genial	mellow
+genre	indie
+genre 80s	80s
+genteel	mellow
+gentle	mellow
+georgia	american
+georgia gibbs	american
+german	british
+german folk music	folk
+ghastly	sad
+ghostly	haunting
+gifted	energetic
+giggly	sexy
+gigiola	2000s
+gimmicky	funny
+girl and boy singers	singer songwriter
+girl band	singer songwriter
+girl boy band	singer songwriter
+girl love	loved
+girl singer	singer songwriter
+girl singers	singer songwriter
+girlie	sexy
+girlish	sexy
+girls love	loved
+girly	sexy
+gitara i spiew	70s
+glad	happy
+glam	sexy
+glam metal	metal
+glam punk	punk
+glam rock	rock
+glamorous	sexy
+glamourous	sexy
+glasgow uk	british
+gleaming	beautiful
+gleeful	sad
+glib	funny
+glistening	beautiful
+glitch pop	pop
+glittering	beautiful
+glittery	sexy
+glockenspiel	electronica
+gloomy	melancholic
+glorious	beautiful
+glum	sad
+goeie 80s	80s
+gogen solncev	70s
+good for nothing	good
+good natured	good
+goofy	funny
+gordon	british
+gorgeous	beautiful
+gospel music	jazz
+got love	loved
+goth cello	punk
+goth hop	punk
+goth pianist	singer songwriter
+goth psychedelia	punk
+gothic metal	metal
+gothic rock	rock
+gothy	sexy
+gotta love	loved
+govi guitarist	singer songwriter
+graceful	beautiful
+gracious	happy
+grammy nominee	singer songwriter
+grateful	happy
+gravar	2000s
+gray	dark
+greatest	great
+greece	british
+grieving	sad
+grim	sad
+grindcore	punk
+gripping	haunting
+gritty	energetic
+groove metal	metal
+grooving guitar	acoustic
+groovy	dreamy
+grouchy	sad
+group	party
+grrrl bands	punk
+grrrl riot	punk
+grt track frm 70s	70s
+gruesome	haunting
+grumpy	sad
+grunge	punk
+gta	british
+guesswhat	2000s
+guitar artists	jazz
+guitar girl	singer songwriter
+guitar girls	dance
+guitar guru	singer songwriter
+guitar hero	singer songwriter
+guitar hero 80s	80s
+guitar hero iii	instrumental
+guitar hero on tour	singer songwriter
+guitar legend	singer songwriter
+guitar maestro	singer songwriter
+guitar remix	electronica
+guitar singer	singer songwriter
+guitar slinger	singer songwriter
+guitar virtuosi	jazz
+gus 80s	80s
+gusty	intense
+gutsy	energetic
+guy girl harmonies	singer songwriter
+guy singer	singer songwriter
+guy singers	singer songwriter
+gymnastic	dance
+gypsy jazz	jazz
+gypsy punk	punk
+haiti	american
+haitian	american
+halvbra	80s
+hampshire	american
+handsome	beautiful
+happier	happy
+happiest	happy
+happinezz	2000s
+happy hardcore	happy
+hard	good
+hard rock	rock
+hardcore metal	metal
+hardcore punk	punk
+harlem heat	chill
+harmonic	acoustic
+harmonica blues	jazz
+harmonious	energetic
+harrowing	haunting
+harsh	intense
+hated	loved
+hateful	sad
+haunted	haunting
+hawaii	american
+hawt	sexy
+hawt 80s	80s
+haze	chill
+hazy	dark
+hc brazil	british
+hea artist	singer songwriter
+heady	dreamy
+healthy	energetic
+heartbreaking	sad
+heartbroken	sad
+heartening	sad
+heartfelt	haunting
+heartland rock	rock
+heartless	sad
+hearty	mellow
+heat haze	chill
+heated	hot
+heavenly	beautiful
+heavy	intense
+heavy hearted	intense
+heavy metal	metal
+heavy rock	rock
+hectic	intense
+heinous	sad
+hellcat artist	singer songwriter
+hellish	sad
+hello love	loved
+helluva	awesome
+helpful	good
+hemsedal 90s	90s
+henry	british
+hesitant	happy
+hh usa	american
+hi love	loved
+hideous	sad
+hilarious	funny
+hilton	british
+hindu	british
+hip hop soul	soul
+hippy	punk
+hispanic	american
+histrionic	melancholic
+holographic	electronic
+honest	good
+honkytonk tunes	jazz
+hop	pop
+hopeful	happy
+hopeless	sad
+horny	sexy
+horrendous	sad
+horrible	sad
+horrid	sad
+horrific	sad
+horrifying	sad
+horror punk	punk
+hotter	hot
+hottest	hot
+houd van dit	2000s
+houston	american
+hrrr	90s
+htl	2000s
+hues corporation	party
+huge	great
+humbled	happy
+humbling	sad
+humor	funny
+humorist	singer songwriter
+humorous	funny
+humourous	funny
+hunky	sexy
+hurrah for the 80s	80s
+hurtful	sad
+hush	calm
+hushed	haunting
+hybrid	alternative
+hyperactive	energetic
+hypnotic	melancholic
+hypocritical	sad
+hysterical	sad
+hyypo loves	loved
+i am the 80s	80s
+i empire	british
+i imagine love	loved
+ian	british
+ian carey	british
+ian love	loved
+ian no1	british
+icelandic	british
+iconic	beautiful
+icy	dark
+idaho	american
+ideal	good
+idiosyncratic	melancholic
+idiotic	funny
+idol guitarist	singer songwriter
+idyllic	beautiful
+ie love	loved
+ignorant	sad
+illinois	american
+illogical	sad
+illuminating	haunting
+imaginative	energetic
+imitosis	70s
+immaculate	beautiful
+immense	great
+impactful	great
+impassioned	energetic
+impatient	happy
+impeccable	good
+impetuous	energetic
+impish	energetic
+important	great
+impressed	happy
+impressionist music	jazz
+impressionistic	dreamy
+impressive	awesome
+improvisational	jazz
+impulsive	energetic
+in america	american
+in love	loved
+in meiner sammlung	2000s
+inane	funny
+incessant	intense
+incomparable	great
+incomprehensible	sad
+incredible	awesome
+incredulous	sad
+indescribable	awesome
+india irie	british
+indian	british
+indian pop	pop
+indie folk	indie
+indie music	indie
+indie pop	pop
+indifferent	sad
+indignant	sad
+individualistic	energetic
+indo rock	rock
+indonesian pop	pop
+indulgent	dreamy
+industrial death metal	metal
+industrial metal	metal
+industrial rock	rock
+industrious	energetic
+indy band	indie
+indy uk	british
+inevitable	sad
+inexplicable	sad
+influenced by the 60s	60s
+influential	energetic
+inimitable	funny
+inky	dark
+innovative	energetic
+inquisitive	energetic
+insejn	2000s
+insensitive	sad
+insightful	funny
+insignificant	sad
+inspiration to love	loved
+inspirational	energetic
+inspirations of love	loved
+inspiring	great
+instrumental jazz	instrumental
+instrumental rock	rock
+instrumentalist	singer songwriter
+integral	instrumental
+intelligent	energetic
+intelligent dance music	dance
+intensifying	intense
+intensive	intense
+interactive	electronic
+interesting	funny
+interminable	intense
+intimate	romantic
+intricate	intense
+introspective	melancholic
+inventive	energetic
+invigorated	energetic
+involved	instrumental
+iowa	american
+iran	american
+iranian	american
+iranian pop	pop
+iraq	american
+iraqi	american
+irish	british
+irish folk	folk
+iron	metal
+ironic	sad
+irreplaceable	great
+irrepressible	energetic
+irresistible	energetic
+irresponsible	sad
+irreverent	funny
+ish	dreamy
+islam	british
+islamic	british
+ismo	2000s
+israel	american
+israeli	british
+italian	american
+italo dance	dance
+italy	british
+its america	american
+izle	2000s
+izolejszyn	70s
+j4	2000s
+jailbait	sexy
+jam rock	rock
+james	british
+jammin sax	jazz
+jamming guitar	acoustic
+jammy	mellow
+jangle pop	pop
+jangling	haunting
+jangly	melancholic
+january2010 nyc	british
+japan	british
+japanese	american
+japanese pop	pop
+jarring	haunting
+jaunty	dreamy
+jays love	loved
+jazz blues	jazz
+jazz funk	jazz
+jazz fusion	jazz
+jazz metal	jazz
+jazz rap	jazz
+jazz rock	rock
+jazzy	jazz
+jbd	60s
+jealous	sad
+jermsama	80s
+jesus children of america	american
+jewish	american
+jews	british
+jfk	british
+jimmi	60s
+jimmi diggin cats	60s
+jimmi hendrix	60s
+jimmi page	60s
+jimmi rodgers	60s
+jimmi van m	60s
+jitterbug	dance
+jittery	calm
+jjmarik1986	2000s
+joannies fave	favorite
+john hyatt	british
+johnny love	loved
+jolting	haunting
+jordan	american
+jose	american
+jovial	mellow
+joyful	energetic
+joyous	energetic
+js fave	favorite
+jt mexico	american
+jubilant	happy
+jumpen	90s
+junkie artists	singer songwriter
+k pop	pop
+kai loves	loved
+kaleidoscopic	dreamy
+kansas	american
+kaos 90s	90s
+kappe 1704	2000s
+kapullo23	2000s
+kawaii metal	metal
+kcs fave	favorite
+kent love	loved
+key	instrumental
+kickass	awesome
+kickass tastic	awesome
+kid artist	singer songwriter
+kid singer	singer songwriter
+kinetic	energetic
+kinky	sexy
+kissable	sexy
+kiwi rock	rock
+kizz fave	favorite
+kko love	loved
+klasyka xdd	2000s
+klezmer	jazz
+kobiecy spiew	70s
+kooky	funny
+korean	american
+korean pop	pop
+koti	60s
+kraut from 90s	90s
+krautrock	electronica
+krezi stilus	60s
+krist novoselic	90s
+krist novoselich	90s
+ks 80s	80s
+la india	british
+laconic	mellow
+lady bands	singer songwriter
+lady love	loved
+lady singers	singer songwriter
+lady writer	singer songwriter
+ladylike	sexy
+lampchop	80s
+languid	dreamy
+languorous	dreamy
+lank	dark
+lap steel	metal
+latin	british
+latin american	american
+latin jazz	jazz
+latin pop	pop
+latin rock	rock
+latin soul	soul
+latino	american
+laughable	funny
+laurel loves	loved
+lead singer	singer songwriter
+legendary	great
+legends 80s	80s
+leggy	sexy
+legislature	party
+lemmiklood	70s
+lengthy	intense
+lesbo love	romantic
+leviye kongi	2000s
+lgbt	american
+lieblied	70s
+life in 60s	60s
+lifeless	sad
+light	dark
+light rock	rock
+likable	funny
+likeable	energetic
+liked	loved
+lilting	melancholic
+lindy hop	dance
+line dance	dance
+lingering	intense
+lional hampton	2000s
+lisbon	american
+lissom	sexy
+lithe	energetic
+lively	energetic
+lms artist	singer songwriter
+loathsome	sad
+logical	happy
+lol america	american
+lonely	sad
+loopy	dreamy
+los angeles	american
+los angeles usa	american
+lotta love	loved
+louisiana swamp pop	pop
+lounge music	jazz
+lousy	good
+lovable	funny
+love anamor	loved
+love and nostalgia	loved
+love artist	loved
+love balads	loved
+love breeds	loved
+love buy	loved
+love california	loved
+love can	loved
+love child	loved
+love cky	loved
+love cousin	loved
+love crimes	loved
+love em	loved
+love eminem	loved
+love exists	loved
+love experience	loved
+love fav	loved
+love for art	loved
+love for chi	loved
+love for dummies	loved
+love for evrybody	loved
+love goran	loved
+love gum	loved
+love gwen	loved
+love her	loved
+love him	loved
+love inc	loved
+love ittttt	loved
+love jarvis	loved
+love kelly	loved
+love korn	loved
+love krove	loved
+love love this	loved
+love me	loved
+love msp	loved
+love needing	loved
+love no love	loved
+love october	loved
+love of friends	loved
+love of loves	loved
+love poems	loved
+love rammstein	loved
+love regrets	loved
+love rh	loved
+love rnb	loved
+love scene	loved
+love sessions	loved
+love silhouette	loved
+love stories	loved
+love styrofoam	loved
+love sucks	loved
+love surfjan	loved
+love that died	loved
+love the	loved
+love the friends	loved
+love them	loved
+love themed	loved
+love these	loved
+love this	loved
+love this love	loved
+love this singer	loved
+love to hate	loved
+love to love	loved
+love to sing	loved
+love tracks	loved
+love tunes	loved
+love wolfs	loved
+love women	loved
+love y	loved
+love ya	loved
+love you	loved
+love you save	loved
+loveable	funny
+lovelier	beautiful
+loveliest	beautiful
+lovelorn	melancholic
+lovely	beautiful
+lovers rock	rock
+loves gons	loved
+loves her	loved
+loves jesus	loved
+loves melody	loved
+loves soongs	loved
+loves theme	loved
+loving	loved
+lp koti	60s
+lucky	happy
+ludicrous	sad
+lugubrious	melancholic
+lulling	haunting
+luminous	beautiful
+luomo	80s
+luscious	beautiful
+lush	beautiful
+lusty	sexy
+luxurious	beautiful
+lyrical	melancholic
+m a tes souhaits	80s
+m2nosk	70s
+m9co	80s
+macabre	haunting
+madcap	funny
+maddening	sad
+maestro	singer songwriter
+magical	beautiful
+magnetic	electronic
+magnificent	beautiful
+maia	american
+mainstream jazz	jazz
+mainstream rock	indie rock
+majestic	beautiful
+make love	loved
+maks fave	favorite
+malawian jazz	jazz
+mama love	loved
+mambo	dance
+mammagamma	80s
+mandarin pop	pop
+manic	melancholic
+mannish	sexy
+manual	electronic
+marimba	jazz
+mark artist	singer songwriter
+marvelous	great
+marxen mix	90s
+massive	intense
+masterful	awesome
+math rock	rock
+maudlin	melancholic
+mazzzzy	70s
+md charmy	90s
+me love	loved
+meaningful	great
+mechanical	electronic
+medieval folk rock	folk
+medieval metal	metal
+medieval music	jazz
+mediocre	good
+meditative	melancholic
+melancholy	melancholic
+mellifluous	mellow
+melodic	acoustic
+melodic black metal	metal
+melodic death metal	metal
+melodic dubstep	electronica
+melodic hardcore	punk
+melodic music	jazz
+melodic rock	indie rock
+melodic trance	electronica
+melodies	electronica
+melodious	mellow
+melodramatic	melancholic
+melody dnb	electronica
+melody heart	soul
+memorable	funny
+memphis soul	soul
+merciless	intense
+mercurial	energetic
+merf loves	loved
+merry	happy
+mesmerizing	dreamy
+messy	sad
+metalcore	punk
+metallic	metal
+metallic hardcore	metal
+methodical	energetic
+meticulous	intense
+mew love	loved
+mexican	american
+mexican pop	pop
+mexican rock	rock
+miachael	2000s
+michigan	american
+mild	intense
+milky	dark
+minded	energetic
+minimal	intense
+minimal wave	intense
+minimalist music	jazz
+minnesota	american
+mischievous	funny
+miserable	sad
+missouri	american
+misty	dreamy
+mm love	loved
+mobile	electronic
+modal jazz	jazz
+modern rock	classic rock
+monochromatic	dreamy
+monumental	great
+monumental dance	dance
+mood ruff	chill
+mood trippy	melancholic
+moody	dreamy
+moog80	80s
+moony	dreamy
+mopey	dreamy
+mordant	melancholic
+morose	melancholic
+mortified	sad
+moshing	punk
+mossy	dark
+mournful	melancholic
+mp1	80s
+mulen rusz	60s
+multifaceted	energetic
+murder love	loved
+murky	dark
+muscular	energetic
+muse esque	dreamy
+mushroom jazz	jazz
+music drama	dance
+musical	jazz
+muskrat love	loved
+muslim	british
+muzotrip	90s
+my 2000s	2000s
+my 60s 70s childhood	70s
+my brazil	british
+my fav singer	singer songwriter
+my fave	favorite
+my italy	british
+my love	loved
+my loves	loved
+my savior loves	loved
+mysterious	haunting
+mystical	dreamy
+na dolek	60s
+na mietowo	60s
+nadal	american
+najbolje	80s
+namesake	favorite
+nas america	american
+naughty	sexy
+nay 80s	80s
+nazi	british
+nbc	american
+ne 90s	90s
+neat	beautiful
+neco	80s
+negro	american
+nejno	80s
+neo classical metal	metal
+neo goth	punk
+neo soul	soul
+neoclassical metal	metal
+neoclassical music	jazz
+nerd love	loved
+nerdy	sexy
+nervous	happy
+nervy	energetic
+neu 80s	80s
+new	alternative
+new instrumental	instrumental
+new orleans jazz	jazz
+new pop	pop
+new romantic	romantic
+new weird america	american
+newgrass	jazz
+nfl	american
+nice	good
+nicest	beautiful
+nicole fave	favorite
+nigerian	british
+nightmarish	haunting
+nihilistic	melancholic
+nitra loves	loved
+nivia	70s
+no 1 60s	60s
+no hashhash	70s
+no love	loved
+no singer	singer songwriter
+no1	british
+no1 uk	british
+no1 usa	british
+no29 uk	british
+no6 uk	british
+no6 usa	american
+no84 uk	british
+noel loves	loved
+noise pop	pop
+noise rock	rock
+noisy	energetic
+nonsensical	funny
+nordysk	2000s
+norrk ping	70s
+northern soul	soul
+norway love	loved
+norwegian	british
+nostalgic	melancholic
+noteworthy	great
+nu brazil	british
+nu jazz	jazz
+nu metal	metal
+nu soul	soul
+nuanced	intense
+nubile	sexy
+nyc	american
+nylon	metal
+nylon guitar	metal
+o melhor dos 90s	90s
+oao	80s
+obama	american
+obesity	70s
+objective	instrumental
+obnoxious	funny
+obsessive	intense
+occult rock	rock
+ocd love	loved
+odd	funny
+oddball	funny
+offbeat	funny
+oh love	loved
+ohio	american
+oklahoma	american
+oldest	favorite
+ominous	haunting
+omnicore	2000s
+on love	loved
+ongoing	intense
+online	electronic
+online bcc	electronic
+online love	loved
+online rules	electronic
+oonag s	70s
+opaque	dark
+operatic pop	pop
+opinionated	funny
+opposition	party
+optimistic	happy
+opulent	beautiful
+orchestra	jazz
+orchestral	jazz
+orchestral jazz	jazz
+oregon	american
+orginal artist	singer songwriter
+oriental metal	metal
+orton	american
+osc25	90s
+oshkosh	70s
+oshkosh bistro	70s
+otherworldly	dreamy
+othesun23	80s
+our love	loved
+outstanding	great
+ouvri a qualquer hora	70s
+overjoyed	happy
+overwhelming	intense
+owen tate	american
+p4k love	loved
+pac	american
+pacify	calm
+pacy	energetic
+pagan metal	metal
+pagan rock	rock
+pained	sad
+painful	sad
+painstaking	intense
+pakistan	british
+pale	dark
+papapapa	80s
+papitos 80s	80s
+passable	good
+passionate	energetic
+pathetic	sad
+peace punk	punk
+peacful bliss	happy
+pedro erazo	80s
+peerless	great
+penguin love	loved
+penn	american
+pensive	melancholic
+pep love	loved
+peppery	mellow
+peppy	mellow
+perceptive	funny
+percussion	jazz
+percussion genius	jazz
+percussionist	singer songwriter
+percussive	acoustic
+perfect	good
+perhaps love	loved
+perilous	intense
+perky	sexy
+perplexed	happy
+persistent	intense
+petite	sexy
+petrified	sad
+phantasmagoric	haunting
+phenomenal	great
+phil 80s	80s
+philadelphia soul	soul
+philippine	american
+philly soul	soul
+pianist	jazz
+piano	jazz
+piano blues	jazz
+piano rock	rock
+pick artist	singer songwriter
+picker poet	singer songwriter
+picturesque	beautiful
+pimp pianist	singer songwriter
+piniwiis	2000s
+pinoy pop	pop
+pinoy rock	rock
+pirations	80s
+pithy	funny
+pitiful	sad
+pivotal	instrumental
+placid	mellow
+plaintive	melancholic
+plangent	melancholic
+plastic	metal
+plattdeutsch	2000s
+playful	funny
+pleasant	mellow
+pleased	happy
+pleasing	good
+plucky	energetic
+poet	singer songwriter
+poet singer	singer songwriter
+poetic	melancholic
+pogo love	loved
+poignant	haunting
+polished	energetic
+political	party
+poofy	sexy
+poor	good
+pop folk	pop
+pop metal	pop
+pop music	pop
+pop punk	pop
+pop rap	pop
+pop rock	rock
+pop soul	pop
+popular	favorite
+porny	sexy
+portentous	haunting
+positive	good
+power metal	metal
+power pop	pop
+powerful	energetic
+ppl	british
+pragmatic	energetic
+praiseworthy	good
+pray for love	loved
+praying for love	loved
+precious	beautiful
+precocious	energetic
+predictable	intense
+preferred	alternative
+pretentious	funny
+priceless	beautiful
+prickly	intense
+primary	alternative
+pristine	beautiful
+privileged	happy
+prodigious	energetic
+productive	energetic
+profound	intense
+progressive death metal	metal
+progressive electronic	electronic
+progressive folk	folk
+progressive house	party
+progressive metal	metal
+progressive pop	pop
+progressive rock	rock
+proper	good
+proud	happy
+psy love	loved
+psych folk	folk
+psychedelic	electronica
+psychedelic folk	folk
+psychedelic pop	pop
+psychedelic rock	rock
+psychedelic trance	electronica
+psychlist	80s
+psychobilly	punk
+pub rock	rock
+puerto rican	american
+puffy	dark
+pulsating	intense
+punchy	mellow
+punk blues	punk
+punk cabaret	punk
+punk jazz	punk
+punk rap	punk
+punk rock	indie rock
+purgraues haar	90s
+purposeful	energetic
+putiferio	80s
+puzzling	sad
+quaint	beautiful
+queen diva	singer songwriter
+queen esque	sexy
+quenched	calm
+quiet	calm
+quiet storm	calm
+quik	2000s
+quirky	funny
+quizzical	funny
+quotable	funny
+racy	sexy
+radcliffe	80s
+radiant	beautiful
+rafa	british
+raga rock	rock
+ragga	electronica
+ragtime	jazz
+rambunctious	energetic
+rangy	energetic
+raouldukejr10	2000s
+rap metal	metal
+rap rock	rock
+rapid	intense
+ratyi de kiraly d	90s
+raucous	energetic
+raul	british
+raunchy	sexy
+raw rock	rock
+reagge love	loved
+real	great
+realistic	intense
+rebellious	energetic
+rechazo	90s
+recital	dance
+red	dark
+reflexive	intense
+refreshing	mellow
+regal	beautiful
+reggae	jazz
+reggae fusion	electronica
+reggin	60s
+regime	party
+regretful	sad
+regrettable	sad
+relentless	intense
+remarkable	great
+remember	loved
+remember 70s	70s
+remembered	loved
+remembers	loved
+remix	electronica
+remix diva	singer songwriter
+remixes	electronica
+remorseful	happy
+renaissance music	jazz
+rending	haunting
+renewable	alternative
+renewed	intense
+renox	80s
+repetitive	intense
+republican	party
+resentful	sad
+resilient	energetic
+resolute	energetic
+resonant	haunting
+respectable	good
+responsible	instrumental
+restful	mellow
+retro france	american
+retro love	loved
+revolting	sad
+rfm 80s	80s
+rhythmical	energetic
+rica	american
+rico love	loved
+ridiculous	funny
+riemuhevi	2000s
+riger	80s
+riot grrrl	punk
+risque	sexy
+riveting	haunting
+rnb 90s	90s
+rnb love	loved
+rnb remix	electronica
+rnb sax	jazz
+rnb singer	singer songwriter
+robot love	loved
+robust	intense
+rock and roll	rock
+rock opera	rock
+rockabilly	punk
+rokimpaa	70s
+role	instrumental
+romance	romantic
+romantic classical	romantic
+roots rock	rock
+roots rock reggae	rock
+rotten	sad
+rough	good
+rousing	haunting
+rubettes	60s
+rubin carter	american
+rueful	melancholic
+rufus love	loved
+rumba	dance
+russian	british
+russian pop	pop
+rustic	mellow
+sab 70s	70s
+sab 80s	80s
+saccharine	dreamy
+saddening	sad
+samba	dance
+sammlung	2000s
+samsky loves	loved
+san franscisco	60s
+sandstorm js16 remix	80s
+sapphic	romantic
+sappy	dreamy
+sarcastic	funny
+sardonic	funny
+sassy	sexy
+satiric	funny
+satirical	funny
+satisfied	happy
+satisfying	happy
+saturday love	loved
+saucy	sexy
+saudi	british
+savage	intense
+savvy	energetic
+sax	jazz
+sax genius	jazz
+sax love	jazz
+sax melody	jazz
+saxmax	70s
+saxophonist	jazz
+say love	loved
+scandalous	sad
+scared	sad
+scary	sad
+scenic	beautiful
+schmaltzy	melancholic
+schnaps	2000s
+schrollis childhood fave	favorite
+scorching	hot
+scots	british
+scottish	british
+scottish baroque music	jazz
+scrappy	energetic
+screamo	punk
+scrumptious	beautiful
+sebastian tellier	70s
+sebastien tellier	70s
+sebastien tellier kilometer	70s
+secondary	alternative
+seductive	sexy
+sejt	2000s
+selfless	energetic
+senseless	sad
+sensible	good
+sensitive	intense
+sensual	sexy
+sensuous	sexy
+sentimental	melancholic
+sepulchral	haunting
+serbian	british
+serene	mellow
+serious	intense
+set dance	dance
+severe	intense
+sexi love	loved
+sexiest	sexy
+sexxx ay	70s
+sf rubettes	60s
+shadowy	dark
+shaken	calm
+sharp	intense
+sharp witted	funny
+sheepish	happy
+shimmering	dreamy
+shimmery	dreamy
+shiny	beautiful
+shiver	chill
+shivery	haunting
+shock rock	rock
+shocked	sad
+shocking	sad
+shoegaze	electronica
+shoegazer	electronica
+showy	beautiful
+sickening	sad
+significant	great
+silly	funny
+similar	alternative
+simmering	intense
+simmons	american
+simply fave	favorite
+simply love	loved
+singapore	british
+singer	singer songwriter
+singer actor	singer songwriter
+singer and actress	singer songwriter
+singer circus	singer songwriter
+singer francaise	singer songwriter
+singer from thursday	singer songwriter
+singer guitarist	singer songwriter
+singer luv	singer songwriter
+singer songwriter	singer songwriter
+singing	dance
+sinister	dark
+sitar	jazz
+sizzling	hot
+ska	punk
+ska punk	punk
+skate punk	punk
+skillful	energetic
+slack key guitar	instrumental
+sleazy	sexy
+sleek	sexy
+sleepless	sad
+slinky	sexy
+slowcore	electronica
+sludge metal	metal
+slut tastic	sexy
+slutty	sexy
+sly	funny
+smarmy	funny
+smiling	happy
+smoochy	romantic
+smooth jazz	jazz
+smooth soul	soul
+smutty	sexy
+snappy	funny
+snarky	funny
+snazzy	sexy
+snide	funny
+sobering	sad
+society	party
+soft	hot
+soft rock	rock
+solemn	sad
+solid	good
+somber	haunting
+sombre	melancholic
+sonic	acoustic
+sooth	calm
+soothed	calm
+soothing	mellow
+soporific	melancholic
+soppy	dreamy
+sordid	sad
+sorrowful	sad
+sorrowing	sad
+sorry	sad
+soul blues	soul
+soul jazz	soul
+soul music	soul
+soulful	mellow
+southern metal	metal
+southern rock	rock
+southern soul	soul
+space age pop	pop
+space rock	rock
+spanish	british
+sparkling	beautiful
+sparkly	sexy
+spectacular	beautiful
+speechless	happy
+speed metal	metal
+spellbinding	dreamy
+speluny	80s
+spiew	70s
+spirit heart	soul
+spirited	energetic
+spiteful	sad
+splendid	beautiful
+spontaneous	energetic
+spooky	haunting
+sporadic	intense
+sporty	sexy
+sprightly	energetic
+spritely	energetic
+spunky	sexy
+square dance	dance
+sreamgrind	60s
+standard	alternative
+stark	haunting
+startling	haunting
+stately	beautiful
+stavs fave	favorite
+stax 70s	70s
+steady	energetic
+steamy	sexy
+steel guitar	metal
+steel guitars	metal
+steel puls	metal
+steel pulse	metal
+steel wheels	metal
+steely	intense
+stellar	good
+steph loves	loved
+stern	calm
+stiff	intense
+stingy	good
+stinky	sad
+stir	chill
+stoner metal	metal
+stoner rock	indie rock
+stormy	intense
+strange	sad
+strassenmusik	80s
+street punk	punk
+stressful	intense
+strident	intense
+strong	good
+studio ghibli	party
+studious	energetic
+stunning	beautiful
+stupendous	awesome
+stupid	funny
+style council	party
+stylish	sexy
+suave	sexy
+sube animo	70s
+sublime	beautiful
+subtle	intense
+successful	instrumental
+suckerlove	2000s
+sues fave	favorite
+sufi music	jazz
+sufi singer	singer songwriter
+sullen	melancholic
+sultry	sexy
+summery	dreamy
+sumptuous	beautiful
+sun rise	chill
+sunday tunes	oldies
+sunny	dreamy
+sunshine pop	pop
+sunshine thuggery	chill
+sunshiny	dreamy
+superb	great
+superior	good
+surf instrumental	instrumental
+surf pop	pop
+surf rock	rock
+surfer girl	singer songwriter
+surfy	mellow
+surprised	happy
+surreal	funny
+surrealistic	dreamy
+suspenseful	haunting
+svelte	sexy
+svengali	singer songwriter
+swamp pop	pop
+swamp rock	rock
+swanky	sexy
+swedish	british
+sweet	dreamy
+swift	intense
+swing music	jazz
+switch	alternative
+swizz heat	chill
+swoony	dreamy
+sydney charts 70s	70s
+sydney charts 80s	80s
+sydney charts 90s	90s
+sylvan	beautiful
+symphonic	jazz
+symphonic black metal	metal
+symphonic metal	metal
+symphonic rock	rock
+synth funk	electronica
+synthpop	electronica
+syrian	british
+syrupy	dreamy
+tactile	electronic
+taiwanese pop	pop
+talented	energetic
+talkative	energetic
+tame	calm
+tamil	british
+tango	dance
+tangy	mellow
+tasteful	beautiful
+tastic	awesome
+taut	intense
+taxims fave	favorite
+team emilou	90s
+tearful	sad
+teary	happy
+tech	electronic
+technical death metal	metal
+technical metal	metal
+techno	electronica
+techno bass	electronica
+technological	electronic
+teddy love	loved
+teen pop	pop
+tejano music	jazz
+tellier	70s
+temazoooooooo	90s
+temper	calm
+temperature	chill
+tenacious	energetic
+tense	intense
+tepid	intense
+terceiro	60s
+terrible	sad
+terrific	great
+terrified	sad
+terrifying	haunting
+texas artist	american
+textural guitar	acoustic
+thai pop	pop
+thankful	happy
+thaw	chill
+the 80s people didnt know	80s
+the clash 80s	80s
+the craberries	70s
+the love	loved
+the rubettes	60s
+the who goes 90s	90s
+thick	dark
+this love	loved
+thoughtful	energetic
+thoughtless	sad
+thrash metal	metal
+thrilled	happy
+thrilling	awesome
+throb	singer songwriter
+thug love	loved
+thunderous	intense
+tibetan pop	pop
+tichirrius	2000s
+tiesto a gravar	2000s
+timeless	beautiful
+tin	metal
+tired	sad
+titillating	sexy
+tkck fave	favorite
+to america	american
+to love	loved
+toby love	loved
+tokyo	british
+tomas dvorak	2000s
+tommy peoples	american
+topless	sexy
+torch singer	singer songwriter
+torchy	melancholic
+torturous	sad
+touchable	beautiful
+tough	good
+trad jazz	jazz
+traditional	alternative
+traditional pop music	pop
+tragic	sad
+trance	electronica
+tranquil	beautiful
+transformational	instrumental
+transgresivo	60s
+transgressive	romantic
+transitional	alternative
+trashy	sexy
+traumatic	sad
+tremendous	great
+tremulous	melancholic
+trendy	sexy
+tres bon 80s	80s
+tribal house	party
+trii	60s
+trip rock	rock
+trippy	dreamy
+trippy dnb	electronica
+trite	funny
+triumphant	happy
+troubling	sad
+tseuq 80s	80s
+tumultuous	intense
+tuneful	melancholic
+tunesmith	singer songwriter
+turbo folk	folk
+turbulent	intense
+turkish	american
+turkish pop	pop
+turntablism	electronica
+twee	indie
+twee pop	pop
+twila	70s
+twinkly	dreamy
+types of love	loved
+tyrstrtgtres	60s
+u2 80s	80s
+uber fave	favorite
+ufc	american
+ugly	sad
+uk	british
+uk brits	british
+uk goth	british
+uk hardcore	british
+uk heroes	british
+uk invaders	british
+uk love	loved
+uk no1	british
+uk ok	british
+uk rick hop	british
+uk rnb	british
+uk singer	singer songwriter
+uk undie	british
+ulali	2000s
+ulalume 70s 80s	80s
+ulalume 80s	80s
+ultrasonic	electronic
+un toque andino	80s
+unbearable	sad
+unbeatable	awesome
+unbelievable	awesome
+unbridled	intense
+uncaring	sad
+uncertain	happy
+uncomfortable	sad
+uncompromising	intense
+unconventional	energetic
+undignified	sad
+uneasy	sad
+unending	intense
+unforgettable	awesome
+unforgivable	sad
+unforgiving	intense
+unfortunate	sad
+unhappy	happy
+unhurried	mellow
+unimpressed	happy
+unimpressive	good
+uninhibited	energetic
+unkind	sad
+unnerving	haunting
+unorthodox	energetic
+unpleasant	sad
+unplugged guitar	acoustic
+unprecedented	intense
+unpredictable	intense
+unpretentious	mellow
+unreal	awesome
+unrelenting	intense
+unrequited	romantic
+unsatisfied	happy
+unspeakable	sad
+untamed	beautiful
+unusual	intense
+upbeat	energetic
+uplifting	haunting
+urban folk	folk
+urban jazz	jazz
+us singer	singer songwriter
+usa	american
+usa uk	british
+useful	good
+user fave	favorite
+utah	american
+valkyeriex loves	loved
+vampy	sexy
+vapid	dreamy
+vaporous	dark
+vaudeville	jazz
+velvety	mellow
+venezuela	american
+verizon	american
+vermont	american
+versatile	energetic
+viajando	2000s
+viajando al cosmos	2000s
+vibrant	energetic
+vicious	intense
+victims of love	loved
+vietnam	american
+vigorous	intense
+viking metal	metal
+vindictive	sad
+violin battle	dance
+visceral	intense
+vital	instrumental
+vivacious	energetic
+vivid	haunting
+vixen	sexy
+vocal	instrumental
+vocal jazz	jazz
+volatile	intense
+voluptuous	sexy
+vote	party
+voyuer	90s
+wacky	funny
+wailing	haunting
+wakejszyn	80s
+walmart	american
+waltz	dance
+warm	cool
+washington	american
+watery	dark
+we love	loved
+we love the 80s	80s
+weary	sad
+weepy	melancholic
+weird	funny
+welsh	british
+wet	hot
+whacky	funny
+what a singer	singer songwriter
+whimsical	dreamy
+white	dark
+white hot	hot
+who loves	loved
+who needs love	loved
+widespread	intense
+wieza melancholii	60s
+wigan	british
+windswept	beautiful
+wino kobiety i spiew	70s
+winsome	dreamy
+wireless	electronic
+wiry	energetic
+wisconsin	american
+wise	good
+wispy	dreamy
+wistful	melancholic
+witch house	party
+witchy	sexy
+with love	loved
+with theryl	80s
+witney houston	american
+witty	funny
+wizard rock	rock
+wny	70s
+woeful	sad
+womanly	sexy
+women artist	singer songwriter
+wonderful	great
+wondrous	beautiful
+wonky pop	pop
+woodsy	mellow
+woodwind	jazz
+wooo eoeoeo ohhhh	70s
+wop	jazz
+word america	american
+word artist	singer songwriter
+wordless	melancholic
+worldbeat	jazz
+worldly	romantic
+worrying	sad
+worthwhile	good
+wrenching	haunting
+wretched	sad
+writer	singer songwriter
+wry	funny
+wv	british
+ww2	british
+x clan	party
+xdd	2000s
+xm	american
+xnzn	2000s
+yacht rock	rock
+yes america	american
+ylintu	60s
+ymt	80s
+yo pop	pop
+york	british
+you love	loved
+your love	loved
+youthful	energetic
+yummy	sexy
+zany	funny
+zesty	mellow
+zexy	60s
+zimbabwe	american
+zinc	metal
+zionist	american
+zippy	dreamy
+zu hause	60s
+zydeco	jazz

@@ -1,0 +1,188 @@
+no voice	no vocals
+singer	singing
+duet	singing
+plucking	plucking
+hard rock	rock
+world	world
+bongos	bongos
+harpsichord	harpsichord
+female singing	female
+clasical	classical
+sitar	sitar
+chorus	choir
+female opera	female
+male vocal	vocal
+vocals	vocals
+clarinet	clarinet
+heavy	heavy
+silence	quiet
+beats	beat
+men	male
+woodwind	woodwind
+funky	funky
+no strings	no strings
+chimes	chimes
+foreign	foreign
+no piano	no piano
+horns	horns
+classical	classical
+female	female
+no voices	no vocals
+soft rock	rock
+eerie	weird
+spacey	funky
+jazz	jazz
+guitar	guitar
+quiet	quiet
+no beat	no beat
+banjo	banjo
+electric	electronic
+solo	solo
+violins	violins
+folk	folk
+female voice	female
+wind	wind
+happy	upbeat
+ambient	ambient
+new age	new age
+synth	synth
+funk	synth
+no singing	no vocals
+middle eastern	middle eastern
+trumpet	trumpet
+percussion	percussion
+drum	drum
+airy	airy
+voice	vocal
+repetitive	repetitive
+birds	birds
+space	ambient
+strings	strings
+bass	bass
+harpsicord	harpsicord
+medieval	classical
+male voice	male
+girl	female
+keyboard	keyboard
+acoustic	acoustic
+loud	loud
+classic	classic
+string	string
+drums	drums
+electronic	electronic
+not classical	not classical
+chanting	singing
+no violin	no violin
+not rock	not rock
+no guitar	no guitar
+organ	choir
+no vocal	no vocals
+talking	singing
+choral	choir
+weird	weird
+opera	choir
+soprano	choir
+fast	fast
+acoustic guitar	acoustic guitar
+electric guitar	synth
+male singer	male
+man singing	singing
+classical guitar	classical
+country	country
+violin	violin
+electro	techno
+reggae	reggae
+tribal	tribal
+dark	dark
+male opera	male
+no vocals	no vocals
+irish	irish
+electronica	synth
+horn	horn
+operatic	operatic
+arabic	arabic
+lol	weird
+low	low
+instrumental	instrumental
+trance	trance
+chant	singing
+strange	weird
+drone	synth
+synthesizer	synth
+heavy metal	heavy
+modern	modern
+disco	disco
+bells	bells
+man	man
+deep	deep
+fast beat	fast
+industrial	industrial
+hard	hard
+harp	harp
+no flute	no flute
+jungle	jungle
+pop	pop
+lute	lute
+female vocal	vocal
+oboe	oboe
+mellow	quiet
+orchestral	orchestral
+viola	viola
+light	light
+echo	vocal
+piano	piano
+celtic	celtic
+male vocals	male
+orchestra	choir
+eastern	eastern
+old	old
+flutes	flutes
+punk	punk
+spanish	spanish
+sad	sad
+sax	sax
+slow	slow
+male	male
+blues	blues
+vocal	vocal
+indian	indian
+no singer	no vocals
+scary	scary
+india	india
+woman	female
+woman singing	singing
+rock	rock
+dance	dance
+piano solo	piano solo
+guitars	guitars
+no drums	no drums
+jazzy	jazzy
+singing	singing
+cello	cello
+calm	quiet
+female vocals	female
+voices	vocal
+different	weird
+techno	techno
+clapping	clapping
+house	house
+monks	monks
+flute	flute
+not opera	not opera
+not english	not english
+oriental	oriental
+beat	beat
+upbeat	upbeat
+soft	soft
+noise	loud
+choir	choir
+female singer	female
+rap	rap
+metal	metal
+hip hop	hip hop
+quick	fast
+water	water
+baroque	classical
+women	female
+fiddle	fiddle
+english	english

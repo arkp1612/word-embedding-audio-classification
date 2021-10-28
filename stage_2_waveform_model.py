@@ -33,7 +33,7 @@ def cleaner_func(features_dict):
     return features_dict
 
 def dict_generator():
-    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/sensible_tags_encoding.txt')
+    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/EDA%20and%20Data%20Input%20Prep/sensible_tags_encoding.txt')
     with urllib.request.urlopen(req) as response:
          the_page = response.read()
 
@@ -576,7 +576,7 @@ def build_model(frontend_mode, num_output_neurons=50, y_input=96, num_units=500,
 
 
 if __name__== "__main__":
-    train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
+    train_ds,valid_ds,test_ds = generate_datasets_from_dir('/srv/data/msd/tfrecords/waveform-complete','waveform')
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'waveform_stage_2')
     print("Datasets built")

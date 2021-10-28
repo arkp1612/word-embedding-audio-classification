@@ -14,7 +14,7 @@ from tensorflow.python.ops import math_ops
 from tensorflow.python.keras.utils import metrics_utils
 
 
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
+os.environ["CUDA_VISIBLE_DEVICES"]="2"
 
 
 #------------------Genreating datasets-----------------------
@@ -40,7 +40,7 @@ def cleaner_func(features_dict):
     return features_dict
 
 def dict_generator():
-    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/word_embedding_encoding.txt')
+    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/EDA%20and%20Data%20Input%20Prep/word_embedding_encoding.txt')
     with urllib.request.urlopen(req) as response:
          the_page = response.read()
 
@@ -430,7 +430,7 @@ class AUCPerLabel(tf.keras.metrics.AUC):
 
 
 if __name__== "__main__":
-    test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
+    test_ds = generate_datasets_from_dir('/srv/data/msd/tfrecords/waveform-complete','waveform')
     print("Datasets created")
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'waveform_stage_3')

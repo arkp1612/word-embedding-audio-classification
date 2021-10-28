@@ -39,7 +39,7 @@ def cleaner_func(features_dict):
     return features_dict
 
 def dict_generator():
-    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/sensible_tags_encoding.txt')
+    req = urllib.request.Request('https://raw.githubusercontent.com/arkp1612/word-embedding-audio-classification/main/EDA%20and%20Data%20Input%20Prep/sensible_tags_encoding.txt')
     with urllib.request.urlopen(req) as response:
          the_page = response.read()
 
@@ -198,7 +198,7 @@ def _tuplify(features_dict, which_tags=None):
 
 
 
-def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=8, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
+def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=32, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
 
         AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.string)} # tags will be added just below
 
@@ -277,7 +277,7 @@ def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sa
 
 
 
-def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=8, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
+def generate_datasets_from_dir(tfrecords_dir, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=32, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False, with_tids=None, with_tags=None, merge_tags=None, num_tags=155, num_tags_db=1, default_tags_db=None, default_tags_db_valid=None, repeat=1, as_tuple=True):
     tfrecords = []
 
     for file in os.listdir(os.path.expanduser(tfrecords_dir)):
@@ -428,7 +428,7 @@ class AUCPerLabel(tf.keras.metrics.AUC):
 
 if __name__== "__main__":
     print("Creating datasets")
-    test_ds = generate_datasets_from_dir('/srv/data/tfrecords/log-mel-complete','log-mel-spectrogram')
+    test_ds = generate_datasets_from_dir('/srv/data/msd/tfrecords/log-mel-complete','log-mel-spectrogram')
     print("Datasets built")
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectogram_stage_2',)

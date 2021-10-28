@@ -14,7 +14,7 @@ from tensorflow.python.ops import math_ops
 from tensorflow.python.keras.utils import metrics_utils
 
 
-os.environ["CUDA_VISIBLE_DEVICES"]="1"
+os.environ["CUDA_VISIBLE_DEVICES"]="4"
 
 #------------------Genreating datasets-----------------------
 def _waveform_parse_function(example_proto,feature_description):
@@ -393,7 +393,7 @@ class AUCPerLabel(tf.keras.metrics.AUC):
 
 if __name__== "__main__":
     
-    test_ds = generate_datasets_from_dir('/srv/data/tfrecords/waveform-complete','waveform')
+    test_ds = generate_datasets_from_dir('/srv/data/msd/tfrecords/waveform-complete','waveform')
     
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'waveform_stage_1',)

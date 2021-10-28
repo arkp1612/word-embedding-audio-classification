@@ -15,7 +15,7 @@ from tensorflow.python.ops import math_ops
 from tensorflow.python.keras.utils import metrics_utils
 
 
-os.environ["CUDA_VISIBLE_DEVICES"]="1"
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
 
 
 #------------------Genreating datasets-----------------------
@@ -396,7 +396,7 @@ class AUCPerLabel(tf.keras.metrics.AUC):
 
 if __name__== "__main__":
 
-    test_ds = generate_datasets_from_dir('/srv/data/tfrecords/log-mel-complete','log-mel-spectrogram')
+    test_ds = generate_datasets_from_dir('/srv/data/msd/tfrecords/log-mel-complete','log-mel-spectrogram')
     log_dir = os.getcwd()
     log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectrogram_stage_1',)
     filepath = os.path.join(log_dir, 'mymodel.h5')

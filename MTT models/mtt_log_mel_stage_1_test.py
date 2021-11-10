@@ -55,8 +55,8 @@ def hot_encoder(features_dict,table):
 
     input_tensor = features_dict['tags']
     idxs = tf.cast(table.lookup(input_tensor),tf.int64)
-    idxs = tf.boolean_mask(idxs,tf.math.less(idxs, 50))
-    features_dict['tags'] = tf.clip_by_value(tf.reduce_max(tf.one_hot(idxs,depth=50, on_value=1, off_value=0),axis=0),0,1)
+    idxs = tf.boolean_mask(idxs,tf.math.less(idxs, 25))
+    features_dict['tags'] = tf.clip_by_value(tf.reduce_max(tf.one_hot(idxs,depth=25, on_value=1, off_value=0),axis=0),0,1)
     return features_dict
 
 
@@ -173,9 +173,9 @@ def _tuplify(features_dict, which_tags=None):
 
 
 
-def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=64, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
+def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=128, batch_size=64, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=25,as_tuple=True,repeat=1):
 
-        AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.string)} # tags will be added just below
+        AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.int64)} # tags will be added just below
 
         assert audio_format in ('waveform', 'log-mel-spectrogram'), 'please provide a valid audio format'
         dataset = tf.data.TFRecordDataset(tfrecords)
@@ -393,7 +393,7 @@ if __name__== "__main__":
 
     test_ds = generate_datasets_from_dir('/srv/data/mtt/tfrecords/log-mel-complete','log-mel-spectrogram')
     log_dir = os.getcwd()
-    log_dir = os.path.join(os.path.expanduser(log_dir), 'mtt_log-mel-spectrogram_stage_1',)
+    log_dir = os.path.join(os.path.expanduser(log_dir), 'log-mel-spectrogram_stage_1_mtt',)
     filepath = os.path.join(log_dir, 'mymodel.h5')
 
     model = tf.keras.models.load_model(filepath)

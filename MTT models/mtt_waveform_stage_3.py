@@ -8,7 +8,7 @@ import numpy as np
 import os
 import pandas as pd
 from tqdm import tqdm
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 
 #------------------Genreating datasets-----------------------
 def _waveform_parse_function(example_proto,feature_description):
@@ -72,7 +72,7 @@ def hot_encoder(features_dict,table):
 
     input_tensor = features_dict['tags']
     idxs = tf.cast(table.lookup(input_tensor),tf.int64)
-    idxs = tf.boolean_mask(idxs,tf.math.less(idxs, 50))
+    idxs = tf.boolean_mask(idxs,tf.math.less(idxs, 25))
     features_dict['tags'] = tf.clip_by_value(tf.reduce_max(tf.one_hot(idxs,depth=25, on_value=1, off_value=0),axis=0),0,1)
     return features_dict
 
@@ -190,9 +190,9 @@ def _tuplify(features_dict, which_tags=None):
 
 
 
-def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=16, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=50,as_tuple=True,repeat=1):
+def _generate_datasets(tfrecords, audio_format, split=None, which_split=None, sample_rate=16000, num_mels=96, batch_size=16, block_length=1, cycle_length=1, shuffle=True, shuffle_buffer_size=10000, window_length=15, window_random=False,top=25,as_tuple=True,repeat=1):
 
-        AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.string)} # tags will be added just below
+        AUDIO_FEATURES_DESCRIPTION = {'audio': tf.io.VarLenFeature(tf.float32), 'tags': tf.io.VarLenFeature( tf.string), 'tid': tf.io.VarLenFeature(tf.int64)} # tags will be added just below
 
         assert audio_format in ('waveform', 'log-mel-spectrogram'), 'please provide a valid audio format'
         dataset = tf.data.TFRecordDataset(tfrecords)
@@ -530,7 +530,7 @@ def backend(input, num_output_neurons, num_units=1024):
     return tf.keras.layers.Dense(activation='sigmoid', units=num_output_neurons,
                  kernel_initializer=initializer, name='dense2_back')(dense_dropout)
 
-def build_model(frontend_mode, num_output_neurons=50, y_input=96, num_units=500, num_filts=16, batch_size=16):
+def build_model(frontend_mode, num_output_neurons=25, y_input=96, num_units=500, num_filts=16, batch_size=16):
     ''' Generate the final model by combining frontend and backend.
     
     Parameters

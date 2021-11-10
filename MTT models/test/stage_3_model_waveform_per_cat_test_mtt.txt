@@ -1,0 +1,5 @@
+tags: ['classical', 'slow', 'techno', 'electronic', 'rock', 'fast', 'ambient', 'beat', 'vocal', 'synth', 'female', 'male', 'singing', 'no vocals', 'loud', 'quiet', 'soft', 'new age', 'dance', 'weird', 'choir', 'trance', 'heavy', 'upbeat', 'funky'] ROC_AUC: [81.69 69.69 89.88 81.72 88.26 77.96 62.02 90.65 59.2  72.58 61.6  70.31
+ 61.66 50.33 76.11 77.98 71.9  52.5  89.21 48.   76.87 76.44 95.91 76.19
+ 59.69] ; PR_AUC: [36.   20.91 57.38 33.13 38.72 29.47 16.62 45.85 14.23 18.05 12.58 13.86
+ 10.14  9.14 11.39 22.84  7.15  4.08 20.98  4.71 14.73  3.84  2.    2.85
+  2.81]
